@@ -14,6 +14,7 @@
 - Bougie / quality cheeses; strictly avoids pre-shredded or pre-grated
 - Vegetarian and vegan options are genuinely welcome, not a fallback
 - BBQ — makes it, loves it, but the time commitment is too high for weekly planning. Never suggest it; only assist when asked.
+- Chicken marsala is a favorite — buy marsala as needed, not a pantry staple
 
 ## Dislikes
 
@@ -27,7 +28,7 @@
 - Open to one bigger/more involved cook per week; the rest should be weeknight-friendly
 - Limits beef (not eliminated, just not the default)
 - Pre-shredded/grated cheese is never acceptable — always buy the block
-- Recovering alcoholic — no alcohol kept in the house. Default to non-alcoholic subs (vinegars, stocks, juices) wherever a recipe calls for wine or beer. Marsala is the one standing exception (pantry staple). For crowd meals, wine is acceptable — flag it in advance so it can be planned for and the remainder sent home.
+- Recovering alcoholic — no alcohol kept in the house. Default to non-alcoholic subs (vinegars, stocks, juices) wherever a recipe calls for wine or beer. Marsala is the one alcohol exception — buy as needed per recipe, never stock. For crowd meals, wine is acceptable — flag it in advance so it can be planned for and the remainder sent home.
 
 ## Kitchen and equipment notes
 
