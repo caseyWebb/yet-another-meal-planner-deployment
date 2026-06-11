@@ -15,6 +15,7 @@
 - Vegetarian and vegan options are genuinely welcome, not a fallback
 - BBQ — makes it, loves it, but the time commitment is too high for weekly planning. Never suggest it; only assist when asked.
 - Chicken marsala is a favorite — buy marsala as needed, not a pantry staple
+- **Winter staple: homemade pizza.** Has a pizza steel; picks up Trader Joe's dough. Weekly frequency in winter is normal and welcome — don't treat it as repetitive.
 
 ## Dislikes
 
@@ -29,10 +30,12 @@
 - Limits beef (not eliminated, just not the default)
 - Pre-shredded/grated cheese is never acceptable — always buy the block
 - Recovering alcoholic — no alcohol kept in the house. Default to non-alcoholic subs (vinegars, stocks, juices) wherever a recipe calls for wine or beer. Marsala is the one alcohol exception — buy as needed per recipe, never stock. For crowd meals, wine is acceptable — flag it in advance so it can be planned for and the remainder sent home.
+- **Lunch:** leftovers when available; keeps nicer instant ramens and buldak on hand as a reliable fallback
 
 ## Kitchen and equipment notes
 
 - North Texas — grilling and outdoor cooking season is spring and fall
 - **Summer:** avoid high-temp or long oven cooks (heats the house). Favor Instant Pot, induction cooktop, convection oven (smaller items), and grill
-- **Equipment:** pellet grill, Solo Stove grill top (high-temp searing), induction cooktop, Instant Pot, convection oven
+- **Winter:** homemade pizza on the steel is a weekly fixture; high-heat oven use is fine
+- **Equipment:** pellet grill, Solo Stove grill top (high-temp searing), induction cooktop, Instant Pot, convection oven, pizza steel
 - Induction cooktop and Instant Pot recipes are good year-round
