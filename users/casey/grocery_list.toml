@@ -39,16 +39,6 @@
 # added_at = "2026-06-09"
 
 [[items]]
-name = "cilantro"
-quantity = "1"
-kind = "grocery"
-status = "in_cart"
-source = "menu"
-for_recipes = [ "chicken-chile-verde", "channa-masala" ]
-note = "Also serves as verde garnish"
-added_at = "2026-06-09"
-
-[[items]]
 name = "fresh ginger"
 quantity = "1"
 kind = "grocery"
