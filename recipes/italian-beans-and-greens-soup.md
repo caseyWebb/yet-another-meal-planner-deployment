@@ -10,8 +10,8 @@ tags:
 protein: vegetarian
 cuisine: italian
 style: soup
-time_total: null
-time_active: null
+time_total: 100
+time_active: 15
 servings: 6
 difficulty: medium
 dietary:

@@ -9,8 +9,8 @@ tags:
 protein: shellfish
 cuisine: indian
 style: one-pot
-time_total: null
-time_active: null
+time_total: 75
+time_active: 25
 servings: 2
 difficulty: medium
 dietary:

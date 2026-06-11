@@ -983,8 +983,8 @@
       "comfort-foods",
       "weeknight"
     ],
-    "time_active": null,
-    "time_total": null,
+    "time_active": 30,
+    "time_total": 60,
     "title": "Filthier Cabbage",
     "uses_components": [],
     "veg_forward": false
@@ -1304,8 +1304,8 @@
       "beans",
       "greens"
     ],
-    "time_active": null,
-    "time_total": null,
+    "time_active": 15,
+    "time_total": 100,
     "title": "Italian Beans and Greens Soup",
     "uses_components": [],
     "veg_forward": true
@@ -2184,8 +2184,8 @@
       "one-pot",
       "weeknight"
     ],
-    "time_active": null,
-    "time_total": null,
+    "time_active": 25,
+    "time_total": 75,
     "title": "Shrimp with Cilantro Sauce",
     "uses_components": [],
     "veg_forward": false
