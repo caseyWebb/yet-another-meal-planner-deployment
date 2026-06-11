@@ -38,13 +38,5 @@
 # for_recipes = []
 # added_at = "2026-06-09"
 
-[[items]]
-name = "2x4 lumber"
-quantity = "2"
-kind = "grocery"
-domain = "home-improvement"
-status = "active"
-source = "ad_hoc"
-for_recipes = []
-added_at = "2026-06-11"
+items = []
 
