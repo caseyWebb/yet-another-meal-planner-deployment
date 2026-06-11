@@ -1,0 +1,23 @@
+# stores/west-7th-tom-thumb.toml — objective store content (shared, unattributed).
+# Aisle order is the walk path; item_locations/doesnt_carry are sparse (grown from the walk).
+
+slug = "west-7th-tom-thumb"
+name = "Tom Thumb – West 7th"
+chain = "Tom Thumb"
+address = "West 7th St, Fort Worth, TX"
+domain = "grocery"
+
+[[aisles]]
+number = 1
+label = "Produce & Herbs"
+sections = [ "produce", "fresh herbs" ]
+
+[[aisles]]
+number = 6
+label = "Oils & International"
+sections = [ "cooking oils", "international foods", "condiments" ]
+
+[[aisles]]
+label = "Back Wall"
+sections = [ "meat", "seafood" ]
+
