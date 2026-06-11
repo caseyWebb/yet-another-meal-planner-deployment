@@ -27,7 +27,7 @@
 
 - Prefers ingredients that are reasonably accessible — no ingredient hunts for obscure items
 - Open to one bigger/more involved cook per week; the rest should be weeknight-friendly
-- Limits beef (not eliminated, just not the default)
+- Limits beef (not eliminated, just not the default); **routinely subs ground turkey for ground beef** — apply this substitution by default in ground beef recipes unless told otherwise
 - Pre-shredded/grated cheese is never acceptable — always buy the block
 - Recovering alcoholic — no alcohol kept in the house. Default to non-alcoholic subs (vinegars, stocks, juices) wherever a recipe calls for wine or beer. Marsala is the one alcohol exception — buy as needed per recipe, never stock. For crowd meals, wine is acceptable — flag it in advance so it can be planned for and the remainder sent home.
 - **Lunch:** leftovers when available; keeps nicer instant ramens and buldak on hand as a reliable fallback
