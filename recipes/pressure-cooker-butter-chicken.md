@@ -17,6 +17,9 @@ dietary:
   - gluten-free
 season: []
 veg_forward: false
+requires_equipment:
+  - pressure-cooker
+  - blender
 discovered_at: null
 discovery_source: null
 ingredients_key:
