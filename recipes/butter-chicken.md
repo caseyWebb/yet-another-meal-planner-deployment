@@ -34,6 +34,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/stovetop-butter-chicken'
+perishable_ingredients: [chicken thighs, greek yogurt, heavy cream]
 ---
 ## Ingredients
 

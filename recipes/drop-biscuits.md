@@ -29,6 +29,7 @@ meal_preppable: false
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/quick-easy-drop-biscuits-recipe'
+perishable_ingredients: [milk]
 ---
 ## Ingredients
 

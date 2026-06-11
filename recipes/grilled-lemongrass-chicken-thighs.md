@@ -30,6 +30,7 @@ tags:
 time_active: 30
 time_total: 40
 title: Grilled Lemongrass Chicken Thighs
+perishable_ingredients: [lemongrass, serrano chile, chicken thighs, cucumber, cilantro]
 ---
 Vietnamese-style lemongrass chicken thighs where the blender marinade doubles as the final dressing. Works on grill or grill pan.
 

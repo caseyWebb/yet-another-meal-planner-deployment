@@ -30,6 +30,7 @@ uses_components: []
 produces_components: []
 source: >-
   https://www.seriouseats.com/pasta-burro-e-alici-pasta-with-creamy-anchovy-butter-sauce-recipe-11859455
+perishable_ingredients: [parsley]
 ---
 ## Ingredients
 

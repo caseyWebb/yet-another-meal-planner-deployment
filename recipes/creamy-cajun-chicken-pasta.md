@@ -30,6 +30,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.budgetbytes.com/one-pot-creamy-cajun-chicken-pasta/'
+perishable_ingredients: [chicken breast, cream cheese, scallions]
 ---
 ## Ingredients
 

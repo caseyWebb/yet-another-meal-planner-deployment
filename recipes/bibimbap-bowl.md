@@ -32,6 +32,7 @@ time_total: 35
 title: Bibimbap Bowl
 uses_components: []
 veg_forward: false
+perishable_ingredients: [spinach, ground beef, cucumber, scallions]
 ---
 ## Ingredients
 

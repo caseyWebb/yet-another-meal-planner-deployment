@@ -30,6 +30,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/frijoles-charros-mexican-pinto-beans-bacon-recipe'
+perishable_ingredients: [serrano chile, cilantro]
 ---
 ## Ingredients
 

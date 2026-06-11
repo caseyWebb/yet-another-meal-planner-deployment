@@ -33,6 +33,7 @@ meal_preppable: false
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/pressure-cooker-corn-risotto'
+perishable_ingredients: [corn, thyme, heavy cream]
 ---
 ## Ingredients
 

@@ -33,6 +33,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe'
+perishable_ingredients: [chicken livers, ground beef, ground pork, ground lamb, sage, parsley, milk, heavy cream]
 ---
 ## Ingredients
 

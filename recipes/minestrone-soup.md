@@ -30,6 +30,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/the-best-minestrone-soup-recipe'
+perishable_ingredients: [rosemary, parsley, tomatoes, zucchini, summer squash, green beans, spinach, basil]
 ---
 ## Ingredients
 

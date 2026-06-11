@@ -33,6 +33,7 @@ uses_components:
 produces_components: []
 source: >-
   https://www.seriouseats.com/no-holds-barred-lasagna-bolognese-pasta-italian-homemade-ricotta
+perishable_ingredients: [ground lamb, ground pork, ground veal, chicken livers, sage, basil, parsley, milk, heavy cream, ricotta, mozzarella]
 ---
 ## Ingredients
 

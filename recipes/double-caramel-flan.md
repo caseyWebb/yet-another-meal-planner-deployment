@@ -31,6 +31,7 @@ meal_preppable: false
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/double-caramel-flan-recipe'
+perishable_ingredients: [heavy cream, milk]
 ---
 ## Ingredients
 

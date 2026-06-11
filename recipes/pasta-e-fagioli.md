@@ -31,6 +31,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.budgetbytes.com/pasta-e-fagioli/'
+perishable_ingredients: [parsley]
 ---
 ## Ingredients
 

@@ -35,6 +35,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/pasta-e-fagioli-italian-bean-pasta-soup-recipe'
+perishable_ingredients: [sage, rosemary]
 ---
 ## Ingredients
 

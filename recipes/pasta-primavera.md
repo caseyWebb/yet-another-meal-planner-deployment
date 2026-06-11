@@ -34,6 +34,7 @@ time_total: 45
 title: Pasta Primavera
 uses_components: []
 veg_forward: true
+perishable_ingredients: [zucchini, asparagus, heavy cream, basil]
 ---
 ## Ingredients
 

@@ -31,6 +31,7 @@ uses_components: []
 produces_components: []
 source: >-
   https://www.seriouseats.com/cast-iron-cooking-crispy-baked-pasta-mushrooms-sausage-parmesan-cream-sauce-recipe
+perishable_ingredients: [parsley, chives, italian sausage, mushrooms, heavy cream]
 ---
 ## Ingredients
 

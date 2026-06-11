@@ -30,6 +30,7 @@ uses_components: []
 produces_components: []
 source: >-
   http://www.gourmet.com.s3-website-us-east-1.amazonaws.com/recipes/2000s/2003/01/turkey-meatloaf.html
+perishable_ingredients: [mushrooms, parsley, milk, ground turkey]
 ---
 ## Ingredients
 

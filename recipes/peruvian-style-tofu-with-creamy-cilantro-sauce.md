@@ -37,6 +37,7 @@ ingredients_key:
   - soy sauce
   - lime juice
   - mayonnaise
+perishable_ingredients: [tofu, cilantro, scallions, avocado, serrano chile]
 ---
 ## Ingredients
 

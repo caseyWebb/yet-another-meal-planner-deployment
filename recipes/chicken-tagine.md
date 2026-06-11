@@ -29,6 +29,7 @@ uses_components: []
 produces_components: []
 source: >-
   https://www.seriouseats.com/chicken-and-dried-fig-tagine-with-pistachios-and-chickpeas
+perishable_ingredients: [chicken legs, mint, cilantro, parsley]
 ---
 ## Ingredients
 

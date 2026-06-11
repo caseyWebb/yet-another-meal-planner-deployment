@@ -32,6 +32,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: null
+perishable_ingredients: [mushrooms, thyme, milk, ground beef, parsley, chives]
 ---
 ## Ingredients
 

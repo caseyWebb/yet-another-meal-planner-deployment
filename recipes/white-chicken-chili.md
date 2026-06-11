@@ -35,6 +35,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/white-chili-with-chicken-best'
+perishable_ingredients: [poblano, anaheim chile, jalapeño, chicken breast, cilantro, scallions]
 ---
 ## Ingredients
 

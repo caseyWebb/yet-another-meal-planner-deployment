@@ -30,6 +30,7 @@ ingredients_key:
   - hoisin sauce
   - oyster sauce
   - Shaoxing wine
+perishable_ingredients: [pork shoulder, scallions]
 ---
 Classic Chinese-American stir-fry with pork, egg, cabbage, and mushrooms, served in thin moo shu pancakes with hoisin sauce.
 

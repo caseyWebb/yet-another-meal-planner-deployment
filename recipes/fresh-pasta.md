@@ -27,6 +27,7 @@ uses_components: []
 produces_components:
   - fresh-pasta
 source: 'https://www.seriouseats.com/fresh-egg-pasta'
+perishable_ingredients: []
 ---
 ## Ingredients
 

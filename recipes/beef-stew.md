@@ -36,6 +36,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/all-american-beef-stew-recipe'
+perishable_ingredients: [beef chuck, mushrooms, thyme]
 ---
 ## Ingredients
 

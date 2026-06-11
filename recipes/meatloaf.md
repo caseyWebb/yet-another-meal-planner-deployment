@@ -30,6 +30,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/the-food-lab-all-american-meatloaf-excerpt-recipe'
+perishable_ingredients: [buttermilk, mushrooms, ground pork, ground beef, parsley]
 ---
 ## Ingredients
 

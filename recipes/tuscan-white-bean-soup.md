@@ -32,6 +32,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/30-minute-tuscan-white-bean-soup-recipe'
+perishable_ingredients: [rosemary, kale]
 ---
 ## Ingredients
 

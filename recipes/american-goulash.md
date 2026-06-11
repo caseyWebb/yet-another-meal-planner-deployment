@@ -32,6 +32,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.budgetbytes.com/goulash/'
+perishable_ingredients: [ground beef]
 ---
 ## Ingredients
 
