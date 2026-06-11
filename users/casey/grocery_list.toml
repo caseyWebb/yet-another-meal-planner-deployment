@@ -38,12 +38,5 @@
 # for_recipes = []
 # added_at = "2026-06-09"
 
-[[items]]
-name = "whole peeled tomatoes"
-quantity = "1 can"
-kind = "grocery"
-status = "in_cart"
-source = "menu"
-for_recipes = [ "channa-masala" ]
-added_at = "2026-06-11"
+items = []
 
