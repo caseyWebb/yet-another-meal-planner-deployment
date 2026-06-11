@@ -39,16 +39,6 @@
 # added_at = "2026-06-09"
 
 [[items]]
-name = "salmon"
-quantity = "2.5 lb"
-kind = "grocery"
-status = "in_cart"
-source = "menu"
-for_recipes = [ "honey-mustard-salmon" ]
-note = "Aqua Star Wild Pacific on sale $9.99/1.25 lb — buy 2 packs"
-added_at = "2026-06-11"
-
-[[items]]
 name = "grainy mustard"
 quantity = "1"
 kind = "grocery"
