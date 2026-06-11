@@ -16,6 +16,11 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "ground beef",
+      "parsley",
+      "mozzarella"
+    ],
     "produces_components": [],
     "protein": "beef",
     "requires_equipment": [],
@@ -56,6 +61,9 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "ground beef"
+    ],
     "produces_components": [],
     "protein": "beef",
     "requires_equipment": [],
@@ -98,6 +106,10 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken thighs",
+      "scallions"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
@@ -140,6 +152,11 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "beef chuck",
+      "mushrooms",
+      "thyme"
+    ],
     "produces_components": [],
     "protein": "beef",
     "requires_equipment": [],
@@ -185,6 +202,12 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "spinach",
+      "ground beef",
+      "cucumber",
+      "scallions"
+    ],
     "produces_components": [],
     "protein": "beef",
     "requires_equipment": [],
@@ -224,6 +247,16 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken livers",
+      "ground beef",
+      "ground pork",
+      "ground lamb",
+      "sage",
+      "parsley",
+      "milk",
+      "heavy cream"
+    ],
     "produces_components": [],
     "protein": "mixed",
     "requires_equipment": [],
@@ -266,6 +299,7 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [],
     "produces_components": [],
     "protein": "pork",
     "requires_equipment": [],
@@ -308,6 +342,11 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken thighs",
+      "greek yogurt",
+      "heavy cream"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [
@@ -354,6 +393,10 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "thai chile",
+      "cilantro"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -393,6 +436,10 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken legs",
+      "scallions"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
@@ -429,6 +476,11 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken legs",
+      "cilantro",
+      "sour cream"
+    ],
     "produces_components": [],
     "protein": "mixed",
     "requires_equipment": [],
@@ -465,6 +517,13 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken",
+      "thyme",
+      "parsley",
+      "sour cream",
+      "milk"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
@@ -506,6 +565,10 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken thighs",
+      "parsley"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
@@ -544,6 +607,14 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken thighs",
+      "poblano",
+      "tomatillos",
+      "anaheim chile",
+      "serrano chile",
+      "cilantro"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
@@ -581,6 +652,12 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken legs",
+      "mint",
+      "cilantro",
+      "parsley"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
@@ -618,6 +695,10 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "rosemary",
+      "parsley"
+    ],
     "produces_components": [],
     "protein": "pork",
     "requires_equipment": [],
@@ -656,6 +737,13 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "salmon",
+      "romaine lettuce",
+      "avocado",
+      "cherry tomatoes",
+      "goat cheese"
+    ],
     "produces_components": [],
     "protein": "fish",
     "requires_equipment": [],
@@ -695,6 +783,11 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "corn",
+      "thyme",
+      "heavy cream"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -735,6 +828,11 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken breast",
+      "cream cheese",
+      "scallions"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
@@ -773,6 +871,12 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken breast",
+      "milk",
+      "cream cheese",
+      "spinach"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
@@ -811,6 +915,13 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "parsley",
+      "chives",
+      "italian sausage",
+      "mushrooms",
+      "heavy cream"
+    ],
     "produces_components": [],
     "protein": "pork",
     "requires_equipment": [],
@@ -851,6 +962,10 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "heavy cream",
+      "milk"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -889,6 +1004,9 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "milk"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -929,6 +1047,11 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "scallions",
+      "parsley",
+      "lettuce"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -967,6 +1090,11 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "ground beef",
+      "jalapeño",
+      "parsley"
+    ],
     "produces_components": [],
     "protein": "beef",
     "requires_equipment": [],
@@ -1004,6 +1132,7 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [],
     "produces_components": [
       "fresh-pasta"
     ],
@@ -1044,6 +1173,9 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "scallions"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -1084,6 +1216,10 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "serrano chile",
+      "cilantro"
+    ],
     "produces_components": [],
     "protein": "pork",
     "requires_equipment": [],
@@ -1124,6 +1260,10 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken",
+      "scallions"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
@@ -1161,6 +1301,12 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken breast",
+      "cream cheese",
+      "cilantro",
+      "scallions"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
@@ -1206,6 +1352,13 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "lemongrass",
+      "serrano chile",
+      "chicken thighs",
+      "cucumber",
+      "cilantro"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
@@ -1244,6 +1397,9 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "salmon"
+    ],
     "produces_components": [],
     "protein": "fish",
     "requires_equipment": [],
@@ -1285,6 +1441,9 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "escarole"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -1326,6 +1485,9 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "milk"
+    ],
     "produces_components": [],
     "protein": "mixed",
     "requires_equipment": [],
@@ -1368,6 +1530,19 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "ground lamb",
+      "ground pork",
+      "ground veal",
+      "chicken livers",
+      "sage",
+      "basil",
+      "parsley",
+      "milk",
+      "heavy cream",
+      "ricotta",
+      "mozzarella"
+    ],
     "produces_components": [],
     "protein": "mixed",
     "requires_equipment": [],
@@ -1408,6 +1583,13 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "buttermilk",
+      "mushrooms",
+      "ground pork",
+      "ground beef",
+      "parsley"
+    ],
     "produces_components": [],
     "protein": "mixed",
     "requires_equipment": [],
@@ -1447,6 +1629,16 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "rosemary",
+      "parsley",
+      "tomatoes",
+      "zucchini",
+      "summer squash",
+      "green beans",
+      "spinach",
+      "basil"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -1486,6 +1678,10 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "tofu",
+      "scallions"
+    ],
     "produces_components": [],
     "protein": "fish",
     "requires_equipment": [],
@@ -1524,6 +1720,11 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "beef chuck",
+      "dill",
+      "buttermilk"
+    ],
     "produces_components": [],
     "protein": "beef",
     "requires_equipment": [],
@@ -1563,6 +1764,10 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "pork shoulder",
+      "scallions"
+    ],
     "produces_components": [],
     "protein": "pork",
     "requires_equipment": [],
@@ -1603,6 +1808,10 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "parsley",
+      "cilantro"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -1640,6 +1849,11 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "mushrooms",
+      "thyme",
+      "chives"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -1677,6 +1891,10 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "ground pork",
+      "heavy cream"
+    ],
     "produces_components": [],
     "protein": "pork",
     "requires_equipment": [],
@@ -1714,6 +1932,9 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "parsley"
+    ],
     "produces_components": [],
     "protein": "fish",
     "requires_equipment": [],
@@ -1751,6 +1972,9 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "parsley"
+    ],
     "produces_components": [],
     "protein": "pork",
     "requires_equipment": [],
@@ -1795,6 +2019,10 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "sage",
+      "rosemary"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [
@@ -1839,6 +2067,12 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "zucchini",
+      "asparagus",
+      "heavy cream",
+      "basil"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -1879,6 +2113,11 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "italian sausage",
+      "feta",
+      "parsley"
+    ],
     "produces_components": [],
     "protein": "pork",
     "requires_equipment": [],
@@ -1922,6 +2161,13 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "tofu",
+      "cilantro",
+      "scallions",
+      "avocado",
+      "serrano chile"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -1966,6 +2212,11 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken",
+      "tomatoes",
+      "cilantro"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
@@ -2004,6 +2255,11 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken thighs",
+      "greek yogurt",
+      "heavy cream"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [
@@ -2047,6 +2303,14 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "eggplant",
+      "zucchini",
+      "yellow squash",
+      "tomatoes",
+      "mozzarella",
+      "parsley"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -2085,6 +2349,9 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "sour cream"
+    ],
     "produces_components": [],
     "protein": "beef",
     "requires_equipment": [],
@@ -2125,6 +2392,13 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "kale",
+      "mint",
+      "oregano",
+      "pomegranate seeds",
+      "salmon"
+    ],
     "produces_components": [],
     "protein": "fish",
     "requires_equipment": [],
@@ -2169,6 +2443,11 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "cilantro",
+      "thai chile",
+      "shrimp"
+    ],
     "produces_components": [],
     "protein": "shellfish",
     "requires_equipment": [],
@@ -2205,6 +2484,9 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "ground beef"
+    ],
     "produces_components": [],
     "protein": "beef",
     "requires_equipment": [],
@@ -2242,6 +2524,9 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "spinach"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -2280,6 +2565,12 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "thyme",
+      "oregano",
+      "cheese tortellini",
+      "spinach"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -2316,6 +2607,10 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "italian sausage",
+      "parsley"
+    ],
     "produces_components": [],
     "protein": "pork",
     "requires_equipment": [],
@@ -2357,6 +2652,9 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "sage"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -2397,6 +2695,9 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "beef"
+    ],
     "produces_components": [],
     "protein": "beef",
     "requires_equipment": [],
@@ -2437,6 +2738,14 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "mushrooms",
+      "thyme",
+      "milk",
+      "ground beef",
+      "parsley",
+      "chives"
+    ],
     "produces_components": [],
     "protein": "beef",
     "requires_equipment": [],
@@ -2480,6 +2789,12 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "cheese tortellini",
+      "heavy cream",
+      "spinach",
+      "basil"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -2517,6 +2832,14 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "leek",
+      "mushrooms",
+      "thyme",
+      "heavy cream",
+      "dill",
+      "chives"
+    ],
     "produces_components": [],
     "protein": "fish",
     "requires_equipment": [],
@@ -2554,6 +2877,12 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "mushrooms",
+      "parsley",
+      "milk",
+      "ground turkey"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
@@ -2593,6 +2922,10 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "rosemary",
+      "kale"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -2633,6 +2966,10 @@
     ],
     "meal_preppable": false,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "ricotta",
+      "parsley"
+    ],
     "produces_components": [],
     "protein": "vegetarian",
     "requires_equipment": [],
@@ -2674,6 +3011,9 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "beef chuck"
+    ],
     "produces_components": [],
     "protein": "beef",
     "requires_equipment": [],
@@ -2713,6 +3053,14 @@
     ],
     "meal_preppable": true,
     "pairs_with": [],
+    "perishable_ingredients": [
+      "poblano",
+      "anaheim chile",
+      "jalapeño",
+      "chicken breast",
+      "cilantro",
+      "scallions"
+    ],
     "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [
