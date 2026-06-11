@@ -9,3 +9,10 @@
 #   [[senders]]
 #   address = "cooking@nytimes.com"
 #   name = "NYT Cooking"
+
+senders = []
+
+[[members]]
+address = "casey@dirtbag.social"
+name = "Casey"
+
