@@ -125,3 +125,24 @@ sku = "0004280011400"
 size = "10.2 oz"
 locationId = "03500520"
 
+[[mappings]]
+ingredient = "salmon"
+sku = "0073114951527"
+brand = "Aqua Star"
+size = "1.25 lb"
+locationId = "03500520"
+
+[[mappings]]
+ingredient = "parmesan wedge"
+sku = "0001111063678"
+brand = "Private Selection"
+size = "8 oz"
+locationId = "03500520"
+
+[[mappings]]
+ingredient = "whole peeled tomatoes"
+sku = "0007236856619"
+brand = "DeLallo"
+size = "28 oz"
+locationId = "03500520"
+
