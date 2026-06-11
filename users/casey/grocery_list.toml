@@ -58,15 +58,6 @@ note = "Fresh — $0.99/lb, need ~1.5 lb"
 added_at = "2026-06-09"
 
 [[items]]
-name = "poblano peppers"
-quantity = "1"
-kind = "grocery"
-status = "in_cart"
-source = "menu"
-for_recipes = [ "chicken-chile-verde" ]
-added_at = "2026-06-09"
-
-[[items]]
 name = "cilantro"
 quantity = "1"
 kind = "grocery"
