@@ -39,16 +39,6 @@
 # added_at = "2026-06-09"
 
 [[items]]
-name = "parmesan wedge"
-quantity = "1"
-kind = "grocery"
-status = "in_cart"
-source = "menu"
-for_recipes = [ "pasta-alla-norcina" ]
-note = "Block only — no pre-shredded"
-added_at = "2026-06-11"
-
-[[items]]
 name = "whole peeled tomatoes"
 quantity = "1 can"
 kind = "grocery"
