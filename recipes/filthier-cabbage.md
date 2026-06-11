@@ -10,8 +10,8 @@ tags:
 protein: beef
 cuisine: cajun
 style: braise
-time_total: null
-time_active: null
+time_total: 60
+time_active: 30
 servings: 6
 difficulty: easy
 dietary: []
