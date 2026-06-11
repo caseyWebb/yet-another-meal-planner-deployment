@@ -215,3 +215,12 @@ for_recipes = [ "pasta-alla-norcina" ]
 note = "Block only — no pre-shredded"
 added_at = "2026-06-11"
 
+[[items]]
+name = "serrano pepper"
+quantity = "1"
+kind = "grocery"
+status = "active"
+source = "menu"
+for_recipes = [ "chicken-chile-verde" ]
+added_at = "2026-06-11"
+
