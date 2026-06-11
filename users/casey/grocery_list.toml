@@ -39,16 +39,6 @@
 # added_at = "2026-06-09"
 
 [[items]]
-name = "fresh ginger"
-quantity = "1"
-kind = "grocery"
-status = "in_cart"
-source = "menu"
-for_recipes = [ "arroz-caldo", "channa-masala" ]
-note = "Spice World Fresh Peeled Ginger 7oz — $3.99"
-added_at = "2026-06-09"
-
-[[items]]
 name = "heavy cream"
 quantity = "1 pint"
 kind = "grocery"
