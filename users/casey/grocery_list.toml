@@ -39,16 +39,6 @@
 # added_at = "2026-06-09"
 
 [[items]]
-name = "heavy cream"
-quantity = "1 pint"
-kind = "grocery"
-status = "in_cart"
-source = "menu"
-for_recipes = [ "pasta-alla-norcina" ]
-note = "Kroger Heavy Whipping Cream pint — $3.29"
-added_at = "2026-06-09"
-
-[[items]]
 name = "garlic"
 quantity = "1"
 kind = "grocery"
