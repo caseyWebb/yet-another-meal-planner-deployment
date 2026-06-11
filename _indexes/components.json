@@ -1,4 +1,12 @@
 {
+  "corn-stock": {
+    "produced_by": [
+      "corn-stock"
+    ],
+    "used_by": [
+      "corn-risotto"
+    ]
+  },
   "fresh-pasta": {
     "produced_by": [
       "fresh-pasta"
