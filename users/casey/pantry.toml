@@ -218,11 +218,6 @@ name = "penne"
 [[items]]
 added_at = "2026-06-09"
 last_verified_at = "2026-06-09"
-name = "dried pasta"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
 name = "jasmine rice"
 
 [[items]]
@@ -244,4 +239,14 @@ name = "garlic"
 added_at = "2026-06-09"
 last_verified_at = "2026-06-09"
 name = "butter"
+
+[[items]]
+added_at = "2026-06-11"
+last_verified_at = "2026-06-11"
+name = "spaghetti"
+
+[[items]]
+added_at = "2026-06-11"
+last_verified_at = "2026-06-11"
+name = "rigatoni"
 
