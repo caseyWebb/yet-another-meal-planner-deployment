@@ -119,3 +119,9 @@ sku = "0000000004677"
 ingredient = "serrano peppers"
 sku = "0000000004709"
 
+[[mappings]]
+ingredient = "frozen pizza"
+sku = "0004280011400"
+size = "10.2 oz"
+locationId = "03500520"
+
