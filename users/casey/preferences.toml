@@ -4,6 +4,7 @@ preferred_location = "Kroger - 76104"
 
 [defaults]
 default_cooking_nights = 3
+lunch_strategy = "leftovers when available; instant ramen and buldak as fallback"
 
 [brands]
 paper_towels = ["Viva"]
