@@ -39,3 +39,4 @@
 - **Winter:** homemade pizza on the steel is a weekly fixture; high-heat oven use is fine
 - **Equipment:** pellet grill, Solo Stove grill top (high-temp searing), induction cooktop, Instant Pot, convection oven, pizza steel
 - Induction cooktop and Instant Pot recipes are good year-round
+- **Garden:** grows peppers (including superhots) and tomatoes — never buy these; use garden supply instead
