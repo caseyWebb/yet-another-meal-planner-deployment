@@ -39,16 +39,6 @@
 # added_at = "2026-06-09"
 
 [[items]]
-name = "tomatillos"
-quantity = "1.5 lb"
-kind = "grocery"
-status = "in_cart"
-source = "menu"
-for_recipes = [ "chicken-chile-verde" ]
-note = "Fresh — $0.99/lb, need ~1.5 lb"
-added_at = "2026-06-09"
-
-[[items]]
 name = "cilantro"
 quantity = "1"
 kind = "grocery"
