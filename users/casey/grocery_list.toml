@@ -39,15 +39,6 @@
 # added_at = "2026-06-09"
 
 [[items]]
-name = "garlic"
-quantity = "1"
-kind = "grocery"
-status = "active"
-source = "menu"
-for_recipes = [ "honey-mustard-salmon", "channa-masala", "pasta-alla-norcina", "chicken-chile-verde" ]
-added_at = "2026-06-11"
-
-[[items]]
 name = "yellow onion"
 quantity = "1"
 kind = "grocery"
