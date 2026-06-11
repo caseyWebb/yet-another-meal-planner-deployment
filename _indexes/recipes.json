@@ -159,6 +159,44 @@
     "uses_components": [],
     "veg_forward": false
   },
+  "bibimbap-bowl": {
+    "cuisine": "korean",
+    "dietary": [
+      "dairy-free"
+    ],
+    "difficulty": "easy",
+    "discovered_at": "2026-06-11",
+    "discovery_source": "Budget Bytes RSS",
+    "ingredients_key": [
+      "ground beef",
+      "jasmine rice",
+      "spinach",
+      "kimchi",
+      "chili garlic sauce",
+      "eggs"
+    ],
+    "meal_preppable": true,
+    "produces_components": [],
+    "protein": "beef",
+    "season": [],
+    "servings": 4,
+    "slug": "bibimbap-bowl",
+    "source": "https://www.budgetbytes.com/bibimbap",
+    "style": "bowl",
+    "tags": [
+      "korean",
+      "beef",
+      "rice",
+      "bowl",
+      "weeknight",
+      "meal-prep"
+    ],
+    "time_active": 15,
+    "time_total": 35,
+    "title": "Bibimbap Bowl",
+    "uses_components": [],
+    "veg_forward": false
+  },
   "bolognese-sauce": {
     "cuisine": "italian",
     "dietary": [],
@@ -2053,6 +2091,43 @@
     "title": "Spinach Tortellini Soup",
     "uses_components": [],
     "veg_forward": true
+  },
+  "stuffed-pepper-skillet": {
+    "cuisine": "american",
+    "dietary": [],
+    "difficulty": "easy",
+    "discovered_at": "2026-06-11",
+    "discovery_source": "Budget Bytes RSS",
+    "ingredients_key": [
+      "ground Italian sausage",
+      "bell peppers",
+      "long grain rice",
+      "beef broth",
+      "diced tomatoes",
+      "colby jack cheese"
+    ],
+    "meal_preppable": true,
+    "produces_components": [],
+    "protein": "pork",
+    "season": [],
+    "servings": 6,
+    "slug": "stuffed-pepper-skillet",
+    "source": "https://www.budgetbytes.com/stuffed-pepper-skillet",
+    "style": "one-pot",
+    "tags": [
+      "american",
+      "pork",
+      "sausage",
+      "one-pot",
+      "weeknight",
+      "rice",
+      "skillet"
+    ],
+    "time_active": 20,
+    "time_total": 40,
+    "title": "Stuffed Pepper Skillet",
+    "uses_components": [],
+    "veg_forward": false
   },
   "sweet-potato-gnocchi": {
     "cuisine": "italian",
