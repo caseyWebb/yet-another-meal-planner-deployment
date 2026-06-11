@@ -33,6 +33,7 @@ meal_preppable: false
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/arroz-caldo-chicken-rice-soup-recipe'
+perishable_ingredients: [chicken thighs, scallions]
 ---
 ## Ingredients
 

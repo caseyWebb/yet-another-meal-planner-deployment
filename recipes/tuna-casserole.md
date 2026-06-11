@@ -29,6 +29,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.bonappetit.com/recipe/tuna-casserole'
+perishable_ingredients: [leek, mushrooms, thyme, heavy cream, dill, chives]
 ---
 ## Ingredients
 

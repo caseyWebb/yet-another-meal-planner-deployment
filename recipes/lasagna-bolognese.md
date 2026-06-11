@@ -32,6 +32,7 @@ uses_components:
   - fresh-pasta
 produces_components: []
 source: 'https://www.seriouseats.com/lasagna-bolognese-al-forno-recipe'
+perishable_ingredients: [milk]
 ---
 ## Ingredients
 

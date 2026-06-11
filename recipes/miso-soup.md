@@ -30,6 +30,7 @@ meal_preppable: false
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/rustic-miso-soup-tofu-seaweed-recipe'
+perishable_ingredients: [tofu, scallions]
 ---
 ## Ingredients
 

@@ -31,6 +31,7 @@ meal_preppable: false
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/easy-vegetable-fried-rice-recipe'
+perishable_ingredients: [scallions]
 ---
 ## Ingredients
 

@@ -30,6 +30,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/moroccan-egg-drop-harira-recipe-7109917'
+perishable_ingredients: [parsley, cilantro]
 ---
 ## Ingredients
 

@@ -30,6 +30,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.budgetbytes.com/pasta-with-sausage-and-peppers/'
+perishable_ingredients: [italian sausage, feta, parsley]
 ---
 ## Ingredients
 

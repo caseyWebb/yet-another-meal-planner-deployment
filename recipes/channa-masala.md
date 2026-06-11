@@ -35,6 +35,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/channa-masala-recipe'
+perishable_ingredients: [thai chile, cilantro]
 ---
 ## Ingredients
 

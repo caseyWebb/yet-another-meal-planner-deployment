@@ -30,6 +30,7 @@ uses_components: []
 produces_components: []
 source: >-
   https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-chicken-adobo-3649636
+perishable_ingredients: [chicken legs, scallions]
 ---
 ## Ingredients
 

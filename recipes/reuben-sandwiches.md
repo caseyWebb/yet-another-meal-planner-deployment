@@ -28,6 +28,7 @@ meal_preppable: false
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/reuben-sandwich-corned-beef-rye-recipe'
+perishable_ingredients: [sour cream]
 ---
 ## Ingredients
 

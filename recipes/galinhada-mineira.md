@@ -32,6 +32,7 @@ uses_components: []
 produces_components: []
 source: >-
   https://www.seriouseats.com/galinhada-mineira-brazilian-chicken-and-rice-from-minas-gerais-recipe-7229603
+perishable_ingredients: [chicken, scallions]
 ---
 ## Ingredients
 

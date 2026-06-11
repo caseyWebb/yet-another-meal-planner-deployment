@@ -32,6 +32,7 @@ uses_components: []
 produces_components: []
 source: >-
   https://www.seriouseats.com/johnny-marzetti-beefaroni-hamburger-helper-goulash-italian-american-recipe
+perishable_ingredients: [ground beef, parsley, mozzarella]
 ---
 ## Ingredients
 

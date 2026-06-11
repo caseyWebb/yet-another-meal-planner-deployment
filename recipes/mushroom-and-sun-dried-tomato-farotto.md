@@ -29,6 +29,7 @@ meal_preppable: false
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/mushroom-sundried-tomato-farrotto-recipe-8772336'
+perishable_ingredients: [mushrooms, thyme, chives]
 ---
 ## Ingredients
 

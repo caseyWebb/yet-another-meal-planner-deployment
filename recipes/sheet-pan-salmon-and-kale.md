@@ -33,6 +33,7 @@ meal_preppable: false
 uses_components: []
 produces_components: []
 source: null
+perishable_ingredients: [kale, mint, oregano, pomegranate seeds, salmon]
 ---
 ## Ingredients
 

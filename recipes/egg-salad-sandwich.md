@@ -31,6 +31,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/the-best-egg-salad-recipe'
+perishable_ingredients: [scallions, parsley, lettuce]
 ---
 ## Ingredients
 

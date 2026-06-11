@@ -32,6 +32,7 @@ meal_preppable: false
 uses_components: []
 produces_components: []
 source: 'https://www.budgetbytes.com/oven-roasted-ratatouille/'
+perishable_ingredients: [eggplant, zucchini, yellow squash, tomatoes, mozzarella, parsley]
 ---
 ## Ingredients
 

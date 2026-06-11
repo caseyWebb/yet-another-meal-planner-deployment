@@ -30,6 +30,7 @@ uses_components: []
 produces_components: []
 source: >-
   https://www.jamieoliver.com/recipes/eggs/potato-and-chorizo-omelette-with-a-kinda-parsley-salad/
+perishable_ingredients: [rosemary, parsley]
 ---
 ## Ingredients
 

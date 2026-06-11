@@ -32,6 +32,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: null
+perishable_ingredients: [sage]
 ---
 ## Ingredients
 

@@ -29,6 +29,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.budgetbytes.com/one-pot-chicken-and-rice/'
+perishable_ingredients: [chicken thighs, parsley]
 ---
 ## Ingredients
 

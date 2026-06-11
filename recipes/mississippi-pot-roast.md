@@ -29,6 +29,7 @@ meal_preppable: true
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/mississippi-pot-roast-recipe-8774586'
+perishable_ingredients: [beef chuck, dill, buttermilk]
 ---
 ## Ingredients
 

@@ -29,6 +29,7 @@ meal_preppable: false
 uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/pasta-alla-norcina-creamy-pasta-with-sausage'
+perishable_ingredients: [ground pork, heavy cream]
 ---
 ## Ingredients
 

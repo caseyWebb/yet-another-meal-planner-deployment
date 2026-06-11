@@ -32,6 +32,7 @@ source: https://www.budgetbytes.com/stuffed-pepper-skillet
 status: draft
 discovered_at: '2026-06-11'
 discovery_source: Budget Bytes RSS
+perishable_ingredients: [italian sausage, parsley]
 ---
 ## Ingredients
 

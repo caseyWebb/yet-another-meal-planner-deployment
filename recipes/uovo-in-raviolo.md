@@ -31,6 +31,7 @@ uses_components:
 produces_components: []
 source: >-
   https://www.seriouseats.com/uovo-in-raviolo-runny-egg-yolk-ravioli-ricotta-recipe
+perishable_ingredients: [ricotta, parsley]
 ---
 ## Ingredients
 
