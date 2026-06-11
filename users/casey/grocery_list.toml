@@ -79,15 +79,6 @@ note = "Kroger Heavy Whipping Cream pint — $3.29"
 added_at = "2026-06-09"
 
 [[items]]
-name = "parmesan"
-quantity = "1"
-kind = "grocery"
-status = "in_cart"
-source = "pantry_low"
-for_recipes = []
-added_at = "2026-06-09"
-
-[[items]]
 name = "garlic"
 quantity = "1"
 kind = "grocery"
