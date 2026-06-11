@@ -224,3 +224,12 @@ source = "menu"
 for_recipes = [ "chicken-chile-verde" ]
 added_at = "2026-06-11"
 
+[[items]]
+name = "canned chickpeas"
+quantity = "2 cans"
+kind = "grocery"
+status = "active"
+source = "menu"
+for_recipes = [ "channa-masala" ]
+added_at = "2026-06-11"
+
