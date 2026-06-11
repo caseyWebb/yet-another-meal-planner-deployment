@@ -1,0 +1,3 @@
+# discoveries_inbox.toml — recipe candidates from forwarded newsletters.
+# Written by the Worker email() handler; read by the agent via read_discovery_inbox.
+# Each [[entries]] is one received message; candidate `url`s are unwrapped canonical links.
