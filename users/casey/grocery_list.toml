@@ -48,3 +48,13 @@ source = "ad_hoc"
 for_recipes = []
 added_at = "2026-06-11"
 
+[[items]]
+name = "tahini"
+quantity = "1"
+kind = "grocery"
+domain = "grocery"
+status = "active"
+source = "ad_hoc"
+for_recipes = []
+added_at = "2026-06-11"
+
