@@ -30,7 +30,8 @@ ingredients_key:
   - pecorino
   - thyme
 meal_preppable: false
-uses_components: []
+uses_components:
+  - corn-stock
 produces_components: []
 source: 'https://www.seriouseats.com/pressure-cooker-corn-risotto'
 perishable_ingredients: [corn, thyme, heavy cream]
@@ -38,7 +39,7 @@ perishable_ingredients: [corn, thyme, heavy cream]
 ## Ingredients
 
 - 2 cups (14 ounces ; 400 g) short-grain rice such as arborio, bomba, or carnaroli
-- 3 1/2 cups (28 ounces ; 820 g) homemade or store-bought low-sodium chicken or vegetable stock
+- 3 1/2 cups (28 ounces ; 820 g) **corn stock** (see the Corn Stock recipe — strip the kernels below first and simmer the bare cobs + leek greens into stock), or low-sodium chicken or vegetable stock
 - 6 ears of corn , shucked
 - 6 tablespoons (3 ounces ; 45 g) unsalted butter , divided
 - 2 small shallots , minced (about 2 ounces ; 60 g)

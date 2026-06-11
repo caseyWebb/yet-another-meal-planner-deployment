@@ -871,6 +871,54 @@
     "time_active": 15,
     "time_total": 30,
     "title": "Corn Risotto",
+    "uses_components": [
+      "corn-stock"
+    ],
+    "veg_forward": true
+  },
+  "corn-stock": {
+    "cuisine": "american",
+    "dietary": [
+      "vegan",
+      "vegetarian",
+      "gluten-free",
+      "dairy-free"
+    ],
+    "difficulty": "easy",
+    "discovered_at": null,
+    "discovery_source": null,
+    "ingredients_key": [
+      "corn cobs",
+      "onion",
+      "carrot",
+      "celery",
+      "leek"
+    ],
+    "meal_preppable": true,
+    "pairs_with": [],
+    "perishable_ingredients": [],
+    "produces_components": [
+      "corn-stock"
+    ],
+    "protein": "vegan",
+    "requires_equipment": [],
+    "season": [
+      "summer"
+    ],
+    "servings": 6,
+    "slug": "corn-stock",
+    "style": "stock",
+    "tags": [
+      "component",
+      "vegan",
+      "vegetarian",
+      "corn",
+      "summer",
+      "make-ahead"
+    ],
+    "time_active": 10,
+    "time_total": 45,
+    "title": "Corn Stock",
     "uses_components": [],
     "veg_forward": true
   },
