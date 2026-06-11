@@ -31,6 +31,7 @@
 - Pre-shredded/grated cheese is never acceptable — always buy the block
 - Recovering alcoholic — no alcohol kept in the house. Default to non-alcoholic subs (vinegars, stocks, juices) wherever a recipe calls for wine or beer. Marsala is the one alcohol exception — buy as needed per recipe, never stock. For crowd meals, wine is acceptable — flag it in advance so it can be planned for and the remainder sent home.
 - **Lunch:** leftovers when available; keeps nicer instant ramens and buldak on hand as a reliable fallback
+- **Canned tomatoes:** prefers San Marzano — default to DeLallo or equivalent when available
 
 ## Kitchen and equipment notes
 
@@ -38,5 +39,5 @@
 - **Summer:** avoid high-temp or long oven cooks (heats the house). Favor Instant Pot, induction cooktop, convection oven (smaller items), and grill
 - **Winter:** homemade pizza on the steel is a weekly fixture; high-heat oven use is fine
 - **Equipment:** pellet grill, Solo Stove grill top (high-temp searing), induction cooktop, Instant Pot, convection oven, pizza steel
-- Induction cooktop and Instant Pot recipes are good year-round
+- Induction cooktop and Instant Pot recipes are good year-month-round
 - **Garden:** grows peppers (including superhots) and tomatoes — never buy these; use garden supply instead
