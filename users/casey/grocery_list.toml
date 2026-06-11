@@ -67,16 +67,6 @@ for_recipes = [ "chicken-chile-verde" ]
 added_at = "2026-06-09"
 
 [[items]]
-name = "Anaheim peppers"
-quantity = "1"
-kind = "grocery"
-status = "in_cart"
-source = "menu"
-for_recipes = [ "chicken-chile-verde" ]
-note = "Fresh — $2.69/lb"
-added_at = "2026-06-09"
-
-[[items]]
 name = "serrano peppers"
 quantity = "1"
 kind = "grocery"
