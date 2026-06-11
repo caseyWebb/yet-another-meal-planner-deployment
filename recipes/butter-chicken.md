@@ -18,6 +18,8 @@ dietary:
   - gluten-free
 season: []
 veg_forward: false
+requires_equipment:
+  - blender
 discovered_at: null
 discovery_source: null
 ingredients_key:

@@ -15,8 +15,10 @@
       "worcestershire sauce"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "beef",
+    "requires_equipment": [],
     "season": [],
     "servings": 10,
     "slug": "american-chop-suey",
@@ -53,8 +55,10 @@
       "red wine"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "beef",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "american-goulash",
@@ -93,8 +97,10 @@
       "scallions"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "arroz-caldo",
@@ -133,8 +139,10 @@
       "peas"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "beef",
+    "requires_equipment": [],
     "season": [
       "fall",
       "winter"
@@ -176,8 +184,10 @@
       "eggs"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "beef",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "bibimbap-bowl",
@@ -213,8 +223,10 @@
       "pappardelle"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "mixed",
+    "requires_equipment": [],
     "season": [],
     "servings": 10,
     "slug": "bolognese-sauce",
@@ -253,8 +265,10 @@
       "bay leaf"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "pork",
+    "requires_equipment": [],
     "season": [],
     "servings": 10,
     "slug": "boston-baked-beans",
@@ -293,8 +307,12 @@
       "butter"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [
+      "blender"
+    ],
     "season": [],
     "servings": 6,
     "slug": "butter-chicken",
@@ -335,8 +353,10 @@
       "cilantro"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "channa-masala",
@@ -372,8 +392,10 @@
       "bay leaves"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "chicken-adobo",
@@ -406,8 +428,10 @@
       "cumin"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "mixed",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "chicken-and-black-bean-stew",
@@ -440,8 +464,10 @@
       "sour cream"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [],
     "season": [
       "fall",
       "winter"
@@ -479,8 +505,10 @@
       "vegetable broth"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "chicken-and-rice",
@@ -515,8 +543,10 @@
       "cilantro"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "chicken-chile-verde",
@@ -550,8 +580,10 @@
       "onions"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "chicken-tagine",
@@ -585,8 +617,10 @@
       "parsley"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "pork",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "chorizo-and-potato-frittata",
@@ -621,8 +655,10 @@
       "bacon"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "fish",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "cobb-salad",
@@ -658,8 +694,10 @@
       "thyme"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [
       "summer"
     ],
@@ -696,8 +734,10 @@
       "onion"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "creamy-cajun-chicken-pasta",
@@ -732,8 +772,10 @@
       "spinach"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "creamy-pesto-chicken-pasta",
@@ -768,8 +810,10 @@
       "rotini"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "pork",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "crispy-baked-pasta",
@@ -806,8 +850,10 @@
       "vanilla"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [],
     "servings": 10,
     "slug": "double-caramel-flan",
@@ -842,8 +888,10 @@
       "whole milk"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [],
     "servings": 20,
     "slug": "drop-biscuits",
@@ -880,8 +928,10 @@
       "parsley"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "egg-salad-sandwich",
@@ -916,8 +966,10 @@
       "creole seasoning"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "beef",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "filthier-cabbage",
@@ -951,10 +1003,12 @@
       "egg yolks"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [
       "fresh-pasta"
     ],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "fresh-pasta",
@@ -989,8 +1043,10 @@
       "soy sauce"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [],
     "servings": 3,
     "slug": "fried-rice",
@@ -1027,8 +1083,10 @@
       "chicken stock"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "pork",
+    "requires_equipment": [],
     "season": [],
     "servings": 12,
     "slug": "frijoles-charros",
@@ -1065,8 +1123,10 @@
       "chicken stock"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [],
     "season": [],
     "servings": 8,
     "slug": "galinhada-mineira",
@@ -1100,8 +1160,10 @@
       "ginger"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [],
     "season": [
       "fall",
       "winter"
@@ -1143,8 +1205,10 @@
       "cucumber"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [],
     "season": [
       "summer"
     ],
@@ -1179,8 +1243,10 @@
       "mayonnaise"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "fish",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "honey-mustard-salmon",
@@ -1218,8 +1284,10 @@
       "red pepper flakes"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [
       "fall",
       "winter"
@@ -1257,8 +1325,10 @@
       "milk"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "mixed",
+    "requires_equipment": [],
     "season": [],
     "servings": 8,
     "slug": "lasagna-bolognese",
@@ -1297,8 +1367,10 @@
       "parmesan"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "mixed",
+    "requires_equipment": [],
     "season": [],
     "servings": 8,
     "slug": "meat-lasagna",
@@ -1335,8 +1407,10 @@
       "anchovies"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "mixed",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "meatloaf",
@@ -1372,8 +1446,10 @@
       "pasta"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "minestrone-soup",
@@ -1409,8 +1485,10 @@
       "red miso"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "fish",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "miso-soup",
@@ -1445,8 +1523,10 @@
       "garlic"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "beef",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "mississippi-pot-roast",
@@ -1482,8 +1562,10 @@
       "Shaoxing wine"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "pork",
+    "requires_equipment": [],
     "season": [
       "all"
     ],
@@ -1520,8 +1602,10 @@
       "saffron"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "moroccan-egg-drop-harira",
@@ -1555,8 +1639,10 @@
       "white wine"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "mushroom-and-sun-dried-tomato-farotto",
@@ -1590,8 +1676,10 @@
       "onion"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "pork",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "pasta-alla-norcina",
@@ -1625,8 +1713,10 @@
       "parsley"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "fish",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "pasta-burro-e-alici",
@@ -1660,8 +1750,10 @@
       "parmesan"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "pork",
+    "requires_equipment": [],
     "season": [
       "fall",
       "winter"
@@ -1702,8 +1794,12 @@
       "olive oil"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [
+      "blender"
+    ],
     "season": [
       "fall",
       "winter"
@@ -1724,6 +1820,49 @@
     "uses_components": [],
     "veg_forward": true
   },
+  "pasta-primavera": {
+    "cuisine": "italian",
+    "dietary": [
+      "vegetarian"
+    ],
+    "difficulty": "easy",
+    "discovered_at": "2026-06-11",
+    "discovery_source": "bonappetit-rss",
+    "ingredients_key": [
+      "pasta",
+      "zucchini",
+      "asparagus",
+      "frozen peas",
+      "heavy cream",
+      "parmesan",
+      "lemon"
+    ],
+    "meal_preppable": false,
+    "pairs_with": [],
+    "produces_components": [],
+    "protein": "vegetarian",
+    "requires_equipment": [],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "servings": 4,
+    "slug": "pasta-primavera",
+    "source": "https://www.bonappetit.com/recipe/pasta-primavera",
+    "tags": [
+      "vegetarian",
+      "italian",
+      "pasta",
+      "weeknight",
+      "summer",
+      "veg-forward"
+    ],
+    "time_active": 25,
+    "time_total": 45,
+    "title": "Pasta Primavera",
+    "uses_components": [],
+    "veg_forward": true
+  },
   "pasta-with-sausage-and-peppers": {
     "cuisine": "italian",
     "dietary": [],
@@ -1739,8 +1878,10 @@
       "feta"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "pork",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "pasta-with-sausage-and-peppers",
@@ -1760,6 +1901,52 @@
     "uses_components": [],
     "veg_forward": false
   },
+  "peruvian-style-tofu-with-creamy-cilantro-sauce": {
+    "cuisine": "peruvian",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "dairy-free"
+    ],
+    "difficulty": "easy",
+    "discovered_at": "2026-06-11",
+    "discovery_source": "bonappetit-rss",
+    "ingredients_key": [
+      "firm tofu",
+      "cilantro",
+      "avocado",
+      "serrano chile",
+      "soy sauce",
+      "lime juice",
+      "mayonnaise"
+    ],
+    "meal_preppable": false,
+    "pairs_with": [],
+    "produces_components": [],
+    "protein": "vegetarian",
+    "requires_equipment": [],
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "servings": 6,
+    "slug": "peruvian-style-tofu-with-creamy-cilantro-sauce",
+    "source": "https://www.bonappetit.com/recipe/peruvian-style-tofu-with-creamy-cilantro-sauce",
+    "tags": [
+      "vegetarian",
+      "vegan",
+      "peruvian",
+      "grill",
+      "tofu",
+      "weeknight",
+      "fusion"
+    ],
+    "time_active": 15,
+    "time_total": 40,
+    "title": "Peruvian-Style Tofu With Creamy Cilantro Sauce",
+    "uses_components": [],
+    "veg_forward": true
+  },
   "pollo-guisado": {
     "cuisine": "mexican",
     "dietary": [
@@ -1778,8 +1965,10 @@
       "chicken stock"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "pollo-guisado",
@@ -1814,8 +2003,13 @@
       "heavy cream"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [
+      "pressure-cooker",
+      "blender"
+    ],
     "season": [],
     "servings": 6,
     "slug": "pressure-cooker-butter-chicken",
@@ -1852,8 +2046,10 @@
       "mozzarella"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [
       "summer"
     ],
@@ -1888,8 +2084,10 @@
       "russian dressing"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "beef",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "reuben-sandwiches",
@@ -1926,8 +2124,10 @@
       "shallots"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "fish",
+    "requires_equipment": [],
     "season": [
       "fall",
       "winter"
@@ -1968,8 +2168,10 @@
       "basmati rice"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "shellfish",
+    "requires_equipment": [],
     "season": [],
     "servings": 2,
     "slug": "shrimp-with-cilantro-sauce",
@@ -2002,8 +2204,10 @@
       "brown sugar"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "beef",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "sloppy-joes",
@@ -2037,8 +2241,10 @@
       "eggs"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "spinach-fresh-pasta",
@@ -2073,8 +2279,10 @@
       "vegetable broth"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "spinach-tortellini-soup",
@@ -2107,8 +2315,10 @@
       "colby jack cheese"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "pork",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "stuffed-pepper-skillet",
@@ -2146,8 +2356,10 @@
       "sage"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [
       "fall",
       "winter"
@@ -2184,8 +2396,10 @@
       "beef stock"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "beef",
+    "requires_equipment": [],
     "season": [
       "fall",
       "winter"
@@ -2222,8 +2436,10 @@
       "whole milk"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "beef",
+    "requires_equipment": [],
     "season": [
       "fall",
       "winter"
@@ -2263,8 +2479,10 @@
       "parmesan"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "tomato-tortellini-soup",
@@ -2298,8 +2516,10 @@
       "potato chips"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "fish",
+    "requires_equipment": [],
     "season": [],
     "servings": 8,
     "slug": "tuna-casserole",
@@ -2333,8 +2553,10 @@
       "egg"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "turkey-meatloaf",
@@ -2370,8 +2592,10 @@
       "celery"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [
       "fall",
       "winter"
@@ -2408,8 +2632,10 @@
       "butter"
     ],
     "meal_preppable": false,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "vegetarian",
+    "requires_equipment": [],
     "season": [],
     "servings": 4,
     "slug": "uovo-in-raviolo",
@@ -2447,8 +2673,10 @@
       "cumin"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "beef",
+    "requires_equipment": [],
     "season": [],
     "servings": 6,
     "slug": "vaca-frita",
@@ -2484,8 +2712,12 @@
       "lime"
     ],
     "meal_preppable": true,
+    "pairs_with": [],
     "produces_components": [],
     "protein": "chicken",
+    "requires_equipment": [
+      "blender"
+    ],
     "season": [
       "fall",
       "winter"

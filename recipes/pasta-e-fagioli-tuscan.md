@@ -20,6 +20,8 @@ season:
   - fall
   - winter
 veg_forward: true
+requires_equipment:
+  - blender
 discovered_at: null
 discovery_source: null
 ingredients_key:
