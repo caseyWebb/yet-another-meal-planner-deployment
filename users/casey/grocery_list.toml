@@ -39,15 +39,6 @@
 # added_at = "2026-06-09"
 
 [[items]]
-name = "grainy mustard"
-quantity = "1"
-kind = "grocery"
-status = "active"
-source = "menu"
-for_recipes = [ "honey-mustard-salmon" ]
-added_at = "2026-06-11"
-
-[[items]]
 name = "parmesan wedge"
 quantity = "1"
 kind = "grocery"
