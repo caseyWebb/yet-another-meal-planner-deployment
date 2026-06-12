@@ -43,11 +43,6 @@ tags = [ "global", "trusted" ]
 weight = 0.8
 
 [[feeds]]
-url = "https://www.epicurious.com/feed/recipes"
-name = "Epicurious"
-weight = 1
-
-[[feeds]]
 url = "https://www.epicurious.com/services/rss/feeds/newrecipes.xml"
 name = "Epicurious - New Recipes"
 weight = 1
