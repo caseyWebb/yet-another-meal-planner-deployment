@@ -15,3 +15,20 @@ url = "https://www.recipetineats.com/smoke-test-dish-12345"
 title = "https://email.example.com/c/?url=https%3A%2F%2Fwww.bonappetit.com%2Fsmoke-test-unwrap-67890"
 url = "https://www.bonappetit.com/smoke-test-unwrap-67890"
 
+[[entries]]
+from = "casey@dirtbag.social"
+subject = "Fw: Welcome to Serious Eats"
+received_at = "2026-06-12"
+
+[[entries.candidates]]
+title = "Proton Mail"
+url = "https://proton.me/mail/home"
+
+[[entries.candidates]]
+title = "https://links.seriouseats.com/u/click"
+url = "https://links.seriouseats.com/u/click"
+
+[[entries.candidates]]
+title = "Unsubscribe"
+url = "https://links.seriouseats.com/e/eh"
+
