@@ -1,5 +1,6 @@
 {
   "american-chop-suey": {
+    "course": [],
     "cuisine": "american",
     "dietary": [],
     "difficulty": "easy",
@@ -44,6 +45,7 @@
     "veg_forward": false
   },
   "american-goulash": {
+    "course": [],
     "cuisine": "american",
     "dietary": [
       "dairy-free"
@@ -88,6 +90,7 @@
     "veg_forward": false
   },
   "arroz-caldo": {
+    "course": [],
     "cuisine": "filipino",
     "dietary": [
       "dairy-free"
@@ -134,6 +137,7 @@
     "veg_forward": false
   },
   "beef-stew": {
+    "course": [],
     "cuisine": "american",
     "dietary": [
       "dairy-free"
@@ -185,6 +189,7 @@
     "veg_forward": false
   },
   "bibimbap-bowl": {
+    "course": [],
     "cuisine": "korean",
     "dietary": [
       "dairy-free"
@@ -231,6 +236,7 @@
     "veg_forward": false
   },
   "bolognese-sauce": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [],
     "difficulty": "hard",
@@ -282,6 +288,7 @@
     "veg_forward": false
   },
   "boston-baked-beans": {
+    "course": [],
     "cuisine": "american",
     "dietary": [
       "dairy-free"
@@ -324,6 +331,7 @@
     "veg_forward": false
   },
   "butter-chicken": {
+    "course": [],
     "cuisine": "indian",
     "dietary": [
       "gluten-free"
@@ -372,6 +380,7 @@
     "veg_forward": false
   },
   "channa-masala": {
+    "course": [],
     "cuisine": "indian",
     "dietary": [
       "vegetarian",
@@ -420,6 +429,7 @@
     "veg_forward": true
   },
   "chicken-adobo": {
+    "course": [],
     "cuisine": "filipino",
     "dietary": [
       "dairy-free"
@@ -462,6 +472,7 @@
     "veg_forward": false
   },
   "chicken-and-black-bean-stew": {
+    "course": [],
     "cuisine": "southwestern",
     "dietary": [],
     "difficulty": "easy",
@@ -502,6 +513,7 @@
     "veg_forward": false
   },
   "chicken-and-dumplings": {
+    "course": [],
     "cuisine": "american",
     "dietary": [],
     "difficulty": "medium",
@@ -548,6 +560,7 @@
     "veg_forward": false
   },
   "chicken-and-rice": {
+    "course": [],
     "cuisine": "american",
     "dietary": [
       "gluten-free",
@@ -590,6 +603,7 @@
     "veg_forward": false
   },
   "chicken-chile-verde": {
+    "course": [],
     "cuisine": "mexican",
     "dietary": [
       "gluten-free",
@@ -634,7 +648,52 @@
     "uses_components": [],
     "veg_forward": false
   },
+  "chicken-piccata-meatballs-and-orzo-skillet": {
+    "course": [
+      "main"
+    ],
+    "cuisine": "italian",
+    "dietary": [],
+    "difficulty": "easy",
+    "discovered_at": "2026-06-15",
+    "discovery_source": "Budget Bytes (RSS)",
+    "ingredients_key": [
+      "ground chicken",
+      "orzo",
+      "capers",
+      "lemon",
+      "panko",
+      "parmesan"
+    ],
+    "meal_preppable": true,
+    "pairs_with": [],
+    "perishable_ingredients": [
+      "ground chicken",
+      "parsley"
+    ],
+    "protein": "chicken",
+    "requires_equipment": [],
+    "season": [],
+    "servings": 4,
+    "slug": "chicken-piccata-meatballs-and-orzo-skillet",
+    "source": "https://www.budgetbytes.com/chicken-piccata-meatballs-and-orzo-skillet",
+    "style": "one-pot",
+    "tags": [
+      "pastas",
+      "easy-dinners",
+      "italian",
+      "chicken",
+      "one-pot",
+      "weeknight",
+      "skillet"
+    ],
+    "time_active": 15,
+    "time_total": 45,
+    "title": "Chicken Piccata Meatballs and Orzo Skillet",
+    "veg_forward": false
+  },
   "chicken-tagine": {
+    "course": [],
     "cuisine": "moroccan",
     "dietary": [
       "gluten-free",
@@ -678,6 +737,7 @@
     "veg_forward": false
   },
   "chorizo-and-potato-frittata": {
+    "course": [],
     "cuisine": "spanish",
     "dietary": [
       "gluten-free",
@@ -720,6 +780,7 @@
     "veg_forward": false
   },
   "cobb-salad": {
+    "course": [],
     "cuisine": "american",
     "dietary": [
       "gluten-free"
@@ -765,6 +826,7 @@
     "veg_forward": true
   },
   "corn-risotto": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [
       "vegetarian",
@@ -813,6 +875,7 @@
     "veg_forward": true
   },
   "creamy-cajun-chicken-pasta": {
+    "course": [],
     "cuisine": "cajun",
     "dietary": [],
     "difficulty": "easy",
@@ -856,6 +919,7 @@
     "veg_forward": false
   },
   "creamy-pesto-chicken-pasta": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [],
     "difficulty": "easy",
@@ -900,6 +964,7 @@
     "veg_forward": false
   },
   "crispy-baked-pasta": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [],
     "difficulty": "medium",
@@ -945,6 +1010,7 @@
     "veg_forward": false
   },
   "double-caramel-flan": {
+    "course": [],
     "cuisine": "mexican",
     "dietary": [
       "vegetarian",
@@ -989,6 +1055,7 @@
     "veg_forward": false
   },
   "drop-biscuits": {
+    "course": [],
     "cuisine": "american",
     "dietary": [
       "vegetarian"
@@ -1030,6 +1097,7 @@
     "veg_forward": false
   },
   "egg-salad-sandwich": {
+    "course": [],
     "cuisine": "american",
     "dietary": [
       "vegetarian"
@@ -1075,6 +1143,7 @@
     "veg_forward": false
   },
   "filthier-cabbage": {
+    "course": [],
     "cuisine": "cajun",
     "dietary": [],
     "difficulty": "easy",
@@ -1118,6 +1187,7 @@
     "veg_forward": false
   },
   "fresh-pasta": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [
       "vegetarian"
@@ -1156,6 +1226,7 @@
     "veg_forward": false
   },
   "fried-rice": {
+    "course": [],
     "cuisine": "chinese",
     "dietary": [
       "vegetarian"
@@ -1199,6 +1270,7 @@
     "veg_forward": true
   },
   "frijoles-charros": {
+    "course": [],
     "cuisine": "mexican",
     "dietary": [
       "gluten-free"
@@ -1242,6 +1314,7 @@
     "veg_forward": false
   },
   "galinhada-mineira": {
+    "course": [],
     "cuisine": "brazilian",
     "dietary": [
       "gluten-free",
@@ -1286,6 +1359,7 @@
     "veg_forward": false
   },
   "gochujang-white-chicken-chili": {
+    "course": [],
     "cuisine": "korean",
     "dietary": [],
     "difficulty": "easy",
@@ -1334,6 +1408,7 @@
     "veg_forward": false
   },
   "grilled-lemongrass-chicken-thighs": {
+    "course": [],
     "cuisine": "vietnamese",
     "dietary": [
       "gluten-free"
@@ -1359,7 +1434,6 @@
       "cucumber",
       "cilantro"
     ],
-    "produces_components": [],
     "protein": "chicken",
     "requires_equipment": [],
     "season": [
@@ -1378,10 +1452,10 @@
     ],
     "time_active": 30,
     "time_total": 40,
-    "title": "Grilled Lemongrass Chicken Thighs",
-    "uses_components": []
+    "title": "Grilled Lemongrass Chicken Thighs"
   },
   "honey-mustard-salmon": {
+    "course": [],
     "cuisine": "american",
     "dietary": [
       "gluten-free"
@@ -1423,6 +1497,7 @@
     "veg_forward": false
   },
   "italian-beans-and-greens-soup": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [
       "vegetarian",
@@ -1470,6 +1545,7 @@
     "veg_forward": true
   },
   "lasagna-bolognese": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [],
     "difficulty": "hard",
@@ -1514,6 +1590,7 @@
     "veg_forward": false
   },
   "meat-lasagna": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [],
     "difficulty": "hard",
@@ -1568,6 +1645,7 @@
     "veg_forward": false
   },
   "meatloaf": {
+    "course": [],
     "cuisine": "american",
     "dietary": [],
     "difficulty": "medium",
@@ -1613,6 +1691,7 @@
     "veg_forward": false
   },
   "minestrone-soup": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [],
     "difficulty": "medium",
@@ -1661,6 +1740,7 @@
     "veg_forward": true
   },
   "miso-soup": {
+    "course": [],
     "cuisine": "japanese",
     "dietary": [
       "dairy-free"
@@ -1704,6 +1784,7 @@
     "veg_forward": false
   },
   "mississippi-pot-roast": {
+    "course": [],
     "cuisine": "american",
     "dietary": [
       "gluten-free"
@@ -1747,6 +1828,7 @@
     "veg_forward": false
   },
   "moo-shu-pork": {
+    "course": [],
     "cuisine": "chinese",
     "dietary": [],
     "discovered_at": "2026-06-10",
@@ -1768,7 +1850,6 @@
       "pork shoulder",
       "scallions"
     ],
-    "produces_components": [],
     "protein": "pork",
     "requires_equipment": [],
     "season": [
@@ -1787,10 +1868,10 @@
     ],
     "time_active": 75,
     "time_total": 120,
-    "title": "Moo Shu Pork",
-    "uses_components": []
+    "title": "Moo Shu Pork"
   },
   "moroccan-egg-drop-harira": {
+    "course": [],
     "cuisine": "moroccan",
     "dietary": [
       "vegetarian"
@@ -1834,6 +1915,7 @@
     "veg_forward": true
   },
   "mushroom-and-sun-dried-tomato-farotto": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [],
     "difficulty": "medium",
@@ -1876,6 +1958,7 @@
     "veg_forward": true
   },
   "pasta-alla-norcina": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [],
     "difficulty": "medium",
@@ -1917,6 +2000,7 @@
     "veg_forward": false
   },
   "pasta-burro-e-alici": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [],
     "difficulty": "medium",
@@ -1957,6 +2041,7 @@
     "veg_forward": false
   },
   "pasta-e-fagioli": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [],
     "difficulty": "easy",
@@ -2000,6 +2085,7 @@
     "veg_forward": false
   },
   "pasta-e-fagioli-tuscan": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [
       "vegetarian",
@@ -2049,6 +2135,7 @@
     "veg_forward": true
   },
   "pasta-primavera": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [
       "vegetarian"
@@ -2098,6 +2185,7 @@
     "veg_forward": true
   },
   "pasta-with-sausage-and-peppers": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [],
     "difficulty": "easy",
@@ -2141,6 +2229,7 @@
     "veg_forward": false
   },
   "peruvian-style-tofu-with-creamy-cilantro-sauce": {
+    "course": [],
     "cuisine": "peruvian",
     "dietary": [
       "vegetarian",
@@ -2194,6 +2283,7 @@
     "veg_forward": true
   },
   "pollo-guisado": {
+    "course": [],
     "cuisine": "mexican",
     "dietary": [
       "gluten-free",
@@ -2238,6 +2328,7 @@
     "veg_forward": false
   },
   "pressure-cooker-butter-chicken": {
+    "course": [],
     "cuisine": "indian",
     "dietary": [
       "gluten-free"
@@ -2285,6 +2376,7 @@
     "veg_forward": false
   },
   "ratatouille": {
+    "course": [],
     "cuisine": "french",
     "dietary": [
       "vegetarian",
@@ -2335,6 +2427,7 @@
     "veg_forward": true
   },
   "reuben-sandwiches": {
+    "course": [],
     "cuisine": "american",
     "dietary": [],
     "difficulty": "easy",
@@ -2374,6 +2467,7 @@
     "veg_forward": false
   },
   "sheet-pan-salmon-and-kale": {
+    "course": [],
     "cuisine": "mediterranean",
     "dietary": [
       "gluten-free"
@@ -2424,6 +2518,7 @@
     "veg_forward": false
   },
   "shrimp-with-cilantro-sauce": {
+    "course": [],
     "cuisine": "indian",
     "dietary": [
       "gluten-free",
@@ -2470,6 +2565,7 @@
     "veg_forward": false
   },
   "sloppy-joes": {
+    "course": [],
     "cuisine": "american",
     "dietary": [],
     "difficulty": "easy",
@@ -2509,6 +2605,7 @@
     "veg_forward": false
   },
   "spinach-fresh-pasta": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [
       "vegetarian"
@@ -2549,6 +2646,7 @@
     "veg_forward": true
   },
   "spinach-tortellini-soup": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [
       "vegetarian"
@@ -2592,6 +2690,7 @@
     "veg_forward": true
   },
   "stuffed-pepper-skillet": {
+    "course": [],
     "cuisine": "american",
     "dietary": [],
     "difficulty": "easy",
@@ -2635,6 +2734,7 @@
     "veg_forward": false
   },
   "sweet-potato-gnocchi": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [
       "vegetarian"
@@ -2680,6 +2780,7 @@
     "veg_forward": true
   },
   "swiss-steak": {
+    "course": [],
     "cuisine": "american",
     "dietary": [],
     "difficulty": "medium",
@@ -2723,6 +2824,7 @@
     "veg_forward": false
   },
   "tater-tot-casserole": {
+    "course": [],
     "cuisine": "american",
     "dietary": [],
     "difficulty": "medium",
@@ -2772,6 +2874,7 @@
     "veg_forward": false
   },
   "tomato-tortellini-soup": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [
       "vegetarian"
@@ -2817,6 +2920,7 @@
     "veg_forward": false
   },
   "tuna-casserole": {
+    "course": [],
     "cuisine": "american",
     "dietary": [],
     "difficulty": "medium",
@@ -2862,6 +2966,7 @@
     "veg_forward": false
   },
   "turkey-meatloaf": {
+    "course": [],
     "cuisine": "american",
     "dietary": [],
     "difficulty": "easy",
@@ -2905,6 +3010,7 @@
     "veg_forward": false
   },
   "tuscan-white-bean-soup": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [
       "gluten-free"
@@ -2951,6 +3057,7 @@
     "veg_forward": true
   },
   "uovo-in-raviolo": {
+    "course": [],
     "cuisine": "italian",
     "dietary": [],
     "difficulty": "hard",
@@ -2994,6 +3101,7 @@
     "veg_forward": false
   },
   "vaca-frita": {
+    "course": [],
     "cuisine": "cuban",
     "dietary": [
       "gluten-free",
@@ -3036,6 +3144,7 @@
     "veg_forward": false
   },
   "white-chicken-chili": {
+    "course": [],
     "cuisine": "southwestern",
     "dietary": [
       "gluten-free"
