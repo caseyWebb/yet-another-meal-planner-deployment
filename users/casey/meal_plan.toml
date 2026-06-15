@@ -18,5 +18,13 @@
 # recipe = "arroz-caldo"
 # planned_for = "2026-06-10"
 
-planned = []
+[[planned]]
+recipe = "honey-mustard-salmon"
+sides = [ "grilled asparagus" ]
+
+[[planned]]
+recipe = "chicken-chile-verde"
+
+[[planned]]
+recipe = "channa-masala"
 
