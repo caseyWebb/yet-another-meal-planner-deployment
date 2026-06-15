@@ -262,3 +262,15 @@ last_verified_at = "2026-06-15"
 category = "pantry"
 name = "buldak"
 
+[[items]]
+added_at = "2026-06-15"
+last_verified_at = "2026-06-15"
+category = "pantry"
+name = "canned tuna"
+
+[[items]]
+added_at = "2026-06-15"
+last_verified_at = "2026-06-15"
+category = "pantry"
+name = "canned salmon"
+
