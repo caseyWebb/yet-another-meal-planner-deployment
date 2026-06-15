@@ -1,0 +1,16 @@
+[[items]]
+name = "instant ramen"
+slug = "instant-ramen"
+meal = "lunch"
+status = "active"
+added_at = "2026-06-15"
+discovery_source = "onboarding"
+
+[[items]]
+name = "buldak"
+slug = "buldak"
+meal = "lunch"
+status = "active"
+added_at = "2026-06-15"
+discovery_source = "onboarding"
+
