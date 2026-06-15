@@ -274,3 +274,33 @@ last_verified_at = "2026-06-15"
 category = "pantry"
 name = "canned salmon"
 
+[[items]]
+added_at = "2026-06-15"
+last_verified_at = "2026-06-15"
+name = "garam masala"
+category = "pantry"
+
+[[items]]
+added_at = "2026-06-15"
+last_verified_at = "2026-06-15"
+name = "ground coriander"
+category = "pantry"
+
+[[items]]
+added_at = "2026-06-15"
+last_verified_at = "2026-06-15"
+name = "turmeric"
+category = "pantry"
+
+[[items]]
+added_at = "2026-06-15"
+last_verified_at = "2026-06-15"
+name = "baking soda"
+category = "pantry"
+
+[[items]]
+added_at = "2026-06-15"
+last_verified_at = "2026-06-15"
+name = "mustard seeds"
+category = "pantry"
+
