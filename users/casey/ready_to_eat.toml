@@ -14,3 +14,31 @@ status = "active"
 added_at = "2026-06-15"
 discovery_source = "onboarding"
 
+[[items]]
+name = "frozen biscuits"
+slug = "frozen-biscuits"
+meal = "breakfast"
+status = "active"
+added_at = "2026-06-15"
+discovery_source = "onboarding"
+
+[[items]]
+name = "Indian lentil/bean pouch"
+slug = "indian-lentil-bean-pouch"
+meal = "lunch"
+category = "shelf-stable ready meal"
+status = "active"
+added_at = "2026-06-15"
+discovery_source = "onboarding"
+notes = "ready-to-heat Indian-style dal/bean pouch"
+
+[[items]]
+name = "Mexican bean/lentil pouch"
+slug = "mexican-bean-lentil-pouch"
+meal = "lunch"
+category = "shelf-stable ready meal"
+status = "active"
+added_at = "2026-06-15"
+discovery_source = "onboarding"
+notes = "ready-to-heat Mexican-style bean pouch"
+
