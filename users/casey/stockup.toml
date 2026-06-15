@@ -24,3 +24,16 @@
 # buy_at_or_below = 9.99
 # typical_purchase = "2 lb"
 # notes = "Wild only"
+
+[[items]]
+name = "canned tuna"
+notes = "shelf-stable; lunch protein, covers weekly-fish target"
+
+[[items]]
+name = "canned salmon"
+notes = "shelf-stable; salmon patties + quick salmon salad"
+
+[[items]]
+name = "Maya Kaimal Everyday Dal"
+notes = "shelf-stable lentil pouch; quick lunch over rice"
+
