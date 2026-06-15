@@ -42,3 +42,14 @@ added_at = "2026-06-15"
 discovery_source = "onboarding"
 notes = "ready-to-heat Mexican-style bean pouch"
 
+[[items]]
+name = "Maya Kaimal Everyday Dal"
+slug = "maya-kaimal-everyday-dal"
+meal = "lunch"
+category = "shelf-stable ready meal"
+status = "active"
+added_at = "2026-06-15"
+discovery_source = "onboarding"
+brand = "Maya Kaimal"
+notes = "microwavable lentil pouch; pairs with rice on hand"
+
