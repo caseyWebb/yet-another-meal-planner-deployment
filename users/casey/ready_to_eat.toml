@@ -53,3 +53,11 @@ discovery_source = "onboarding"
 brand = "Maya Kaimal"
 notes = "microwavable lentil pouch; pairs with rice on hand"
 
+[[items]]
+name = "frozen pizza"
+slug = "frozen-pizza"
+meal = "dinner"
+status = "active"
+added_at = "2026-06-15"
+discovery_source = "onboarding"
+
