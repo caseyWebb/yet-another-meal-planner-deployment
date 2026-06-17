@@ -129,3 +129,13 @@ source = "menu"
 for_recipes = [ "channa-masala" ]
 added_at = "2026-06-15"
 
+[[items]]
+name = "oat milk"
+quantity = "1"
+kind = "grocery"
+domain = "grocery"
+status = "active"
+source = "stockup"
+for_recipes = []
+added_at = "2026-06-17"
+
