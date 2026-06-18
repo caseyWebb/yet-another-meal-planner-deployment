@@ -378,36 +378,6 @@ name = "Strawberry ice cream"
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 location = "freezer"
-name = "Frozen strawberry banana blend"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-location = "freezer"
-name = "Frozen antioxidant blend (strawberries, cherries, blueberries, pomegranate, raspberries)"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-location = "freezer"
-name = "Tropical fruit blend (mango, strawberries, pineapple)"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-location = "freezer"
-name = "Mixed fruit blend (pineapple, strawberries, mango, peaches)"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-location = "freezer"
-name = "Triple berry blend (blueberries, blackberries, raspberries)"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-location = "freezer"
 name = "Atlantic sea scallop pieces"
 
 [[items]]
@@ -538,4 +508,11 @@ added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 location = "freezer"
 name = "Saint Louis style ribs"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+location = "freezer"
+quantity = "5 bags"
+name = "Frozen smoothie fruit mix"
 
