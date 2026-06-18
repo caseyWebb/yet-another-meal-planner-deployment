@@ -1511,3 +1511,39 @@ last_verified_at = "2026-06-18"
 category = "canned goods"
 name = "Rotel (mild)"
 
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dried fruit"
+name = "Freeze-dried pineapple"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dried fruit"
+name = "Dried mango"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dried fruit"
+name = "Dried Medjool dates"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dried fruit"
+name = "Raisins"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "snack"
+name = "Popcorn kernels"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "snack"
+name = "Sunflower seeds"
+
