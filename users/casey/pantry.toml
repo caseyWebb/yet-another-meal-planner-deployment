@@ -1553,3 +1553,9 @@ last_verified_at = "2026-06-18"
 category = "produce"
 name = "Shallots"
 
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dairy"
+name = "Eggs"
+
