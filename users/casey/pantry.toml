@@ -594,18 +594,6 @@ name = "Smoked paprika"
 [[items]]
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
-category = "spice blend"
-name = "Penzeys chicken and pork rub"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "spice blend"
-name = "All Day seasoning (Penzeys)"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
 category = "spice"
 name = "Celery seed"
 
@@ -947,4 +935,10 @@ added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "kitchen supply"
 name = "Butcher's twine"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "spice blend"
+name = "Penzeys 33rd & Galena chicken and pork rub"
 
