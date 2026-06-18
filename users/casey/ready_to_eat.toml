@@ -61,3 +61,17 @@ status = "active"
 added_at = "2026-06-15"
 discovery_source = "onboarding"
 
+[[items]]
+name = "Frozen biscuits"
+slug = "frozen-biscuits-2"
+meal = "breakfast"
+status = "active"
+added_at = "2026-06-18"
+
+[[items]]
+name = "Fish sticks"
+slug = "fish-sticks"
+meal = "lunch"
+status = "active"
+added_at = "2026-06-18"
+
