@@ -1128,3 +1128,124 @@ last_verified_at = "2026-06-18"
 category = "condiment"
 name = "Sweet Maui mango habanero sauce"
 
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "grain"
+name = "Steel cut oats"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "grain"
+name = "Grits"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "grain"
+name = "Plain rolled oats"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "grain"
+name = "Quick cooking oats (plain)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "grain"
+name = "Orzo"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "grain"
+name = "Lasagna noodles"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "legume"
+name = "Dry white beans"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "legume"
+name = "Red lentils (dried)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "legume"
+name = "Green lentils (dried)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "legume"
+name = "Dried chickpeas"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "nut"
+name = "Pecans (halved and pieces)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Chia seeds"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Panko bread crumbs"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Chicken broth"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "snack"
+name = "Banana chips"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "snack"
+name = "Dried fruit blend"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "baking"
+name = "Pancake mix"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "baking"
+quantity = "2"
+name = "Cornstarch"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Ghee"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Peanut butter"
+
