@@ -1559,3 +1559,189 @@ last_verified_at = "2026-06-18"
 category = "dairy"
 name = "Eggs"
 
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "bread"
+name = "Pita bread"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dairy"
+name = "Greek yogurt"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dairy"
+name = "Pepper jack cheese"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dairy"
+name = "Swiss cheese slices"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dairy"
+name = "American cheese slices"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dairy"
+name = "Salted butter"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dairy"
+name = "Unsalted butter"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dairy"
+name = "Cream cheese"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "dairy"
+name = "Sour cream"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "meat"
+name = "Bacon"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "meat"
+name = "Breakfast sausage"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Snacking pickles"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Pickle chips"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Salsa"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Jellies and jams (various)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Spicy brown mustard"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Dijon mustard"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Ketchup"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Mayonnaise"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Hot sauces (various)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Fish sauce"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Worcestershire sauce"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Soy sauce"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Pad Thai sauce"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Capers"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Sesame ginger vinaigrette"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Poppy seed dressing"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Lush wine vinaigrette"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "fermented"
+name = "Sauerkraut"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "fermented"
+name = "Kimchi"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "broth"
+name = "Mushroom broth"
+
