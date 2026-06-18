@@ -1150,12 +1150,6 @@ name = "Plain rolled oats"
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "grain"
-name = "Quick cooking oats (plain)"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "grain"
 name = "Orzo"
 
 [[items]]
@@ -1248,4 +1242,10 @@ added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "pantry"
 name = "Peanut butter"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "grain"
+name = "Quick cooking oats (flavored)"
 
