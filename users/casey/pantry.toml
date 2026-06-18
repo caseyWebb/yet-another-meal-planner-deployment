@@ -48,27 +48,12 @@ name = "white onion"
 [[items]]
 added_at = "2026-06-09"
 last_verified_at = "2026-06-09"
-name = "shallots"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
 name = "scallions"
 
 [[items]]
 added_at = "2026-06-09"
 last_verified_at = "2026-06-09"
-name = "olive oil"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
 name = "red wine vinegar"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "rice vinegar"
 
 [[items]]
 added_at = "2026-06-09"
@@ -118,37 +103,7 @@ name = "vegetable broth"
 [[items]]
 added_at = "2026-06-09"
 last_verified_at = "2026-06-09"
-name = "flour"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "salt"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
 name = "black pepper"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "sugar"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "baking powder"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "cumin"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "paprika"
 
 [[items]]
 added_at = "2026-06-09"
@@ -163,47 +118,12 @@ name = "bay leaves"
 [[items]]
 added_at = "2026-06-09"
 last_verified_at = "2026-06-09"
-name = "soy sauce"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "fish sauce"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "ketchup"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "mayonnaise"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "worcestershire sauce"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "canned chickpeas"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
 name = "canned black beans"
 
 [[items]]
 added_at = "2026-06-09"
 last_verified_at = "2026-06-09"
 name = "dried pinto beans"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "dried white beans"
 
 [[items]]
 added_at = "2026-06-09"
@@ -218,11 +138,6 @@ name = "penne"
 [[items]]
 added_at = "2026-06-09"
 last_verified_at = "2026-06-09"
-name = "jasmine rice"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
 name = "white rice"
 
 [[items]]
@@ -231,72 +146,10 @@ last_verified_at = "2026-06-09"
 name = "parmesan"
 
 [[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "garlic"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "butter"
-
-[[items]]
-added_at = "2026-06-11"
-last_verified_at = "2026-06-11"
-name = "spaghetti"
-
-[[items]]
-added_at = "2026-06-11"
-last_verified_at = "2026-06-11"
-name = "rigatoni"
-
-[[items]]
-added_at = "2026-06-15"
-last_verified_at = "2026-06-15"
-category = "pantry"
-name = "instant ramen"
-
-[[items]]
 added_at = "2026-06-15"
 last_verified_at = "2026-06-15"
 category = "pantry"
 name = "buldak"
-
-[[items]]
-added_at = "2026-06-15"
-last_verified_at = "2026-06-15"
-category = "pantry"
-name = "canned tuna"
-
-[[items]]
-added_at = "2026-06-15"
-last_verified_at = "2026-06-15"
-category = "pantry"
-name = "canned salmon"
-
-[[items]]
-added_at = "2026-06-15"
-last_verified_at = "2026-06-15"
-name = "garam masala"
-category = "pantry"
-
-[[items]]
-added_at = "2026-06-15"
-last_verified_at = "2026-06-15"
-name = "ground coriander"
-category = "pantry"
-
-[[items]]
-added_at = "2026-06-15"
-last_verified_at = "2026-06-15"
-name = "turmeric"
-category = "pantry"
-
-[[items]]
-added_at = "2026-06-15"
-last_verified_at = "2026-06-15"
-name = "baking soda"
-category = "pantry"
 
 [[items]]
 added_at = "2026-06-15"
@@ -650,18 +503,6 @@ name = "Cinnamon"
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "spice"
-name = "Paprika"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "spice"
-name = "Ground coriander"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "spice"
 name = "Toasted sesame seeds"
 
 [[items]]
@@ -909,12 +750,6 @@ name = "Ranch seasoning"
 [[items]]
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
-category = "spice blend"
-name = "Garam masala"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
 category = "pantry"
 name = "Chicken bouillon"
 
@@ -947,12 +782,6 @@ added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "baking"
 name = "Kosher salt"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "baking"
-name = "All-purpose flour"
 
 [[items]]
 added_at = "2026-06-18"
@@ -995,24 +824,6 @@ added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "baking"
 name = "Organic cane sugar"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "baking"
-name = "Baking soda"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "baking"
-name = "Baking powder"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "baking"
-name = "All-purpose flour"
 
 [[items]]
 added_at = "2026-06-18"
@@ -1078,12 +889,6 @@ name = "Peach white balsamic vinegar"
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "pantry"
-name = "Olive oil"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "pantry"
 name = "Italian herb infused olive oil"
 
 [[items]]
@@ -1115,12 +920,6 @@ added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "pantry"
 name = "Arborio rice"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "pantry"
-name = "Jasmine rice"
 
 [[items]]
 added_at = "2026-06-18"
@@ -1370,12 +1169,6 @@ name = "Sweet soy sauce"
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "pantry"
-name = "Rice vinegar"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "pantry"
 notes = "Multiple bottles"
 name = "Marsala cooking wine"
 
@@ -1438,13 +1231,6 @@ name = "Enchilada sauce"
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "canned goods"
-quantity = "2"
-name = "Canned salmon"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "canned goods"
 quantity = "3"
 name = "Tuna in oil"
 
@@ -1470,18 +1256,6 @@ name = "Bucatini"
 [[items]]
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
-category = "pasta"
-name = "Spaghetti"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "pasta"
-name = "Rigatoni"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
 category = "canned goods"
 quantity = "3"
 name = "Sweetened condensed milk"
@@ -1491,13 +1265,6 @@ added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "canned goods"
 name = "Jellied cranberry sauce"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "canned goods"
-notes = "Multiple cans"
-name = "Canned chickpeas"
 
 [[items]]
 added_at = "2026-06-18"
@@ -1546,12 +1313,6 @@ added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "snack"
 name = "Sunflower seeds"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "produce"
-name = "Shallots"
 
 [[items]]
 added_at = "2026-06-18"
@@ -1665,37 +1426,7 @@ name = "Dijon mustard"
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "condiment"
-name = "Ketchup"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "condiment"
-name = "Mayonnaise"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "condiment"
 name = "Hot sauces (various)"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "condiment"
-name = "Fish sauce"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "condiment"
-name = "Worcestershire sauce"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "condiment"
-name = "Soy sauce"
 
 [[items]]
 added_at = "2026-06-18"
