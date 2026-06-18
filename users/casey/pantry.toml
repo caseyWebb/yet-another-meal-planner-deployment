@@ -1333,12 +1333,6 @@ name = "Sesame oil"
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "pantry"
-name = "Pancake syrup"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-category = "pantry"
 name = "Maple syrup"
 
 [[items]]
