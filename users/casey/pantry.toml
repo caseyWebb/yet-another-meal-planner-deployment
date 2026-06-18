@@ -1249,3 +1249,271 @@ last_verified_at = "2026-06-18"
 category = "grain"
 name = "Quick cooking oats (flavored)"
 
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Bulldog sauce"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Shin Black ramen"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Croutons"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "snack"
+name = "Honey raisins"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "canned goods"
+notes = "Multiple cans"
+name = "Canned artichoke hearts"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Tahini"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Pesto (nut-free, dairy-free)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Agave nectar"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Apricot preserves"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Fig preserves"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+quantity = "2"
+name = "Extra firm silken tofu"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Light miso"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Sesame oil"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Pancake syrup"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Maple syrup"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Bourbon Worcestershire sauce"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Salad toppers"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "baking"
+name = "Jiffy mix"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+notes = "Multiple bottles"
+name = "Balsamic vinegar"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Sweet soy sauce"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Rice vinegar"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+notes = "Multiple bottles"
+name = "Marsala cooking wine"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "canned goods"
+quantity = "4"
+name = "Whole green chilies"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Mirin"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Hoisin sauce"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Gochujang"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "canned goods"
+name = "Chipotles in adobo"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "condiment"
+name = "Sambal oelek"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "baking"
+name = "Liquid lecithin"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pantry"
+name = "Diced jalapeños"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "canned goods"
+name = "Enchilada sauce"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "canned goods"
+quantity = "2"
+name = "Canned salmon"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "canned goods"
+quantity = "3"
+name = "Tuna in oil"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "canned goods"
+quantity = "4"
+name = "Tuna in water"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pasta"
+name = "Fusilli"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pasta"
+name = "Bucatini"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pasta"
+name = "Spaghetti"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "pasta"
+name = "Rigatoni"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "canned goods"
+quantity = "3"
+name = "Sweetened condensed milk"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "canned goods"
+name = "Jellied cranberry sauce"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "canned goods"
+notes = "Multiple cans"
+name = "Canned chickpeas"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "canned goods"
+name = "Rotel (original)"
+
+[[items]]
+added_at = "2026-06-18"
+last_verified_at = "2026-06-18"
+category = "canned goods"
+name = "Rotel (mild)"
+
