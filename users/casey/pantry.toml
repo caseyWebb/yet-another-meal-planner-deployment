@@ -36,128 +36,6 @@
 # prepared_from = "salmon-with-rice"
 
 [[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "yellow onion"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "white onion"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "scallions"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "red wine vinegar"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "lemon"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "lime"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "tomato paste"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "crushed tomatoes"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "diced tomatoes"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "fire-roasted tomatoes"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "chicken stock"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "beef stock"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "vegetable broth"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "black pepper"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "red pepper flakes"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "bay leaves"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "canned black beans"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "dried pinto beans"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "eggs"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "penne"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "white rice"
-
-[[items]]
-added_at = "2026-06-09"
-last_verified_at = "2026-06-09"
-name = "parmesan"
-
-[[items]]
-added_at = "2026-06-15"
-last_verified_at = "2026-06-15"
-category = "pantry"
-name = "buldak"
-
-[[items]]
-added_at = "2026-06-15"
-last_verified_at = "2026-06-15"
-name = "mustard seeds"
-category = "pantry"
-
-[[items]]
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 quantity = "4 packs"
@@ -178,42 +56,6 @@ quantity = "1 bag"
 location = "freezer"
 notes = "Freezer burned, best for stocks or stews"
 name = "Frozen leg quarters (10 lb bag, freezer burned)"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-location = "freezer"
-name = "Pineapple kolache"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-location = "freezer"
-name = "Cream cheese kolache"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-location = "freezer"
-name = "Lemon cream cheese kolache"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-location = "freezer"
-name = "Apricot kolache"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-location = "freezer"
-name = "Pumpkin cream cheese kolache"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
-location = "freezer"
-name = "Strawberry cream cheese kolache"
 
 [[items]]
 added_at = "2026-06-18"
@@ -1317,12 +1159,6 @@ name = "Sunflower seeds"
 [[items]]
 added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
-category = "dairy"
-name = "Eggs"
-
-[[items]]
-added_at = "2026-06-18"
-last_verified_at = "2026-06-18"
 category = "bread"
 name = "Pita bread"
 
@@ -1475,4 +1311,84 @@ added_at = "2026-06-18"
 last_verified_at = "2026-06-18"
 category = "condiment"
 name = "Blush wine vinaigrette"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+category = "pantry"
+name = "Olive oil"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+category = "pantry"
+name = "Jasmine rice"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+category = "pantry"
+name = "Rice vinegar"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+category = "baking"
+name = "All-purpose flour"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+category = "spice"
+name = "Paprika"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+category = "baking"
+name = "Baking soda"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+category = "baking"
+name = "Baking powder"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+category = "spice blend"
+name = "Garam masala"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+category = "pasta"
+name = "Spaghetti"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+category = "pasta"
+name = "Rigatoni"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+category = "produce"
+name = "Shallots"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+category = "canned goods"
+notes = "Multiple cans"
+name = "Canned chickpeas"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+category = "canned goods"
+quantity = "2"
+name = "Canned salmon"
 
