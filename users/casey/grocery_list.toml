@@ -38,5 +38,74 @@
 # for_recipes = []
 # added_at = "2026-06-09"
 
-items = []
+[[items]]
+name = "Dried black beans"
+quantity = "1"
+kind = "grocery"
+domain = "grocery"
+status = "active"
+source = "menu"
+for_recipes = [ "chicken-and-black-bean-stew" ]
+added_at = "2026-06-19"
+
+[[items]]
+name = "Tomato sauce (15 oz)"
+quantity = "1"
+kind = "grocery"
+domain = "grocery"
+status = "active"
+source = "menu"
+for_recipes = [ "american-goulash" ]
+added_at = "2026-06-19"
+
+[[items]]
+name = "Onions"
+quantity = "2"
+kind = "grocery"
+domain = "grocery"
+status = "active"
+source = "menu"
+for_recipes = [ "chicken-and-black-bean-stew", "american-goulash" ]
+added_at = "2026-06-19"
+
+[[items]]
+name = "Garlic"
+quantity = "1"
+kind = "grocery"
+domain = "grocery"
+status = "active"
+source = "menu"
+for_recipes = [ "american-goulash" ]
+added_at = "2026-06-19"
+
+[[items]]
+name = "Cilantro"
+quantity = "1"
+kind = "grocery"
+domain = "grocery"
+status = "active"
+source = "menu"
+for_recipes = [ "chicken-and-black-bean-stew" ]
+added_at = "2026-06-19"
+
+[[items]]
+name = "Limes"
+quantity = "2"
+kind = "grocery"
+domain = "grocery"
+status = "active"
+source = "menu"
+for_recipes = [ "chicken-and-black-bean-stew" ]
+added_at = "2026-06-19"
+
+[[items]]
+name = "Salad greens"
+quantity = "1"
+kind = "grocery"
+domain = "grocery"
+status = "active"
+source = "menu"
+for_recipes = []
+note = "for the side salads (salmon + goulash)"
+added_at = "2026-06-19"
 
