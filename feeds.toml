@@ -52,3 +52,27 @@ url = "https://www.epicurious.com/services/rss/feeds/LatestFeatures.xml"
 name = "Epicurious - Latest Features"
 weight = 1
 
+[[feeds]]
+url = "https://www.maangchi.com/feed"
+name = "Maangchi"
+weight = 1
+tags = [ "korean" ]
+
+[[feeds]]
+url = "https://www.justonecookbook.com/feed/"
+name = "Just One Cookbook"
+weight = 1
+tags = [ "japanese" ]
+
+[[feeds]]
+url = "https://koreanbapsang.com/feed"
+name = "Korean Bapsang"
+weight = 1
+tags = [ "korean" ]
+
+[[feeds]]
+url = "https://rasamalaysia.com/feed"
+name = "Rasa Malaysia"
+weight = 1
+tags = [ "malaysian", "southeast-asian" ]
+
