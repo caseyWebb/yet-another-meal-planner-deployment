@@ -1,3 +1,7 @@
 [stores]
 primary = "Kroger"
 preferred_location = "Kroger - 83617"
+
+[cooking]
+default = "cook"
+notes = "Prefers cooking dinner most days over heat-and-eat; will flag specific heat-and-eat exceptions as they come up."
