@@ -9,7 +9,6 @@ discovered_at: '2026-06-19'
 discovery_source: Korean Bapsang RSS
 perishable_ingredients:
   - korean radish
-protein: none
 servings: 48
 source: https://www.koreanbapsang.com/kkakdugi-cubed-radish-kimchi
 status: draft
