@@ -76,3 +76,9 @@ name = "Rasa Malaysia"
 weight = 1
 tags = [ "malaysian", "southeast-asian" ]
 
+[[feeds]]
+url = "https://www.indianhealthyrecipes.com/feed"
+name = "Swasthi's Recipes"
+weight = 1
+tags = [ "indian" ]
+
