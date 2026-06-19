@@ -379,6 +379,33 @@
     "uses_components": [],
     "veg_forward": false
   },
+  "catfish-kabayaki": {
+    "course": [
+      "main"
+    ],
+    "cuisine": "japanese",
+    "discovered_at": "2026-06-19",
+    "discovery_source": "Just One Cookbook RSS",
+    "pairs_with": [],
+    "perishable_ingredients": [
+      "basa fillets",
+      "green onion"
+    ],
+    "protein": "fish",
+    "requires_equipment": [],
+    "servings": 2,
+    "slug": "catfish-kabayaki",
+    "source": "https://www.justonecookbook.com/catfish-kabayaki",
+    "tags": [
+      "donburi",
+      "quick",
+      "budget",
+      "weeknight"
+    ],
+    "time_active": 5,
+    "time_total": 15,
+    "title": "Catfish Kabayaki"
+  },
   "channa-masala": {
     "course": [],
     "cuisine": "indian",
@@ -1593,6 +1620,63 @@
     "uses_components": [],
     "veg_forward": true
   },
+  "kkakdugi-cubed-radish-kimchi": {
+    "course": [
+      "side",
+      "condiment"
+    ],
+    "cuisine": "korean",
+    "dietary": [
+      "gluten-free"
+    ],
+    "discovered_at": "2026-06-19",
+    "discovery_source": "Korean Bapsang RSS",
+    "pairs_with": [],
+    "perishable_ingredients": [
+      "korean radish"
+    ],
+    "requires_equipment": [],
+    "servings": 48,
+    "slug": "kkakdugi-cubed-radish-kimchi",
+    "source": "https://www.koreanbapsang.com/kkakdugi-cubed-radish-kimchi",
+    "tags": [
+      "kimchi",
+      "ferment",
+      "condiment",
+      "make-ahead"
+    ],
+    "time_active": 30,
+    "time_total": 40,
+    "title": "Kkakdugi (Cubed Radish Kimchi)"
+  },
+  "la-galbi-korean-bbq-short-ribs": {
+    "course": [
+      "main"
+    ],
+    "cuisine": "korean",
+    "discovered_at": "2026-06-19",
+    "discovery_source": "Korean Bapsang RSS",
+    "pairs_with": [],
+    "perishable_ingredients": [
+      "beef short ribs",
+      "korean/asian pear",
+      "scallions"
+    ],
+    "protein": "beef",
+    "requires_equipment": [],
+    "servings": 4,
+    "slug": "la-galbi-korean-bbq-short-ribs",
+    "source": "https://www.koreanbapsang.com/la-galbi-gui-grilled-la-style-short-ribs",
+    "tags": [
+      "bbq",
+      "grill",
+      "korean-bbq",
+      "galbi"
+    ],
+    "time_active": 20,
+    "time_total": 20,
+    "title": "LA Galbi (Korean BBQ Short Ribs)"
+  },
   "lasagna-bolognese": {
     "course": [],
     "cuisine": "italian",
@@ -1787,6 +1871,32 @@
     "title": "Minestrone Soup",
     "uses_components": [],
     "veg_forward": true
+  },
+  "miso-chicken": {
+    "course": [
+      "main"
+    ],
+    "cuisine": "japanese",
+    "discovered_at": "2026-06-19",
+    "discovery_source": "Just One Cookbook RSS",
+    "pairs_with": [],
+    "perishable_ingredients": [
+      "chicken thighs",
+      "green onion"
+    ],
+    "protein": "chicken",
+    "requires_equipment": [],
+    "servings": 5,
+    "slug": "miso-chicken",
+    "source": "https://www.justonecookbook.com/miso-chicken",
+    "tags": [
+      "miso",
+      "pan-fry",
+      "weeknight"
+    ],
+    "time_active": 10,
+    "time_total": 25,
+    "title": "Miso Chicken"
   },
   "miso-soup": {
     "course": [],
@@ -2475,6 +2585,35 @@
     "uses_components": [],
     "veg_forward": true
   },
+  "red-curry-shrimp": {
+    "course": [
+      "main"
+    ],
+    "cuisine": "thai",
+    "discovered_at": "2026-06-19",
+    "discovery_source": "Rasa Malaysia RSS",
+    "pairs_with": [],
+    "perishable_ingredients": [
+      "shrimp",
+      "red bell pepper",
+      "yellow bell pepper",
+      "cilantro"
+    ],
+    "protein": "shellfish",
+    "requires_equipment": [],
+    "servings": 3,
+    "slug": "red-curry-shrimp",
+    "source": "https://rasamalaysia.com/red-curry-shrimp",
+    "tags": [
+      "curry",
+      "quick",
+      "weeknight",
+      "thai"
+    ],
+    "time_active": 10,
+    "time_total": 20,
+    "title": "Red Curry Shrimp"
+  },
   "reuben-sandwiches": {
     "course": [],
     "cuisine": "american",
@@ -2781,6 +2920,36 @@
     "title": "Stuffed Pepper Skillet",
     "uses_components": [],
     "veg_forward": false
+  },
+  "sundubu-gyeran-guk-soft-tofu-and-egg-soup": {
+    "course": [
+      "main"
+    ],
+    "cuisine": "korean",
+    "discovered_at": "2026-06-19",
+    "discovery_source": "Korean Bapsang RSS",
+    "pairs_with": [],
+    "perishable_ingredients": [
+      "sundubu",
+      "tomato",
+      "green cabbage",
+      "scallion",
+      "eggs"
+    ],
+    "protein": "tofu",
+    "requires_equipment": [],
+    "servings": 2,
+    "slug": "sundubu-gyeran-guk-soft-tofu-and-egg-soup",
+    "source": "https://www.koreanbapsang.com/sundubu-gyeran-guk-soft-tofu-and-egg-soup",
+    "tags": [
+      "soup",
+      "quick",
+      "weeknight",
+      "breakfast"
+    ],
+    "time_active": 10,
+    "time_total": 20,
+    "title": "Sundubu Gyeran Guk (Soft Tofu and Egg Soup)"
   },
   "sweet-potato-gnocchi": {
     "course": [],
@@ -3245,5 +3414,34 @@
     "title": "White Chicken Chili",
     "uses_components": [],
     "veg_forward": false
+  },
+  "zaru-udon-cold-udon-with-dipping-sauce": {
+    "course": [
+      "main"
+    ],
+    "cuisine": "japanese",
+    "dietary": [
+      "vegetarian"
+    ],
+    "discovered_at": "2026-06-19",
+    "discovery_source": "Just One Cookbook RSS",
+    "pairs_with": [],
+    "perishable_ingredients": [
+      "green onion"
+    ],
+    "protein": "vegetarian",
+    "requires_equipment": [],
+    "servings": 2,
+    "slug": "zaru-udon-cold-udon-with-dipping-sauce",
+    "source": "https://www.justonecookbook.com/cold-udon-noodles",
+    "tags": [
+      "noodles",
+      "summer",
+      "quick",
+      "no-cook"
+    ],
+    "time_active": 10,
+    "time_total": 15,
+    "title": "Zaru Udon (Cold Udon with Dipping Sauce)"
   }
 }
