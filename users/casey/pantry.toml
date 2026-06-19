@@ -1392,3 +1392,33 @@ category = "canned goods"
 quantity = "2"
 name = "Canned salmon"
 
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+name = "Mayonnaise"
+category = "condiment"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+name = "Chili bean sauce"
+category = "condiment"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+name = "Toban djan"
+category = "condiment"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+name = "Green curry paste"
+category = "condiment"
+
+[[items]]
+added_at = "2026-06-19"
+last_verified_at = "2026-06-19"
+name = "Yellow mustard"
+category = "condiment"
+
