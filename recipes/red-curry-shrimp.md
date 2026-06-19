@@ -9,7 +9,7 @@ perishable_ingredients:
   - red bell pepper
   - yellow bell pepper
   - cilantro
-protein: shrimp
+protein: shellfish
 servings: 3
 source: https://rasamalaysia.com/red-curry-shrimp
 status: draft
