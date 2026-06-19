@@ -8,7 +8,7 @@ discovered_at: '2026-06-19'
 discovery_source: Just One Cookbook RSS
 perishable_ingredients:
   - green onion
-protein: none
+protein: vegetarian
 servings: 2
 source: https://www.justonecookbook.com/cold-udon-noodles
 status: draft
