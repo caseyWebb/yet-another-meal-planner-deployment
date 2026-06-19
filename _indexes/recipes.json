@@ -877,6 +877,7 @@
     "veg_forward": true
   },
   "corn-stock": {
+    "course": [],
     "cuisine": "american",
     "dietary": [
       "vegan",
