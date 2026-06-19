@@ -1,0 +1,5 @@
+owned = [ "blender", "pressure-cooker", "sous-vide-circulator" ]
+
+[notes]
+blender_type = "immersion, not countertop"
+
