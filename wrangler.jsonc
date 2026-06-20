@@ -1,27 +1,19 @@
 {
-	// grocery-mcp Worker config (operator: caseyWebb). Overlaid onto the upstream
-	// Worker source at deploy time (.github/workflows/deploy.yml). All non-secret —
+	// grocery-mcp Worker config (operator: caseyWebb). Merged with upstream code-level
+	// config at deploy time — this file owns ONLY operator-specific values. All non-secret —
 	// the Worker's real secrets (GitHub App key, Kroger creds) are set once via
 	// `wrangler secret put` and persist across deploys.
 	"name": "grocery-mcp",
-	"main": "src/index.ts",
 	"workers_dev": false,
-	"compatibility_date": "2025-06-01",
-	"compatibility_flags": ["nodejs_compat"],
 	"vars": {
 		"GITHUB_APP_ID": "4022505",
-		"GITHUB_INSTALLATION_ID": "139471207",
-		"DATA_OWNER": "caseyWebb",
-		"DATA_REPO": "groceries-agent-data",
-		"DATA_REF": "main"
+		// Optional: omitting causes the Worker to resolve this at runtime via the App API.
+		"GITHUB_INSTALLATION_ID": "139471207"
 	},
 	"kv_namespaces": [
+		{ "binding": "DATA_KV", "id": "fee9c2c48e2842a28431b599097dbaef" },
 		{ "binding": "KROGER_KV", "id": "aee060bb679141d995c8bc0d5643b9d3" },
 		{ "binding": "TENANT_KV", "id": "3f4eb3ff016647c9b32e340d0b2dfe64" },
 		{ "binding": "OAUTH_KV", "id": "fad701614c5a4a7e950207fd6772e225" }
-	],
-	"observability": { "enabled": true },
-  "triggers": {
-    "crons": ["*/5 * * * *"]
-  }
+	]
 }
