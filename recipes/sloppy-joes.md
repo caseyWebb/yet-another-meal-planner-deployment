@@ -1,6 +1,10 @@
 ---
 title: Sloppy Joes
 description: "Classic American sloppy joes: ground beef simmered in a tangy-sweet ketchup sauce with celery and onion, piled onto soft buns. Saucy, savory, and a little sweet, it's nostalgic comfort food on the table in about 20 minutes."
+side_search_terms:
+  - "crispy oven fries or potato wedges"
+  - "a crisp tangy coleslaw to cut the sweetness"
+  - "a simple dressed green salad"
 tags:
   - comfort-foods
   - easy-dinners

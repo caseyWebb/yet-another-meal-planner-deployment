@@ -1,6 +1,10 @@
 ---
 title: 'Crispy Baked Pasta with Mushrooms, Sausage, and Parmesan Cream Sauce'
 description: "Ridged pasta tossed with browned Italian sausage and meaty mushrooms in a parmesan cream sauce, then broiled under a garlicky panko crust until golden and crisp. Rich, savory, and deeply comforting cold-weather food for an unhurried weekend dinner."
+side_search_terms:
+  - "a crisp acidic green salad to cut the richness"
+  - "garlicky sauteed bitter greens"
+  - "a simple marinated vegetable antipasto"
 tags:
   - pastas
   - comfort-foods

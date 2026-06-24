@@ -20,6 +20,10 @@ time_active: 5
 time_total: 15
 title: Catfish Kabayaki
 description: "A budget Japanese donburi of flour-dusted basa fillets pan-fried golden and glazed in a sweet-savory soy, mirin, and sake kabayaki sauce over short-grain rice. Glossy and quick, it is an easy weeknight dinner ready in about 15 minutes."
+side_search_terms:
+  - "a clear light miso or vegetable soup"
+  - "a cooling cucumber or pickled vegetable side"
+  - "a simple blanched green vegetable with sesame"
 ---
 A budget-friendly take on unagi donburi: basa (catfish) fillets pan-fried until golden and glazed in a sweet-savory kabayaki sauce. Ready in 15 minutes.
 

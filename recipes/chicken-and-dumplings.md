@@ -1,6 +1,10 @@
 ---
 title: Chicken and Dumplings
 description: "A classic American soup of shredded chicken in a creamy, herb-flecked broth crowned with fluffy, tender drop dumplings. Rich, warming, and stick-to-your-ribs comforting, a slower from-scratch project for cold fall and winter nights."
+side_search_terms:
+  - "a crisp acidic green salad to cut the richness"
+  - "a simple buttered or sauteed green vegetable"
+  - "a tangy slaw or marinated vegetable side"
 tags:
   - comfort-foods
   - soups

@@ -1,6 +1,10 @@
 ---
 title: Corn Risotto
 description: "A creamy summer risotto of arborio rice cooked in corn stock with white wine, shallots, and thyme, enriched with a sweet corn purée and pecorino. Sweet, silky, and comforting, a vegetarian side or main at peak corn season."
+side_search_terms:
+  - "a sharp green salad with vinaigrette"
+  - "garlicky sauteed bitter greens"
+  - "a bright marinated tomato or vegetable side"
 tags:
   - italian
   - vegetarian

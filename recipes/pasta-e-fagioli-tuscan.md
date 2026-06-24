@@ -1,6 +1,10 @@
 ---
 title: Pasta e Fagioli (Tuscan)
 description: "A rustic Tuscan bean and pasta soup, half the beans blended smooth and creamy with the rest left whole, perfumed with sage and rosemary and finished with peppery olive oil. Velvety, savory, and vegan, satisfying comfort for a cold fall or winter day."
+side_search_terms:
+  - "a sharp green salad with vinaigrette"
+  - "garlicky sauteed bitter greens"
+  - "a simple marinated vegetable antipasto"
 tags:
   - italian
   - soup

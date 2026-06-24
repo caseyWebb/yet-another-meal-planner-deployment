@@ -1,6 +1,10 @@
 ---
 title: Pollo Guisado
 description: "A Mexican-style braised chicken stew, with bone-in pieces simmered in a deep tomato-and-árbol-chile sauce alongside tender potatoes and carrots. Warming, savory, and gently spiced, it's slow comfort food for an unhurried cold-weather meal with crusty bread."
+side_search_terms:
+  - "warm rice to soak up the sauce"
+  - "a crisp bright cabbage or cucumber slaw"
+  - "a fresh avocado and tomato salad"
 tags:
   - mexican
   - stew

@@ -1,6 +1,10 @@
 ---
 title: Vaca Frita
 description: "A Cuban dish of beef chuck simmered until tender, shredded, marinated in lime, garlic, and cumin, then pan-fried crisp with sweet sauteed onions. Savory, tangy, and crunchy-edged, it is a hearty weekend main served with black beans and rice."
+side_search_terms:
+  - "black beans and fluffy white rice"
+  - "fried sweet plantains"
+  - "a bright crisp avocado and citrus salad"
 tags:
   - beef
   - cuban

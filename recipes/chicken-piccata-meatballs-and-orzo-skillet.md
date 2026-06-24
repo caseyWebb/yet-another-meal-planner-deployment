@@ -1,6 +1,10 @@
 ---
 title: Chicken Piccata Meatballs and Orzo Skillet
 description: "A one-pan riff on chicken piccata: tender ground-chicken meatballs simmered with orzo in a lemony, caper-flecked broth finished with butter and parsley. Bright, savory, and a little tangy, an easy weeknight skillet dinner."
+side_search_terms:
+  - "a sharp green salad with vinaigrette"
+  - "garlicky sauteed bitter greens"
+  - "a simple roasted vegetable side"
 protein: chicken
 cuisine: italian
 course:

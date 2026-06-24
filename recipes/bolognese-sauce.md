@@ -1,6 +1,10 @@
 ---
 title: Bolognese Sauce
 description: "A slow-cooked Italian meat sauce of beef, pork, and lamb with pancetta and chicken livers, braised for hours in tomato, wine, milk, and cream into something deep, glossy, and intensely savory. A rich, special-occasion ragu for tossing with pappardelle on an unhurried weekend."
+side_search_terms:
+  - "a sharp green salad with vinaigrette to cut the richness"
+  - "garlicky sauteed bitter greens"
+  - "a simple marinated vegetable antipasto"
 tags:
   - italian
   - pasta

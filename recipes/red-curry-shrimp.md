@@ -22,6 +22,10 @@ time_active: 10
 time_total: 20
 title: Red Curry Shrimp
 description: "A fast Thai-style red curry with plump shrimp and crisp bell peppers in a light, fragrant coconut broth balanced by fish sauce and lime-fresh heat. Quick and warming, ready in 20 minutes over steamed rice for an easy weeknight dinner."
+side_search_terms:
+  - "steamed jasmine rice"
+  - "a cooling cucumber or fresh herb salad"
+  - "a crisp tangy green papaya or vegetable slaw"
 ---
 Fast Thai-style red curry with shrimp and bell peppers in a light coconut broth. Ready in 20 minutes — quick enough for a weeknight.
 

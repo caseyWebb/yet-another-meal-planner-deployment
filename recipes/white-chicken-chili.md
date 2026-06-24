@@ -1,6 +1,10 @@
 ---
 title: White Chicken Chili
 description: "A Southwestern stew of shredded chicken and white beans in a broth built from broiled poblano, Anaheim, and jalapeno chiles, melted pepper Jack, lime, and cilantro. Warming, mildly spicy, and creamy, it is a hearty cold-weather pot worth the slow simmer."
+side_search_terms:
+  - "warm cornbread to soak up the broth"
+  - "a crisp lime-dressed cabbage slaw"
+  - "a fresh avocado or tomato salad"
 tags:
   - comfort-foods
   - soups

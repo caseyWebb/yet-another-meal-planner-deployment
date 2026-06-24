@@ -21,6 +21,10 @@ time_active: 20
 time_total: 20
 title: LA Galbi (Korean BBQ Short Ribs)
 description: "Thin-cut Korean BBQ short ribs marinated in soy, sesame, garlic, and grated pear, then grilled fast over high heat. Caramelized, savory-sweet, and tender. A celebratory main for cookouts and gatherings, best marinated overnight."
+side_search_terms:
+  - "steamed rice"
+  - "a cooling cucumber or pickled vegetable side"
+  - "a crisp sesame slaw"
 ---
 Korean BBQ short ribs marinated in a sweet-savory sauce with pear or apple as a natural tenderizer. Can be grilled, broiled, or pan-fried. Best marinated overnight.
 

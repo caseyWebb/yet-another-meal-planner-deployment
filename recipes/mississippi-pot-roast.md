@@ -1,6 +1,10 @@
 ---
 title: Mississippi Pot Roast
 description: "A slow-braised chuck roast pulled into tender shreds in a tangy, buttery gravy of pepperoncini, dill, and buttermilk. Rich, savory, and lightly piquant cold-weather comfort food for an unhurried weekend that feeds a crowd."
+side_search_terms:
+  - "creamy mashed potatoes for the gravy"
+  - "a simple buttered or sauteed green vegetable"
+  - "a crisp acidic green salad to cut the richness"
 tags:
   - american
   - beef

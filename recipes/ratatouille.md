@@ -1,6 +1,10 @@
 ---
 title: Ratatouille
 description: "A baked French ratatouille of thinly sliced eggplant, zucchini, squash, and tomato layered over marinara and topped with melted mozzarella. Light yet savory and herb-scented, it's a veg-forward summer dish that makes the most of peak garden vegetables."
+side_search_terms:
+  - "crusty bread to soak up the sauce"
+  - "a starchy side of rice or roasted potatoes"
+  - "a simple green salad with vinaigrette"
 tags:
   - french
   - vegetarian

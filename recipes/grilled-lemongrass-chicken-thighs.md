@@ -31,6 +31,10 @@ time_active: 30
 time_total: 40
 title: Grilled Lemongrass Chicken Thighs
 description: "Vietnamese grilled chicken thighs in a lemongrass, garlic, and fish-sauce marinade that doubles as a tangy lime dressing. Smoky-charred, savory, and bright, scattered with cool cucumber and cilantro. A summer cookout main for warm evenings."
+side_search_terms:
+  - "steamed jasmine rice or rice noodles"
+  - "a crunchy herb and cabbage slaw"
+  - "quick tangy pickled vegetables"
 perishable_ingredients: [lemongrass, serrano chile, chicken thighs, cucumber, cilantro]
 ---
 Vietnamese-style lemongrass chicken thighs where the blender marinade doubles as the final dressing. Works on grill or grill pan.

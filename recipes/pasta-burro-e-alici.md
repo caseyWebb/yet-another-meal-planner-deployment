@@ -1,6 +1,10 @@
 ---
 title: Pasta Burro e Alici
 description: "A southern Italian long pasta cloaked in a silky emulsified butter-and-anchovy sauce, brightened with lemon and parsley and topped with crunchy toasted breadcrumbs. Deeply savory-umami and rich yet light, a pantry-driven weeknight dinner."
+side_search_terms:
+  - "a crisp acidic green salad to cut the richness"
+  - "garlicky sauteed bitter greens"
+  - "a simple marinated vegetable antipasto"
 tags:
   - pastas
   - easy-dinners

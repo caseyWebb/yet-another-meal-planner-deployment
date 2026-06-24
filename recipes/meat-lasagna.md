@@ -1,6 +1,10 @@
 ---
 title: Meat Lasagna
 description: "An ambitious baked lasagna with a three-meat lamb, pork, and veal ragù simmered for hours, layered with seasoned ricotta, mozzarella besciamella, and Parmesan. Hearty, rich, and golden-crusted. An all-day weekend undertaking for a crowd."
+side_search_terms:
+  - "a crisp acidic green salad to cut the richness"
+  - "garlicky sauteed bitter greens"
+  - "a simple marinated vegetable antipasto"
 tags:
   - italian
   - mixed

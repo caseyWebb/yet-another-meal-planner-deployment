@@ -1,6 +1,10 @@
 ---
 title: Tomato Tortellini Soup
 description: "A creamy tomato soup loaded with cheese tortellini and wilted spinach, rich with heavy cream and Parmesan and gently spiced with red pepper. Cozy, hearty weeknight comfort ready in about 15 minutes."
+side_search_terms:
+  - "a crisp green salad with sharp vinaigrette"
+  - "crusty garlic bread for dipping"
+  - "garlicky sauteed greens"
 tags:
   - vegetarian
   - italian

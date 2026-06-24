@@ -1,6 +1,10 @@
 ---
 title: Arroz Caldo
 description: "A Filipino chicken-and-rice porridge simmered with ginger, garlic, and fish sauce into a thick, soothing congee, finished with scallions, crispy fried garlic, and a squeeze of calamansi. Warming, gingery comfort in a bowl for cold or under-the-weather days."
+side_search_terms:
+  - "a bright tangy pickled vegetable side"
+  - "a crisp fresh cucumber or green salad"
+  - "a sharp citrusy dipping condiment"
 tags:
   - filipino
   - chicken

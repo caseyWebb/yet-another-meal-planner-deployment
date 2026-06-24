@@ -1,6 +1,10 @@
 ---
 title: Peruvian-Style Tofu With Creamy Cilantro Sauce
 description: "Grilled cumin-and-paprika-marinated tofu planks, smoky and charred, served with a cool, creamy blender sauce of cilantro, scallion, avocado, lime, and serrano. A fresh, herb-bright vegan main for warm spring and summer evenings."
+side_search_terms:
+  - "a starchy side like rice or roasted potatoes"
+  - "a bright corn and avocado salad"
+  - "charred or grilled summer vegetables"
 cuisine: peruvian
 dietary:
   - vegetarian

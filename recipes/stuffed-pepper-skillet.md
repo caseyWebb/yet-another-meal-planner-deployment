@@ -1,6 +1,10 @@
 ---
 title: Stuffed Pepper Skillet
 description: "A one-pan deconstructed stuffed pepper with Italian sausage, bell peppers, and rice simmered in tomato and beef broth, then blanketed with melted Colby Jack. Hearty, savory weeknight comfort with easy cleanup."
+side_search_terms:
+  - "a crisp green salad with tangy vinaigrette"
+  - "garlicky sauteed greens"
+  - "a fresh crunchy vegetable slaw"
 cuisine: american
 protein: pork
 dietary: []

@@ -1,6 +1,10 @@
 ---
 title: Sweet Potato Gnocchi with Sage Butter
 description: "Pillowy sweet potato gnocchi tossed in nutty browned sage butter with Parmigiano, lemon zest, and Aleppo pepper — soft, rich, and gently sweet against savory herb butter. A fall and winter project worth the long, slow afternoon."
+side_search_terms:
+  - "a sharp green salad with bright vinaigrette to cut the richness"
+  - "garlicky sauteed bitter greens"
+  - "a crisp lemony shaved vegetable side"
 tags:
   - vegetarian
   - italian

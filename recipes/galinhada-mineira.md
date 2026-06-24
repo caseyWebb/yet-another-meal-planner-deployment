@@ -1,6 +1,10 @@
 ---
 title: Galinhada Mineira
 description: "A Brazilian one-pot chicken and rice from Minas Gerais, browned chicken and parboiled rice simmered together with annatto, carrot, onion, peas, and corn until golden and tender. Savory, warming comfort food that feeds a crowd from a single pot."
+side_search_terms:
+  - "a bright crisp green salad with vinaigrette"
+  - "garlicky sauteed leafy greens"
+  - "a tangy tomato and onion salad"
 tags:
   - brazilian
   - chicken

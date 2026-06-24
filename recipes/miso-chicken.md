@@ -1,6 +1,10 @@
 ---
 title: Miso Chicken
 description: "Japanese pan-fried chicken thighs marinated in sweet-savory miso, seared until the skin is crisp and golden, then finished with a glossy miso glaze over rice. Umami-rich and juicy. An easy weeknight main, though it needs a day's marinating."
+side_search_terms:
+  - "a crisp cooling cucumber or sesame slaw"
+  - "a simple quick-pickled vegetable side"
+  - "lightly dressed blanched greens"
 source: https://www.justonecookbook.com/miso-chicken
 cuisine: japanese
 protein: chicken

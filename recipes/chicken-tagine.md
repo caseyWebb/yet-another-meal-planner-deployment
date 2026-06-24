@@ -1,6 +1,10 @@
 ---
 title: 'Chicken Tagine with Pistachios, Dried Figs, and Chickpeas'
 description: "A slow Moroccan braise of chicken legs cooked gently with sweet dried figs, chickpeas, and pistachios in saffron-and-ginger-spiced onions. Warm, sweet-savory, and tender over couscous, a fragrant cold-weather dish for an unhurried meal."
+side_search_terms:
+  - "a bright lemony shredded carrot or herb salad"
+  - "fluffy couscous or warm flatbread"
+  - "a crisp cooling cucumber and tomato salad"
 tags:
   - braise
   - moroccan

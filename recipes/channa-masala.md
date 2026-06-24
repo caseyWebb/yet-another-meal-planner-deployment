@@ -1,6 +1,11 @@
 ---
 title: Channa Masala
 description: "A North Indian one-pot of chickpeas simmered in a deeply browned onion-and-tomato base with ginger, green chile, toasted mustard and cumin, and garam masala, brightened with lemon and cilantro. Warming, tangy, and adjustably spicy, it is a vegan weeknight main over rice or naan."
+side_search_terms:
+  - "fragrant steamed basmati rice"
+  - "warm flatbread or naan to scoop"
+  - "a cooling cucumber and yogurt raita"
+  - "a crisp tangy onion or cabbage salad"
 tags:
   - vegetarian
   - indian

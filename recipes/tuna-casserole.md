@@ -1,6 +1,10 @@
 ---
 title: Tuna Casserole
 description: "An elevated baked tuna-and-egg-noodle casserole in a white-wine mushroom-leek cream sauce with white cheddar, brightened by lemon, dill, and chives, under a crunchy potato-chip crust. Rich, savory comfort food for a relaxed night in."
+side_search_terms:
+  - "a crisp acidic green salad to cut the richness"
+  - "a simple buttered or roasted green vegetable"
+  - "a tangy quick-pickled vegetable side"
 tags:
   - fish
   - american

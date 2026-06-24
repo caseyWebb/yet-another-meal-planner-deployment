@@ -1,6 +1,10 @@
 ---
 title: Beef Stew
 description: "A slow oven-braised beef chuck stew with carrots, potatoes, mushrooms, and pearl onions in a deeply savory, gelatin-rich gravy. Hearty, fork-tender cold-weather comfort food for an unhurried fall or winter afternoon."
+side_search_terms:
+  - "a crisp acidic green salad to cut the richness"
+  - "crusty bread for the gravy"
+  - "a bright simply dressed vegetable side"
 tags:
   - american
   - beef
