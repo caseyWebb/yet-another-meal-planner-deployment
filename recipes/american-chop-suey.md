@@ -1,5 +1,6 @@
 ---
 title: American Chop Suey
+description: "A one-pot skillet of elbow macaroni and ground beef in an oregano-spiced tomato sauce, melted through with mozzarella and Parmesan. Rich, cheesy, and savory diner-style comfort food for an easy weeknight that feeds a crowd."
 tags:
   - american
   - beef

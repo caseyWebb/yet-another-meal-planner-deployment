@@ -1,5 +1,6 @@
 ---
 title: Double-Caramel Flan
+description: "A silky baked custard set over a layer of bittersweet caramel, with caramel cooked into the cream itself for a deeper, toasty edge. Cool, rich, and just-sweet, it's a make-ahead dessert to chill overnight for a dinner party or special occasion."
 tags:
   - dessert
   - mexican

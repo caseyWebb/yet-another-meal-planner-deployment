@@ -1,5 +1,6 @@
 ---
 title: Chicken Adobo
+description: "A Filipino braise of chicken legs simmered in soy sauce, vinegar, garlic, and bay, then reduced to a glossy, dark, salty-sour-sweet sauce. Hearty and deeply savory over rice, an easy hands-off weeknight dinner from the pressure cooker."
 tags:
   - easy-dinners
   - instant-pot

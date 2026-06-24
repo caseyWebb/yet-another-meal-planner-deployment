@@ -2,6 +2,7 @@
 cuisine: korean
 dietary:
   - dairy-free
+description: "A Korean rice bowl layering sweet-spicy ground beef, sesame spinach, fresh cucumber and carrot, and kimchi over jasmine rice, crowned with a fried egg. Savory, fresh, and customizable, it is a fast weeknight or meal-prep dinner."
 difficulty: easy
 discovered_at: '2026-06-11'
 discovery_source: Budget Bytes RSS

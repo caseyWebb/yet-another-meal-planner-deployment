@@ -1,5 +1,6 @@
 ---
 title: Moroccan Egg Drop Harira
+description: "A warming Moroccan tomato soup simmered with green lentils, chickpeas, rice, and warm spices of ginger, turmeric, cinnamon, and saffron, finished with egg threads and bright cilantro. Hearty, gently spiced, and comforting for a cold evening or breaking a fast."
 tags:
   - moroccan
   - vegetarian

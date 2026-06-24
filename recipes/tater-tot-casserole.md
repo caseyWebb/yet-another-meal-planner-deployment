@@ -1,5 +1,6 @@
 ---
 title: Tater Tot Casserole
+description: "A baked casserole of savory ground beef, peas, and corn under a from-scratch roasted-mushroom cream sauce, capped with crisp golden Tater Tots. Rich, nostalgic comfort food for a cozy fall or winter night."
 tags:
   - beef
   - american

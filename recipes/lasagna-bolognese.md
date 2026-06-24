@@ -1,5 +1,6 @@
 ---
 title: Lasagna Bolognese
+description: "Classic baked lasagna layering fresh pasta with slow-cooked meat ragù, silky béchamel, and Parmigiano. Rich, creamy, and deeply savory under a browned, bubbling top. An involved weekend project for a special-occasion family dinner."
 tags:
   - italian
   - beef
