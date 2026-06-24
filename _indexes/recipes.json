@@ -2,6 +2,7 @@
   "american-chop-suey": {
     "course": [],
     "cuisine": "american",
+    "description": "A one-pot skillet of elbow macaroni and ground beef in an oregano-spiced tomato sauce, melted through with mozzarella and Parmesan. Rich, cheesy, and savory diner-style comfort food for an easy weeknight that feeds a crowd.",
     "dietary": [],
     "difficulty": "easy",
     "discovered_at": null,
@@ -27,6 +28,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 10,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "american-chop-suey",
     "source": "https://www.seriouseats.com/johnny-marzetti-beefaroni-hamburger-helper-goulash-italian-american-recipe",
     "style": "one-pot",
@@ -47,6 +53,7 @@
   "american-goulash": {
     "course": [],
     "cuisine": "american",
+    "description": "A budget one-pot of ground beef and elbow macaroni simmered in tomato sauce with bell peppers, red wine, and herbs. Hearty, savory, and dairy-free, it is undemanding weeknight comfort food that stretches to feed a family.",
     "dietary": [
       "dairy-free"
     ],
@@ -71,6 +78,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a crisp marinated vegetable side"
+    ],
     "slug": "american-goulash",
     "source": "https://www.budgetbytes.com/goulash/",
     "style": "one-pot",
@@ -92,6 +104,7 @@
   "arroz-caldo": {
     "course": [],
     "cuisine": "filipino",
+    "description": "A Filipino chicken-and-rice porridge simmered with ginger, garlic, and fish sauce into a thick, soothing congee, finished with scallions, crispy fried garlic, and a squeeze of calamansi. Warming, gingery comfort in a bowl for cold or under-the-weather days.",
     "dietary": [
       "dairy-free"
     ],
@@ -118,6 +131,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a bright tangy pickled vegetable side",
+      "a crisp fresh cucumber or green salad",
+      "a sharp citrusy dipping condiment"
+    ],
     "slug": "arroz-caldo",
     "source": "https://www.seriouseats.com/arroz-caldo-chicken-rice-soup-recipe",
     "style": "soup",
@@ -139,6 +157,7 @@
   "beef-stew": {
     "course": [],
     "cuisine": "american",
+    "description": "A slow oven-braised beef chuck stew with carrots, potatoes, mushrooms, and pearl onions in a deeply savory, gelatin-rich gravy. Hearty, fork-tender cold-weather comfort food for an unhurried fall or winter afternoon.",
     "dietary": [
       "dairy-free"
     ],
@@ -169,6 +188,11 @@
       "winter"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "crusty bread for the gravy",
+      "a bright simply dressed vegetable side"
+    ],
     "slug": "beef-stew",
     "source": "https://www.seriouseats.com/all-american-beef-stew-recipe",
     "style": "stew",
@@ -191,6 +215,7 @@
   "bibimbap-bowl": {
     "course": [],
     "cuisine": "korean",
+    "description": "A Korean rice bowl layering sweet-spicy ground beef, sesame spinach, fresh cucumber and carrot, and kimchi over jasmine rice, crowned with a fried egg. Savory, fresh, and customizable, it is a fast weeknight or meal-prep dinner.",
     "dietary": [
       "dairy-free"
     ],
@@ -218,6 +243,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a cooling cucumber or pickled vegetable side",
+      "a quick miso or seaweed soup",
+      "a crisp sesame slaw"
+    ],
     "slug": "bibimbap-bowl",
     "source": "https://www.budgetbytes.com/bibimbap",
     "style": "bowl",
@@ -238,6 +268,7 @@
   "bolognese-sauce": {
     "course": [],
     "cuisine": "italian",
+    "description": "A slow-cooked Italian meat sauce of beef, pork, and lamb with pancetta and chicken livers, braised for hours in tomato, wine, milk, and cream into something deep, glossy, and intensely savory. A rich, special-occasion ragu for tossing with pappardelle on an unhurried weekend.",
     "dietary": [],
     "difficulty": "hard",
     "discovered_at": null,
@@ -268,6 +299,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 10,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "bolognese-sauce",
     "source": "https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe",
     "style": "braise",
@@ -290,6 +326,7 @@
   "boston-baked-beans": {
     "course": [],
     "cuisine": "american",
+    "description": "Navy beans slow-baked for hours with salt pork, molasses, and mustard until meltingly tender under a dark, browned crust. Sweet, smoky, and sticky, this hearty New England side is make-ahead comfort food for cold weather and cookouts.",
     "dietary": [
       "dairy-free"
     ],
@@ -333,6 +370,7 @@
   "butter-chicken": {
     "course": [],
     "cuisine": "indian",
+    "description": "A North Indian makhani of broiler-charred marinated chicken thighs in a silky tomato-cashew sauce enriched with butter, cream, garam masala, and fenugreek. Rich, mildly spiced, and deeply savory, it is a restaurant-style braise worth a weekend cook, served over rice.",
     "dietary": [
       "gluten-free"
     ],
@@ -362,6 +400,12 @@
     ],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "warm flatbread to soak up the sauce",
+      "a cooling cucumber yogurt salad",
+      "a tangy quick-pickled vegetable side",
+      "a crisp lightly spiced green salad"
+    ],
     "slug": "butter-chicken",
     "source": "https://www.seriouseats.com/stovetop-butter-chicken",
     "style": "braise",
@@ -384,6 +428,7 @@
       "main"
     ],
     "cuisine": "japanese",
+    "description": "A budget Japanese donburi of flour-dusted basa fillets pan-fried golden and glazed in a sweet-savory soy, mirin, and sake kabayaki sauce over short-grain rice. Glossy and quick, it is an easy weeknight dinner ready in about 15 minutes.",
     "discovered_at": "2026-06-19",
     "discovery_source": "Just One Cookbook RSS",
     "pairs_with": [],
@@ -394,6 +439,11 @@
     "protein": "fish",
     "requires_equipment": [],
     "servings": 2,
+    "side_search_terms": [
+      "a clear light miso or vegetable soup",
+      "a cooling cucumber or pickled vegetable side",
+      "a simple blanched green vegetable with sesame"
+    ],
     "slug": "catfish-kabayaki",
     "source": "https://www.justonecookbook.com/catfish-kabayaki",
     "tags": [
@@ -409,6 +459,7 @@
   "channa-masala": {
     "course": [],
     "cuisine": "indian",
+    "description": "A North Indian one-pot of chickpeas simmered in a deeply browned onion-and-tomato base with ginger, green chile, toasted mustard and cumin, and garam masala, brightened with lemon and cilantro. Warming, tangy, and adjustably spicy, it is a vegan weeknight main over rice or naan.",
     "dietary": [
       "vegetarian",
       "vegan",
@@ -438,6 +489,12 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "fragrant steamed basmati rice",
+      "warm flatbread or naan to scoop",
+      "a cooling cucumber and yogurt raita",
+      "a crisp tangy onion or cabbage salad"
+    ],
     "slug": "channa-masala",
     "source": "https://www.seriouseats.com/channa-masala-recipe",
     "style": "one-pot",
@@ -458,6 +515,7 @@
   "chicken-adobo": {
     "course": [],
     "cuisine": "filipino",
+    "description": "A Filipino braise of chicken legs simmered in soy sauce, vinegar, garlic, and bay, then reduced to a glossy, dark, salty-sour-sweet sauce. Hearty and deeply savory over rice, an easy hands-off weeknight dinner from the pressure cooker.",
     "dietary": [
       "dairy-free"
     ],
@@ -482,6 +540,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "steamed white rice",
+      "a crisp tangy pickled vegetable side",
+      "a simple bright green vegetable to lighten the plate"
+    ],
     "slug": "chicken-adobo",
     "source": "https://www.foodnetwork.com/recipes/food-network-kitchen/instant-pot-chicken-adobo-3649636",
     "style": "braise",
@@ -501,6 +564,7 @@
   "chicken-and-black-bean-stew": {
     "course": [],
     "cuisine": "southwestern",
+    "description": "A southwestern pressure-cooker stew of black beans, smoky sausage, cumin, and green chiles thickened around shredded chicken. Warming, spiced, and brothy, finished bright with lime, cilantro, and sour cream. Cozy cold-weather comfort for an easy hands-off night.",
     "dietary": [],
     "difficulty": "easy",
     "discovered_at": null,
@@ -524,6 +588,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "warm cornbread or soft tortillas",
+      "a cooling crisp avocado and lime salad",
+      "a fresh charred corn or cabbage slaw"
+    ],
     "slug": "chicken-and-black-bean-stew",
     "source": "https://www.seriouseats.com/quick-and-easy-pressure-cooker-chicken-black-bean-stew-recipe",
     "style": "stew",
@@ -542,6 +611,7 @@
   "chicken-and-dumplings": {
     "course": [],
     "cuisine": "american",
+    "description": "A classic American soup of shredded chicken in a creamy, herb-flecked broth crowned with fluffy, tender drop dumplings. Rich, warming, and stick-to-your-ribs comforting, a slower from-scratch project for cold fall and winter nights.",
     "dietary": [],
     "difficulty": "medium",
     "discovered_at": null,
@@ -571,6 +641,11 @@
       "winter"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "a simple buttered or sauteed green vegetable",
+      "a tangy slaw or marinated vegetable side"
+    ],
     "slug": "chicken-and-dumplings",
     "source": null,
     "style": "soup",
@@ -589,6 +664,7 @@
   "chicken-and-rice": {
     "course": [],
     "cuisine": "american",
+    "description": "A one-pot skillet of spice-rubbed chicken thighs simmered on top of toasted long-grain rice in broth, savory and tender with paprika, thyme, and oregano. An easy, hands-off weeknight dinner for nights you want comfort without fuss.",
     "dietary": [
       "gluten-free",
       "dairy-free"
@@ -614,6 +690,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a crisp acidic green salad to brighten the plate",
+      "a simple buttered or roasted green vegetable",
+      "a fresh tomato and cucumber salad"
+    ],
     "slug": "chicken-and-rice",
     "source": "https://www.budgetbytes.com/one-pot-chicken-and-rice/",
     "style": "one-pot",
@@ -632,6 +713,7 @@
   "chicken-chile-verde": {
     "course": [],
     "cuisine": "mexican",
+    "description": "A pressure-cooker Mexican stew of bone-in chicken in a tangy green sauce of tomatillos, poblano, and roasted chiles, brightened with cilantro and lime. Tart, mildly spicy, and warming, served with tortillas for a fast weeknight braise.",
     "dietary": [
       "gluten-free",
       "dairy-free"
@@ -661,6 +743,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "warm rice or cilantro-lime rice to soak up the sauce",
+      "a cooling avocado or crema-dressed salad",
+      "a fresh corn and tomato salad"
+    ],
     "slug": "chicken-chile-verde",
     "source": "https://www.seriouseats.com/pressure-cooker-fast-and-easy-chicken-chile-verde-recipe",
     "style": "pressure-cooker",
@@ -680,6 +767,7 @@
       "main"
     ],
     "cuisine": "italian",
+    "description": "A one-pan riff on chicken piccata: tender ground-chicken meatballs simmered with orzo in a lemony, caper-flecked broth finished with butter and parsley. Bright, savory, and a little tangy, an easy weeknight skillet dinner.",
     "dietary": [],
     "difficulty": "easy",
     "discovered_at": "2026-06-15",
@@ -702,6 +790,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a simple roasted vegetable side"
+    ],
     "slug": "chicken-piccata-meatballs-and-orzo-skillet",
     "source": "https://www.budgetbytes.com/chicken-piccata-meatballs-and-orzo-skillet",
     "style": "one-pot",
@@ -722,6 +815,7 @@
   "chicken-tagine": {
     "course": [],
     "cuisine": "moroccan",
+    "description": "A slow Moroccan braise of chicken legs cooked gently with sweet dried figs, chickpeas, and pistachios in saffron-and-ginger-spiced onions. Warm, sweet-savory, and tender over couscous, a fragrant cold-weather dish for an unhurried meal.",
     "dietary": [
       "gluten-free",
       "dairy-free"
@@ -749,6 +843,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a bright lemony shredded carrot or herb salad",
+      "fluffy couscous or warm flatbread",
+      "a crisp cooling cucumber and tomato salad"
+    ],
     "slug": "chicken-tagine",
     "source": "https://www.seriouseats.com/chicken-and-dried-fig-tagine-with-pistachios-and-chickpeas",
     "style": "braise",
@@ -766,6 +865,7 @@
   "chorizo-and-potato-frittata": {
     "course": [],
     "cuisine": "spanish",
+    "description": "A Spanish-style baked frittata of eggs set around crisped potatoes and smoky chorizo, topped with a bright lemony parsley-and-shallot salad. Rich and savory yet fresh, an easy dish for breakfast, brunch, or a light supper.",
     "dietary": [
       "gluten-free",
       "dairy-free"
@@ -809,6 +909,7 @@
   "cobb-salad": {
     "course": [],
     "cuisine": "american",
+    "description": "A composed Cobb salad of grilled salmon over crisp romaine with hard-boiled egg, bacon, avocado, cherry tomatoes, and goat cheese in a tangy red-wine vinaigrette. Fresh, rich, and protein-heavy, a substantial cold lunch for warm days.",
     "dietary": [
       "gluten-free"
     ],
@@ -837,6 +938,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "warm crusty bread or a crisp baguette",
+      "a light brothy vegetable soup",
+      "a simple starchy side like roasted potatoes"
+    ],
     "slug": "cobb-salad",
     "source": null,
     "style": "salad",
@@ -855,6 +961,7 @@
   "corn-risotto": {
     "course": [],
     "cuisine": "italian",
+    "description": "A creamy summer risotto of arborio rice cooked in corn stock with white wine, shallots, and thyme, enriched with a sweet corn purée and pecorino. Sweet, silky, and comforting, a vegetarian side or main at peak corn season.",
     "dietary": [
       "vegetarian",
       "gluten-free"
@@ -884,6 +991,11 @@
       "summer"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a bright marinated tomato or vegetable side"
+    ],
     "slug": "corn-risotto",
     "source": "https://www.seriouseats.com/pressure-cooker-corn-risotto",
     "style": "one-pot",
@@ -906,6 +1018,7 @@
   "corn-stock": {
     "course": [],
     "cuisine": "american",
+    "description": "A light, sweet summer stock simmered from stripped corn cobs with onion, carrot, celery, leek greens, and peppercorns. A make-ahead vegan base that deepens corn flavor in risotto and soups, with an optional richer chicken-corn variation.",
     "dietary": [
       "vegan",
       "vegetarian",
@@ -953,6 +1066,7 @@
   "creamy-cajun-chicken-pasta": {
     "course": [],
     "cuisine": "cajun",
+    "description": "A one-pot penne with spice-rubbed chicken in a creamy tomato sauce built from fire-roasted tomatoes and cream cheese, smoky and gently spicy from homemade Cajun seasoning. A fast, hearty weeknight dinner ready in about 30 minutes.",
     "dietary": [],
     "difficulty": "easy",
     "discovered_at": null,
@@ -977,6 +1091,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a crisp green salad with tangy vinaigrette to cut the cream",
+      "a cooling crunchy slaw",
+      "a simple sauteed green vegetable"
+    ],
     "slug": "creamy-cajun-chicken-pasta",
     "source": "https://www.budgetbytes.com/one-pot-creamy-cajun-chicken-pasta/",
     "style": "one-pot",
@@ -997,6 +1116,7 @@
   "creamy-pesto-chicken-pasta": {
     "course": [],
     "cuisine": "italian",
+    "description": "A one-pot penne with chicken in a creamy basil-pesto sauce of cream cheese, milk, and Parmesan, with wilted spinach and sun-dried tomatoes. Herby, rich, and savory, a fast weeknight dinner on the table in about 25 minutes.",
     "dietary": [],
     "difficulty": "easy",
     "discovered_at": null,
@@ -1022,6 +1142,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "creamy-pesto-chicken-pasta",
     "source": "https://www.budgetbytes.com/one-pot-creamy-pesto-chicken-pasta/",
     "style": "one-pot",
@@ -1042,6 +1167,7 @@
   "crispy-baked-pasta": {
     "course": [],
     "cuisine": "italian",
+    "description": "Ridged pasta tossed with browned Italian sausage and meaty mushrooms in a parmesan cream sauce, then broiled under a garlicky panko crust until golden and crisp. Rich, savory, and deeply comforting cold-weather food for an unhurried weekend dinner.",
     "dietary": [],
     "difficulty": "medium",
     "discovered_at": null,
@@ -1068,6 +1194,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "crispy-baked-pasta",
     "source": "https://www.seriouseats.com/cast-iron-cooking-crispy-baked-pasta-mushrooms-sausage-parmesan-cream-sauce-recipe",
     "style": "baked",
@@ -1088,6 +1219,7 @@
   "double-caramel-flan": {
     "course": [],
     "cuisine": "mexican",
+    "description": "A silky baked custard set over a layer of bittersweet caramel, with caramel cooked into the cream itself for a deeper, toasty edge. Cool, rich, and just-sweet, it's a make-ahead dessert to chill overnight for a dinner party or special occasion.",
     "dietary": [
       "vegetarian",
       "gluten-free"
@@ -1133,6 +1265,7 @@
   "drop-biscuits": {
     "course": [],
     "cuisine": "american",
+    "description": "Quick buttery drop biscuits with a craggy golden top and a tender, fluffy crumb, scooped straight from a shaggy dough with no rolling or cutting. An easy warm bread side ready in about 25 minutes, good any time of year alongside soups, stews, or breakfast.",
     "dietary": [
       "vegetarian"
     ],
@@ -1175,6 +1308,7 @@
   "egg-salad-sandwich": {
     "course": [],
     "cuisine": "american",
+    "description": "Creamy egg salad brightened with lemon, crunchy celery, and scallions, piled onto bread with lettuce and radishes. A cool, no-cook lunch that comes together in about five minutes for a fast, light, fridge-friendly meal.",
     "dietary": [
       "vegetarian"
     ],
@@ -1201,6 +1335,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a crunchy salty potato chip or crisp",
+      "a tangy pickle or vinegary cucumber side",
+      "a light brothy tomato soup"
+    ],
     "slug": "egg-salad-sandwich",
     "source": "https://www.seriouseats.com/the-best-egg-salad-recipe",
     "style": "salad",
@@ -1221,6 +1360,7 @@
   "filthier-cabbage": {
     "course": [],
     "cuisine": "cajun",
+    "description": "A Cajun-spiced one-pot braise of ground beef, bacon, and peppers simmered with cabbage in a smoky Creole-seasoned gravy. Hearty, savory, and a little spicy, it's warming weeknight comfort food served over rice on a cold night.",
     "dietary": [],
     "difficulty": "easy",
     "discovered_at": null,
@@ -1245,6 +1385,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "fluffy steamed white rice",
+      "a cooling crisp green salad",
+      "warm cornbread"
+    ],
     "slug": "filthier-cabbage",
     "source": null,
     "style": "braise",
@@ -1265,6 +1410,7 @@
   "fresh-pasta": {
     "course": [],
     "cuisine": "italian",
+    "description": "Tender homemade egg-yolk-rich pasta dough rolled and cut into delicate, silky noodles with a definite bite. A hands-on component for an unhurried cooking project, ready to pair with any sauce or freeze for later.",
     "dietary": [
       "vegetarian"
     ],
@@ -1304,6 +1450,7 @@
   "fried-rice": {
     "course": [],
     "cuisine": "chinese",
+    "description": "A quick vegetable fried rice tossed in a screaming-hot wok until each grain is toasty and separate, studded with carrot, peas, scrambled egg, and scallion in a light soy-sesame seasoning. Savory and lightly chewy, an easy weeknight dinner or lunch in about 25 minutes.",
     "dietary": [
       "vegetarian"
     ],
@@ -1328,6 +1475,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 3,
+    "side_search_terms": [
+      "a crisp cucumber or smashed-cucumber salad",
+      "a light gingery vegetable stir-fry",
+      "a savory protein like glazed tofu or stir-fried chicken"
+    ],
     "slug": "fried-rice",
     "source": "https://www.seriouseats.com/easy-vegetable-fried-rice-recipe",
     "style": "stir-fry",
@@ -1348,6 +1500,7 @@
   "frijoles-charros": {
     "course": [],
     "cuisine": "mexican",
+    "description": "Brothy Mexican pinto beans simmered until creamy with bacon, fire-roasted tomatoes, serrano, and cilantro. Smoky, savory, and a little spicy, a hearty pot of beans to serve as a side or a warming meal that keeps well for the week.",
     "dietary": [
       "gluten-free"
     ],
@@ -1392,6 +1545,7 @@
   "galinhada-mineira": {
     "course": [],
     "cuisine": "brazilian",
+    "description": "A Brazilian one-pot chicken and rice from Minas Gerais, browned chicken and parboiled rice simmered together with annatto, carrot, onion, peas, and corn until golden and tender. Savory, warming comfort food that feeds a crowd from a single pot.",
     "dietary": [
       "gluten-free",
       "dairy-free"
@@ -1418,6 +1572,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 8,
+    "side_search_terms": [
+      "a bright crisp green salad with vinaigrette",
+      "garlicky sauteed leafy greens",
+      "a tangy tomato and onion salad"
+    ],
     "slug": "galinhada-mineira",
     "source": "https://www.seriouseats.com/galinhada-mineira-brazilian-chicken-and-rice-from-minas-gerais-recipe-7229603",
     "style": "one-pot",
@@ -1437,6 +1596,7 @@
   "gochujang-white-chicken-chili": {
     "course": [],
     "cuisine": "korean",
+    "description": "A Korean-spin white chicken chili with shredded chicken, cannellini beans, and corn in a creamy broth spiked with gochujang, ginger, and cream cheese. Warming, savory-spicy, and quick at about 20 minutes, a cozy one-pot dinner for cold fall and winter nights.",
     "dietary": [],
     "difficulty": "easy",
     "discovered_at": null,
@@ -1465,6 +1625,11 @@
       "winter"
     ],
     "servings": 4,
+    "side_search_terms": [
+      "warm cornbread or crusty bread",
+      "a cooling crisp sesame slaw",
+      "a fresh bright green salad with sharp vinaigrette"
+    ],
     "slug": "gochujang-white-chicken-chili",
     "source": null,
     "style": "soup",
@@ -1486,6 +1651,7 @@
   "grilled-lemongrass-chicken-thighs": {
     "course": [],
     "cuisine": "vietnamese",
+    "description": "Vietnamese grilled chicken thighs in a lemongrass, garlic, and fish-sauce marinade that doubles as a tangy lime dressing. Smoky-charred, savory, and bright, scattered with cool cucumber and cilantro. A summer cookout main for warm evenings.",
     "dietary": [
       "gluten-free"
     ],
@@ -1516,6 +1682,11 @@
       "summer"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "steamed jasmine rice or rice noodles",
+      "a crunchy herb and cabbage slaw",
+      "quick tangy pickled vegetables"
+    ],
     "slug": "grilled-lemongrass-chicken-thighs",
     "source": "https://www.bonappetit.com/recipe/grilled-lemongrass-chicken-thighs",
     "style": "grilled",
@@ -1533,6 +1704,7 @@
   "honey-mustard-salmon": {
     "course": [],
     "cuisine": "american",
+    "description": "Broiled salmon under a quick glaze of grainy mustard, honey, and mayonnaise, browned on top and tender inside, tangy-sweet with a touch of heat. A fast 15-minute weeknight main for nights with no time to fuss.",
     "dietary": [
       "gluten-free"
     ],
@@ -1555,6 +1727,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "a starchy side like roasted potatoes or rice",
+      "a simple buttered or roasted green vegetable",
+      "a crisp bright green salad with vinaigrette"
+    ],
     "slug": "honey-mustard-salmon",
     "source": null,
     "style": "baked",
@@ -1575,6 +1752,7 @@
   "italian-beans-and-greens-soup": {
     "course": [],
     "cuisine": "italian",
+    "description": "A rustic Italian soup of creamy cannellini beans and tender escarole simmered with garlic, olive oil, and red pepper flakes, spooned over croutons. Brothy, savory, and faintly bitter-sweet. Warming, vegan cold-weather comfort for fall and winter.",
     "dietary": [
       "vegetarian",
       "vegan",
@@ -1603,6 +1781,11 @@
       "winter"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "warm crusty bread for dipping",
+      "a sharp green salad with vinaigrette",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "italian-beans-and-greens-soup",
     "source": null,
     "style": "soup",
@@ -1626,6 +1809,7 @@
       "condiment"
     ],
     "cuisine": "korean",
+    "description": "Korean cubed-radish kimchi fermented with gochugaru, fish sauce, and salted shrimp. Crunchy, juicy, and deeply savory with spicy-sour heat that deepens over weeks in the fridge. A make-ahead condiment and side for any meal.",
     "dietary": [
       "gluten-free"
     ],
@@ -1654,6 +1838,7 @@
       "main"
     ],
     "cuisine": "korean",
+    "description": "Thin-cut Korean BBQ short ribs marinated in soy, sesame, garlic, and grated pear, then grilled fast over high heat. Caramelized, savory-sweet, and tender. A celebratory main for cookouts and gatherings, best marinated overnight.",
     "discovered_at": "2026-06-19",
     "discovery_source": "Korean Bapsang RSS",
     "pairs_with": [],
@@ -1665,6 +1850,11 @@
     "protein": "beef",
     "requires_equipment": [],
     "servings": 4,
+    "side_search_terms": [
+      "steamed rice",
+      "a cooling cucumber or pickled vegetable side",
+      "a crisp sesame slaw"
+    ],
     "slug": "la-galbi-korean-bbq-short-ribs",
     "source": "https://www.koreanbapsang.com/la-galbi-gui-grilled-la-style-short-ribs",
     "tags": [
@@ -1680,6 +1870,7 @@
   "lasagna-bolognese": {
     "course": [],
     "cuisine": "italian",
+    "description": "Classic baked lasagna layering fresh pasta with slow-cooked meat ragù, silky béchamel, and Parmigiano. Rich, creamy, and deeply savory under a browned, bubbling top. An involved weekend project for a special-occasion family dinner.",
     "dietary": [],
     "difficulty": "hard",
     "discovered_at": null,
@@ -1702,6 +1893,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 8,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "lasagna-bolognese",
     "source": "https://www.seriouseats.com/lasagna-bolognese-al-forno-recipe",
     "style": "baked",
@@ -1725,6 +1921,7 @@
   "meat-lasagna": {
     "course": [],
     "cuisine": "italian",
+    "description": "An ambitious baked lasagna with a three-meat lamb, pork, and veal ragù simmered for hours, layered with seasoned ricotta, mozzarella besciamella, and Parmesan. Hearty, rich, and golden-crusted. An all-day weekend undertaking for a crowd.",
     "dietary": [],
     "difficulty": "hard",
     "discovered_at": null,
@@ -1758,6 +1955,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 8,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "meat-lasagna",
     "source": "https://www.seriouseats.com/no-holds-barred-lasagna-bolognese-pasta-italian-homemade-ricotta",
     "style": "baked",
@@ -1780,6 +1982,7 @@
   "meatloaf": {
     "course": [],
     "cuisine": "american",
+    "description": "An American beef-and-pork meatloaf enriched with mushrooms, cheese, and umami from anchovy and Marmite, finished with a tangy-sweet ketchup glaze. Moist, savory, and homey. Warming weeknight comfort food for a cozy family supper.",
     "dietary": [],
     "difficulty": "medium",
     "discovered_at": null,
@@ -1806,6 +2009,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "creamy mashed potatoes",
+      "a simple buttered or sauteed green vegetable",
+      "a crisp acidic green salad to cut the richness"
+    ],
     "slug": "meatloaf",
     "source": "https://www.seriouseats.com/the-food-lab-all-american-meatloaf-excerpt-recipe",
     "style": "baked",
@@ -1826,6 +2034,7 @@
   "minestrone-soup": {
     "course": [],
     "cuisine": "italian",
+    "description": "A hearty Italian vegetable soup with cannellini beans, zucchini, summer squash, green beans, spinach, tomato, and small pasta in a Parmesan-scented broth. Brothy yet substantial, savory and fresh. A warming meatless main for any season.",
     "dietary": [],
     "difficulty": "medium",
     "discovered_at": null,
@@ -1856,6 +2065,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "crusty bread for dunking in broth",
+      "a sharp green salad with vinaigrette",
+      "a simple antipasto of marinated vegetables"
+    ],
     "slug": "minestrone-soup",
     "source": "https://www.seriouseats.com/the-best-minestrone-soup-recipe",
     "style": "soup",
@@ -1877,6 +2091,7 @@
       "main"
     ],
     "cuisine": "japanese",
+    "description": "Japanese pan-fried chicken thighs marinated in sweet-savory miso, seared until the skin is crisp and golden, then finished with a glossy miso glaze over rice. Umami-rich and juicy. An easy weeknight main, though it needs a day's marinating.",
     "discovered_at": "2026-06-19",
     "discovery_source": "Just One Cookbook RSS",
     "pairs_with": [],
@@ -1887,6 +2102,11 @@
     "protein": "chicken",
     "requires_equipment": [],
     "servings": 5,
+    "side_search_terms": [
+      "a crisp cooling cucumber or sesame slaw",
+      "a simple quick-pickled vegetable side",
+      "lightly dressed blanched greens"
+    ],
     "slug": "miso-chicken",
     "source": "https://www.justonecookbook.com/miso-chicken",
     "tags": [
@@ -1901,6 +2121,7 @@
   "miso-soup": {
     "course": [],
     "cuisine": "japanese",
+    "description": "A delicate Japanese soup of homemade dashi whisked with white and red miso, dotted with soft silken tofu, wakame, and scallion. Light, warming, and savory-umami, ready in about 20 minutes for a quiet starter or simple comfort.",
     "dietary": [
       "dairy-free"
     ],
@@ -1945,6 +2166,7 @@
   "mississippi-pot-roast": {
     "course": [],
     "cuisine": "american",
+    "description": "A slow-braised chuck roast pulled into tender shreds in a tangy, buttery gravy of pepperoncini, dill, and buttermilk. Rich, savory, and lightly piquant cold-weather comfort food for an unhurried weekend that feeds a crowd.",
     "dietary": [
       "gluten-free"
     ],
@@ -1970,6 +2192,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "creamy mashed potatoes for the gravy",
+      "a simple buttered or sauteed green vegetable",
+      "a crisp acidic green salad to cut the richness"
+    ],
     "slug": "mississippi-pot-roast",
     "source": "https://www.seriouseats.com/mississippi-pot-roast-recipe-8774586",
     "style": "braise",
@@ -1989,6 +2216,7 @@
   "moo-shu-pork": {
     "course": [],
     "cuisine": "chinese",
+    "description": "A Chinese-American stir-fry of julienned pork, scrambled egg, shredded cabbage, carrots, and earthy shiitake and wood ear mushrooms, glazed savory-sweet with hoisin. Warm and savory, wrapped in thin pancakes for a hands-on family dinner.",
     "dietary": [],
     "discovered_at": "2026-06-10",
     "discovery_source": "rss",
@@ -2015,6 +2243,11 @@
       "all"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "steamed rice",
+      "a light brothy or clear vegetable soup",
+      "a crisp cucumber or smashed-cucumber salad"
+    ],
     "slug": "moo-shu-pork",
     "source": "https://thewoksoflife.com/moo-shu-pork-recipe",
     "style": "stir-fry",
@@ -2032,6 +2265,7 @@
   "moroccan-egg-drop-harira": {
     "course": [],
     "cuisine": "moroccan",
+    "description": "A warming Moroccan tomato soup simmered with green lentils, chickpeas, rice, and warm spices of ginger, turmeric, cinnamon, and saffron, finished with egg threads and bright cilantro. Hearty, gently spiced, and comforting for a cold evening or breaking a fast.",
     "dietary": [
       "vegetarian"
     ],
@@ -2057,6 +2291,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "warm flatbread or crusty bread for dipping",
+      "a bright lemony herb and tomato salad",
+      "a simple marinated olive and citrus plate"
+    ],
     "slug": "moroccan-egg-drop-harira",
     "source": "https://www.seriouseats.com/moroccan-egg-drop-harira-recipe-7109917",
     "style": "soup",
@@ -2076,6 +2315,7 @@
   "mushroom-and-sun-dried-tomato-farotto": {
     "course": [],
     "cuisine": "italian",
+    "description": "A risotto-style farro dish stirred creamy with mixed mushrooms, porcini, tangy sun-dried tomatoes, and Parmigiano, brightened with sherry vinegar and chives. Earthy, rich, and chewy-tender, a hearty meatless main for a cozy autumn or winter night.",
     "dietary": [],
     "difficulty": "medium",
     "discovered_at": null,
@@ -2100,6 +2340,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a simple buttered or roasted green vegetable"
+    ],
     "slug": "mushroom-and-sun-dried-tomato-farotto",
     "source": "https://www.seriouseats.com/mushroom-sundried-tomato-farrotto-recipe-8772336",
     "style": "one-pot",
@@ -2119,6 +2364,7 @@
   "pasta-alla-norcina": {
     "course": [],
     "cuisine": "italian",
+    "description": "An Umbrian pasta tossing penne in a creamy white sauce of crumbled wine-seasoned pork sausage, onion, nutmeg, and Pecorino Romano. Rich, savory, and indulgent yet fast enough for a weeknight when something comforting is in order.",
     "dietary": [],
     "difficulty": "medium",
     "discovered_at": null,
@@ -2142,6 +2388,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "pasta-alla-norcina",
     "source": "https://www.seriouseats.com/pasta-alla-norcina-creamy-pasta-with-sausage",
     "style": "one-pot",
@@ -2161,6 +2412,7 @@
   "pasta-burro-e-alici": {
     "course": [],
     "cuisine": "italian",
+    "description": "A southern Italian long pasta cloaked in a silky emulsified butter-and-anchovy sauce, brightened with lemon and parsley and topped with crunchy toasted breadcrumbs. Deeply savory-umami and rich yet light, a pantry-driven weeknight dinner.",
     "dietary": [],
     "difficulty": "medium",
     "discovered_at": null,
@@ -2183,6 +2435,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "pasta-burro-e-alici",
     "source": "https://www.seriouseats.com/pasta-burro-e-alici-pasta-with-creamy-anchovy-butter-sauce-recipe-11859455",
     "style": "one-pot",
@@ -2202,6 +2459,7 @@
   "pasta-e-fagioli": {
     "course": [],
     "cuisine": "italian",
+    "description": "A brothy Italian bean and pasta soup built on crispy bacon, mirepoix, crushed tomatoes, and cannellini beans with ditalini and Parmesan. Hearty, smoky, and savory, a budget-friendly weeknight one-pot for a chilly fall or winter night.",
     "dietary": [],
     "difficulty": "easy",
     "discovered_at": null,
@@ -2227,6 +2485,11 @@
       "winter"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "warm crusty bread for the broth",
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens"
+    ],
     "slug": "pasta-e-fagioli",
     "source": "https://www.budgetbytes.com/pasta-e-fagioli/",
     "style": "soup",
@@ -2246,6 +2509,7 @@
   "pasta-e-fagioli-tuscan": {
     "course": [],
     "cuisine": "italian",
+    "description": "A rustic Tuscan bean and pasta soup, half the beans blended smooth and creamy with the rest left whole, perfumed with sage and rosemary and finished with peppery olive oil. Velvety, savory, and vegan, satisfying comfort for a cold fall or winter day.",
     "dietary": [
       "vegetarian",
       "vegan",
@@ -2278,6 +2542,11 @@
       "winter"
     ],
     "servings": 8,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "pasta-e-fagioli-tuscan",
     "source": "https://www.seriouseats.com/pasta-e-fagioli-italian-bean-pasta-soup-recipe",
     "style": "soup",
@@ -2296,6 +2565,7 @@
   "pasta-primavera": {
     "course": [],
     "cuisine": "italian",
+    "description": "A spring vegetable pasta of zucchini, asparagus, broccoli, and peas in a light cream sauce, brightened with lemon, basil, and Parmesan. Fresh, green, and lightly rich, an easy weeknight meatless dinner for warm spring and summer evenings.",
     "dietary": [
       "vegetarian"
     ],
@@ -2327,6 +2597,11 @@
       "summer"
     ],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "crusty bread or garlic bread",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "pasta-primavera",
     "source": "https://www.bonappetit.com/recipe/pasta-primavera",
     "tags": [
@@ -2346,6 +2621,7 @@
   "pasta-with-sausage-and-peppers": {
     "course": [],
     "cuisine": "italian",
+    "description": "A one-skillet Italian-American pasta of browned Italian sausage, sweet peppers, and onion in jarred tomato sauce over penne, finished with crumbled feta. Hearty and savory, it comes together in about 30 minutes for a budget weeknight dinner.",
     "dietary": [],
     "difficulty": "easy",
     "discovered_at": null,
@@ -2370,6 +2646,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp green salad with vinaigrette",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "pasta-with-sausage-and-peppers",
     "source": "https://www.budgetbytes.com/pasta-with-sausage-and-peppers/",
     "style": "one-pot",
@@ -2390,6 +2671,7 @@
   "peruvian-style-tofu-with-creamy-cilantro-sauce": {
     "course": [],
     "cuisine": "peruvian",
+    "description": "Grilled cumin-and-paprika-marinated tofu planks, smoky and charred, served with a cool, creamy blender sauce of cilantro, scallion, avocado, lime, and serrano. A fresh, herb-bright vegan main for warm spring and summer evenings.",
     "dietary": [
       "vegetarian",
       "vegan",
@@ -2424,6 +2706,11 @@
       "summer"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "a starchy side like rice or roasted potatoes",
+      "a bright corn and avocado salad",
+      "charred or grilled summer vegetables"
+    ],
     "slug": "peruvian-style-tofu-with-creamy-cilantro-sauce",
     "source": "https://www.bonappetit.com/recipe/peruvian-style-tofu-with-creamy-cilantro-sauce",
     "tags": [
@@ -2444,6 +2731,7 @@
   "pollo-guisado": {
     "course": [],
     "cuisine": "mexican",
+    "description": "A Mexican-style braised chicken stew, with bone-in pieces simmered in a deep tomato-and-árbol-chile sauce alongside tender potatoes and carrots. Warming, savory, and gently spiced, it's slow comfort food for an unhurried cold-weather meal with crusty bread.",
     "dietary": [
       "gluten-free",
       "dairy-free"
@@ -2471,6 +2759,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "warm rice to soak up the sauce",
+      "a crisp bright cabbage or cucumber slaw",
+      "a fresh avocado and tomato salad"
+    ],
     "slug": "pollo-guisado",
     "source": null,
     "style": "stew",
@@ -2489,6 +2782,7 @@
   "pressure-cooker-butter-chicken": {
     "course": [],
     "cuisine": "indian",
+    "description": "A rich, velvety Indian butter chicken, with broiler-charred marinated thighs in a silky tomato-cashew makhani sauce finished with cream and butter. Warmly spiced and deeply comforting, the pressure cooker makes it weeknight-friendly served over rice.",
     "dietary": [
       "gluten-free"
     ],
@@ -2518,6 +2812,11 @@
     ],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "warm naan or flatbread to soak up the sauce",
+      "a cooling cucumber and yogurt raita",
+      "a crisp bright kachumber-style chopped salad"
+    ],
     "slug": "pressure-cooker-butter-chicken",
     "source": "https://www.seriouseats.com/pressure-cooker-butter-chicken",
     "style": "pressure-cooker",
@@ -2537,6 +2836,7 @@
   "ratatouille": {
     "course": [],
     "cuisine": "french",
+    "description": "A baked French ratatouille of thinly sliced eggplant, zucchini, squash, and tomato layered over marinara and topped with melted mozzarella. Light yet savory and herb-scented, it's a veg-forward summer dish that makes the most of peak garden vegetables.",
     "dietary": [
       "vegetarian",
       "gluten-free"
@@ -2569,6 +2869,11 @@
       "summer"
     ],
     "servings": 8,
+    "side_search_terms": [
+      "crusty bread to soak up the sauce",
+      "a starchy side of rice or roasted potatoes",
+      "a simple green salad with vinaigrette"
+    ],
     "slug": "ratatouille",
     "source": "https://www.budgetbytes.com/oven-roasted-ratatouille/",
     "style": "baked",
@@ -2590,6 +2895,7 @@
       "main"
     ],
     "cuisine": "thai",
+    "description": "A fast Thai-style red curry with plump shrimp and crisp bell peppers in a light, fragrant coconut broth balanced by fish sauce and lime-fresh heat. Quick and warming, ready in 20 minutes over steamed rice for an easy weeknight dinner.",
     "discovered_at": "2026-06-19",
     "discovery_source": "Rasa Malaysia RSS",
     "pairs_with": [],
@@ -2602,6 +2908,11 @@
     "protein": "shellfish",
     "requires_equipment": [],
     "servings": 3,
+    "side_search_terms": [
+      "steamed jasmine rice",
+      "a cooling cucumber or fresh herb salad",
+      "a crisp tangy green papaya or vegetable slaw"
+    ],
     "slug": "red-curry-shrimp",
     "source": "https://rasamalaysia.com/red-curry-shrimp",
     "tags": [
@@ -2617,6 +2928,7 @@
   "reuben-sandwiches": {
     "course": [],
     "cuisine": "american",
+    "description": "A griddled deli Reuben: warm corned beef, tangy sauerkraut, and melted Swiss on buttery toasted rye, slathered with homemade Russian dressing. Rich, salty, and crisp-crusted, it's a hearty hot sandwich for a satisfying lunch.",
     "dietary": [],
     "difficulty": "easy",
     "discovered_at": null,
@@ -2638,6 +2950,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a crisp tangy dill pickle spear",
+      "a sharp vinegary slaw to cut the richness",
+      "a simple crisp potato or kettle chip side"
+    ],
     "slug": "reuben-sandwiches",
     "source": "https://www.seriouseats.com/reuben-sandwich-corned-beef-rye-recipe",
     "style": "griddle",
@@ -2657,6 +2974,7 @@
   "sheet-pan-salmon-and-kale": {
     "course": [],
     "cuisine": "mediterranean",
+    "description": "A sheet-pan salmon glazed with tangy-sweet maple and pomegranate molasses, set over crisp-edged roasted kale and shallots, scattered with walnuts, mint, and pomegranate. Bright yet rich, it's a warming fall and winter weeknight main with minimal cleanup.",
     "dietary": [
       "gluten-free"
     ],
@@ -2689,6 +3007,11 @@
       "winter"
     ],
     "servings": 4,
+    "side_search_terms": [
+      "a starchy side like rice pilaf or roasted potatoes",
+      "a lemony grain or couscous salad",
+      "a bright herbed yogurt or cucumber side"
+    ],
     "slug": "sheet-pan-salmon-and-kale",
     "source": null,
     "style": "sheet-pan",
@@ -2708,6 +3031,7 @@
   "shrimp-with-cilantro-sauce": {
     "course": [],
     "cuisine": "indian",
+    "description": "Indian-style shrimp marinated and simmered in a vivid green cilantro chutney sharp with lime, garlic, cumin, and Thai chile. Fresh, herb-forward, and gently spiced, it's a quick-cooking weeknight main served over basmati rice.",
     "dietary": [
       "gluten-free",
       "dairy-free"
@@ -2736,6 +3060,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 2,
+    "side_search_terms": [
+      "warm flatbread or naan to soak up the sauce",
+      "a cooling cucumber and yogurt raita",
+      "a simple spiced vegetable side"
+    ],
     "slug": "shrimp-with-cilantro-sauce",
     "source": null,
     "style": "one-pot",
@@ -2755,6 +3084,7 @@
   "sloppy-joes": {
     "course": [],
     "cuisine": "american",
+    "description": "Classic American sloppy joes: ground beef simmered in a tangy-sweet ketchup sauce with celery and onion, piled onto soft buns. Saucy, savory, and a little sweet, it's nostalgic comfort food on the table in about 20 minutes.",
     "dietary": [],
     "difficulty": "easy",
     "discovered_at": null,
@@ -2776,6 +3106,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "crispy oven fries or potato wedges",
+      "a crisp tangy coleslaw to cut the sweetness",
+      "a simple dressed green salad"
+    ],
     "slug": "sloppy-joes",
     "source": null,
     "style": "one-pot",
@@ -2795,6 +3130,7 @@
   "spinach-fresh-pasta": {
     "course": [],
     "cuisine": "italian",
+    "description": "Silky homemade egg-yolk noodles tinted green with fresh spinach purée, tender with a delicate bite and faintly earthy. A hands-on project for an unhurried day, ready to be tossed in whatever sauce the occasion calls for.",
     "dietary": [
       "vegetarian"
     ],
@@ -2836,6 +3172,7 @@
   "spinach-tortellini-soup": {
     "course": [],
     "cuisine": "italian",
+    "description": "A brothy Italian soup of cheese tortellini and wilted spinach in a fire-roasted tomato broth, savory and lightly bright with lemon and Parmesan. A fast, warming weeknight bowl that comes together in minutes.",
     "dietary": [
       "vegetarian"
     ],
@@ -2862,6 +3199,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "warm crusty bread or garlic bread",
+      "a sharp green salad with vinaigrette",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "spinach-tortellini-soup",
     "source": null,
     "style": "soup",
@@ -2880,6 +3222,7 @@
   "stuffed-pepper-skillet": {
     "course": [],
     "cuisine": "american",
+    "description": "A one-pan deconstructed stuffed pepper with Italian sausage, bell peppers, and rice simmered in tomato and beef broth, then blanketed with melted Colby Jack. Hearty, savory weeknight comfort with easy cleanup.",
     "dietary": [],
     "difficulty": "easy",
     "discovered_at": "2026-06-11",
@@ -2903,6 +3246,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "a crisp green salad with tangy vinaigrette",
+      "garlicky sauteed greens",
+      "a fresh crunchy vegetable slaw"
+    ],
     "slug": "stuffed-pepper-skillet",
     "source": "https://www.budgetbytes.com/stuffed-pepper-skillet",
     "style": "one-pot",
@@ -2926,6 +3274,7 @@
       "main"
     ],
     "cuisine": "korean",
+    "description": "A light, soothing Korean soup of silky soft tofu and egg ribbons in a mild anchovy-kelp broth with tomato and cabbage. Clean and gentle, ready in 20 minutes for a quick breakfast or an easy, restorative meal.",
     "discovered_at": "2026-06-19",
     "discovery_source": "Korean Bapsang RSS",
     "pairs_with": [],
@@ -2954,6 +3303,7 @@
   "sweet-potato-gnocchi": {
     "course": [],
     "cuisine": "italian",
+    "description": "Pillowy sweet potato gnocchi tossed in nutty browned sage butter with Parmigiano, lemon zest, and Aleppo pepper — soft, rich, and gently sweet against savory herb butter. A fall and winter project worth the long, slow afternoon.",
     "dietary": [
       "vegetarian"
     ],
@@ -2981,6 +3331,11 @@
       "winter"
     ],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp green salad with bright vinaigrette to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a crisp lemony shaved vegetable side"
+    ],
     "slug": "sweet-potato-gnocchi",
     "source": null,
     "style": "fresh-pasta",
@@ -3000,6 +3355,7 @@
   "swiss-steak": {
     "course": [],
     "cuisine": "american",
+    "description": "Pounded eye-of-round steaks slow-braised in a deep tomato gravy with onion, celery, and carrots until fork-tender. Rich, savory cold-weather comfort food meant for spooning over mashed potatoes or buttered noodles.",
     "dietary": [],
     "difficulty": "medium",
     "discovered_at": null,
@@ -3025,6 +3381,11 @@
       "winter"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "creamy mashed potatoes for the gravy",
+      "a crisp acidic green salad to cut the richness",
+      "a simple buttered or sauteed green vegetable"
+    ],
     "slug": "swiss-steak",
     "source": null,
     "style": "braise",
@@ -3044,6 +3405,7 @@
   "tater-tot-casserole": {
     "course": [],
     "cuisine": "american",
+    "description": "A baked casserole of savory ground beef, peas, and corn under a from-scratch roasted-mushroom cream sauce, capped with crisp golden Tater Tots. Rich, nostalgic comfort food for a cozy fall or winter night.",
     "dietary": [],
     "difficulty": "medium",
     "discovered_at": null,
@@ -3074,6 +3436,11 @@
       "winter"
     ],
     "servings": 6,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "a tangy vinegar-dressed slaw",
+      "a simple roasted or steamed green vegetable"
+    ],
     "slug": "tater-tot-casserole",
     "source": null,
     "style": "baked",
@@ -3094,6 +3461,7 @@
   "tomato-tortellini-soup": {
     "course": [],
     "cuisine": "italian",
+    "description": "A creamy tomato soup loaded with cheese tortellini and wilted spinach, rich with heavy cream and Parmesan and gently spiced with red pepper. Cozy, hearty weeknight comfort ready in about 15 minutes.",
     "dietary": [
       "vegetarian"
     ],
@@ -3121,6 +3489,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "a crisp green salad with sharp vinaigrette",
+      "crusty garlic bread for dipping",
+      "garlicky sauteed greens"
+    ],
     "slug": "tomato-tortellini-soup",
     "source": null,
     "style": "soup",
@@ -3140,6 +3513,7 @@
   "tuna-casserole": {
     "course": [],
     "cuisine": "american",
+    "description": "An elevated baked tuna-and-egg-noodle casserole in a white-wine mushroom-leek cream sauce with white cheddar, brightened by lemon, dill, and chives, under a crunchy potato-chip crust. Rich, savory comfort food for a relaxed night in.",
     "dietary": [],
     "difficulty": "medium",
     "discovered_at": null,
@@ -3167,6 +3541,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 8,
+    "side_search_terms": [
+      "a crisp acidic green salad to cut the richness",
+      "a simple buttered or roasted green vegetable",
+      "a tangy quick-pickled vegetable side"
+    ],
     "slug": "tuna-casserole",
     "source": "https://www.bonappetit.com/recipe/tuna-casserole",
     "style": "baked",
@@ -3186,6 +3565,7 @@
   "turkey-meatloaf": {
     "course": [],
     "cuisine": "american",
+    "description": "A lean, moist ground-turkey meatloaf packed with finely chopped mushrooms, onion, and carrot, glazed with ketchup and savory with Worcestershire. Lighter than the classic but still hearty, homey comfort food for an easy weeknight dinner.",
     "dietary": [],
     "difficulty": "easy",
     "discovered_at": null,
@@ -3211,6 +3591,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "creamy mashed or roasted potatoes",
+      "a simple buttered or sauteed green vegetable",
+      "a crisp bright green salad with vinaigrette"
+    ],
     "slug": "turkey-meatloaf",
     "source": "http://www.gourmet.com.s3-website-us-east-1.amazonaws.com/recipes/2000s/2003/01/turkey-meatloaf.html",
     "style": "baked",
@@ -3230,6 +3615,7 @@
   "tuscan-white-bean-soup": {
     "course": [],
     "cuisine": "italian",
+    "description": "A rustic Italian soup of cannellini beans, kale, and rosemary simmered with a Parmesan rind, then partly pureed for a creamy yet brothy body. Warming, savory, and vegetable-forward, it comes together in 30 minutes for an easy fall or winter weeknight.",
     "dietary": [
       "gluten-free"
     ],
@@ -3258,6 +3644,11 @@
       "winter"
     ],
     "servings": 8,
+    "side_search_terms": [
+      "crusty toasted bread for dipping",
+      "a sharp green salad with vinaigrette",
+      "a simple marinated vegetable side"
+    ],
     "slug": "tuscan-white-bean-soup",
     "source": "https://www.seriouseats.com/30-minute-tuscan-white-bean-soup-recipe",
     "style": "soup",
@@ -3277,6 +3668,7 @@
   "uovo-in-raviolo": {
     "course": [],
     "cuisine": "italian",
+    "description": "A single giant fresh-pasta raviolo filled with lemony ricotta and a whole runny egg yolk that spills out when cut, finished in a pancetta, shallot, and white-wine butter sauce. Rich and delicate, it is a slow, hands-on special-occasion or date-night plate.",
     "dietary": [],
     "difficulty": "hard",
     "discovered_at": null,
@@ -3300,6 +3692,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 4,
+    "side_search_terms": [
+      "a sharp acidic green salad to cut the richness",
+      "garlicky sauteed bitter greens",
+      "a simple marinated vegetable antipasto"
+    ],
     "slug": "uovo-in-raviolo",
     "source": "https://www.seriouseats.com/uovo-in-raviolo-runny-egg-yolk-ravioli-ricotta-recipe",
     "style": "pasta",
@@ -3321,6 +3718,7 @@
   "vaca-frita": {
     "course": [],
     "cuisine": "cuban",
+    "description": "A Cuban dish of beef chuck simmered until tender, shredded, marinated in lime, garlic, and cumin, then pan-fried crisp with sweet sauteed onions. Savory, tangy, and crunchy-edged, it is a hearty weekend main served with black beans and rice.",
     "dietary": [
       "gluten-free",
       "dairy-free"
@@ -3345,6 +3743,11 @@
     "requires_equipment": [],
     "season": [],
     "servings": 6,
+    "side_search_terms": [
+      "black beans and fluffy white rice",
+      "fried sweet plantains",
+      "a bright crisp avocado and citrus salad"
+    ],
     "slug": "vaca-frita",
     "source": null,
     "style": "braise",
@@ -3364,6 +3767,7 @@
   "white-chicken-chili": {
     "course": [],
     "cuisine": "southwestern",
+    "description": "A Southwestern stew of shredded chicken and white beans in a broth built from broiled poblano, Anaheim, and jalapeno chiles, melted pepper Jack, lime, and cilantro. Warming, mildly spicy, and creamy, it is a hearty cold-weather pot worth the slow simmer.",
     "dietary": [
       "gluten-free"
     ],
@@ -3398,6 +3802,11 @@
       "winter"
     ],
     "servings": 8,
+    "side_search_terms": [
+      "warm cornbread to soak up the broth",
+      "a crisp lime-dressed cabbage slaw",
+      "a fresh avocado or tomato salad"
+    ],
     "slug": "white-chicken-chili",
     "source": "https://www.seriouseats.com/white-chili-with-chicken-best",
     "style": "stew",
@@ -3420,6 +3829,7 @@
       "main"
     ],
     "cuisine": "japanese",
+    "description": "Chilled Japanese udon noodles rinsed cold and springy, served with a homemade dashi, mirin, and soy tsuyu for dipping, plus scallion, ginger, and wasabi. Light, savory, and refreshing, it is a quick no-cook meal for hot summer days.",
     "dietary": [
       "vegetarian"
     ],
@@ -3432,6 +3842,11 @@
     "protein": "vegetarian",
     "requires_equipment": [],
     "servings": 2,
+    "side_search_terms": [
+      "crispy vegetable or shrimp tempura",
+      "a savory glazed or fried protein",
+      "a chilled marinated vegetable side"
+    ],
     "slug": "zaru-udon-cold-udon-with-dipping-sauce",
     "source": "https://www.justonecookbook.com/cold-udon-noodles",
     "tags": [
