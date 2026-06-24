@@ -1,5 +1,6 @@
 ---
 title: Fresh Pasta
+description: "Tender homemade egg-yolk-rich pasta dough rolled and cut into delicate, silky noodles with a definite bite. A hands-on component for an unhurried cooking project, ready to pair with any sauce or freeze for later."
 tags:
   - pastas
   - italian

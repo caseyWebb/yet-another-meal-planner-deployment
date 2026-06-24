@@ -22,6 +22,7 @@ tags:
 time_active: 10
 time_total: 20
 title: Sundubu Gyeran Guk (Soft Tofu and Egg Soup)
+description: "A light, soothing Korean soup of silky soft tofu and egg ribbons in a mild anchovy-kelp broth with tomato and cabbage. Clean and gentle, ready in 20 minutes for a quick breakfast or an easy, restorative meal."
 ---
 A light, high-protein Korean soup made with extra-soft tofu (sundubu) and eggs in a mild anchovy-kelp broth. Ready in 20 minutes. Great for breakfast or a quick meal — especially gentle for the ill or children.
 
