@@ -11,7 +11,6 @@
 		"GITHUB_INSTALLATION_ID": "139471207"
 	},
 	"kv_namespaces": [
-		{ "binding": "DATA_KV", "id": "fee9c2c48e2842a28431b599097dbaef" },
 		{ "binding": "KROGER_KV", "id": "aee060bb679141d995c8bc0d5643b9d3" },
 		{ "binding": "TENANT_KV", "id": "3f4eb3ff016647c9b32e340d0b2dfe64" },
 		{ "binding": "OAUTH_KV", "id": "fad701614c5a4a7e950207fd6772e225" }
