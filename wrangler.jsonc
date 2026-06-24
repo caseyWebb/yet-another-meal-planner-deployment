@@ -15,5 +15,10 @@
 		{ "binding": "KROGER_KV", "id": "aee060bb679141d995c8bc0d5643b9d3" },
 		{ "binding": "TENANT_KV", "id": "3f4eb3ff016647c9b32e340d0b2dfe64" },
 		{ "binding": "OAUTH_KV", "id": "fad701614c5a4a7e950207fd6772e225" }
-	]
+	],
+  "d1_databases": [{
+    "binding": "DB",
+    "database_name": "grocery-mcp",
+    "database_id": "72599f36-fc34-4319-8dca-a4b8d1b0d9f9"
+  }]
 }
