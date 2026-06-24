@@ -20,6 +20,7 @@ tags:
 time_active: 10
 time_total: 15
 title: Zaru Udon (Cold Udon with Dipping Sauce)
+description: "Chilled Japanese udon noodles rinsed cold and springy, served with a homemade dashi, mirin, and soy tsuyu for dipping, plus scallion, ginger, and wasabi. Light, savory, and refreshing, it is a quick no-cook meal for hot summer days."
 ---
 Refreshing cold udon noodles served with a savory homemade tsuyu dipping sauce. Perfect for hot weather — ready in 15 minutes.
 

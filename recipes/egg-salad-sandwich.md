@@ -1,5 +1,6 @@
 ---
 title: Egg Salad Sandwich
+description: "Creamy egg salad brightened with lemon, crunchy celery, and scallions, piled onto bread with lettuce and radishes. A cool, no-cook lunch that comes together in about five minutes for a fast, light, fridge-friendly meal."
 tags:
   - lunch
   - sandwiches

@@ -1,5 +1,6 @@
 ---
 title: Pasta alla Norcina
+description: "An Umbrian pasta tossing penne in a creamy white sauce of crumbled wine-seasoned pork sausage, onion, nutmeg, and Pecorino Romano. Rich, savory, and indulgent yet fast enough for a weeknight when something comforting is in order."
 tags:
   - pastas
   - italian

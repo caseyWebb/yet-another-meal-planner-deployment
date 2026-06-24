@@ -20,6 +20,7 @@ tags:
 time_active: 30
 time_total: 40
 title: Kkakdugi (Cubed Radish Kimchi)
+description: "Korean cubed-radish kimchi fermented with gochugaru, fish sauce, and salted shrimp. Crunchy, juicy, and deeply savory with spicy-sour heat that deepens over weeks in the fridge. A make-ahead condiment and side for any meal."
 ---
 Crunchy, spicy, deeply savory Korean radish kimchi. Cut into cubes and fermented with gochugaru, fish sauce, and fermented shrimp. Best after 1–2 weeks in the fridge. Makes a large batch that keeps for weeks.
 

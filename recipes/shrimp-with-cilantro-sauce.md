@@ -1,5 +1,6 @@
 ---
 title: Shrimp with Cilantro Sauce
+description: "Indian-style shrimp marinated and simmered in a vivid green cilantro chutney sharp with lime, garlic, cumin, and Thai chile. Fresh, herb-forward, and gently spiced, it's a quick-cooking weeknight main served over basmati rice."
 tags:
   - shrimp
   - shellfish

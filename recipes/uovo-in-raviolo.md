@@ -1,5 +1,6 @@
 ---
 title: Uovo in Raviolo
+description: "A single giant fresh-pasta raviolo filled with lemony ricotta and a whole runny egg yolk that spills out when cut, finished in a pancetta, shallot, and white-wine butter sauce. Rich and delicate, it is a slow, hands-on special-occasion or date-night plate."
 tags:
   - pastas
   - vegetarian

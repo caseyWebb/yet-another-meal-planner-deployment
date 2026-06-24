@@ -1,5 +1,6 @@
 ---
 title: Honey-Mustard Salmon
+description: "Broiled salmon under a quick glaze of grainy mustard, honey, and mayonnaise, browned on top and tender inside, tangy-sweet with a touch of heat. A fast 15-minute weeknight main for nights with no time to fuss."
 tags:
   - seafood
   - fish
