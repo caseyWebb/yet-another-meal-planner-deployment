@@ -1,5 +1,6 @@
 ---
 title: Frijoles Charros
+description: "Brothy Mexican pinto beans simmered until creamy with bacon, fire-roasted tomatoes, serrano, and cilantro. Smoky, savory, and a little spicy, a hearty pot of beans to serve as a side or a warming meal that keeps well for the week."
 tags:
   - mexican
   - pork

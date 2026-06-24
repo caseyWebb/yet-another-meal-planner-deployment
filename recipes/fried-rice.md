@@ -1,5 +1,6 @@
 ---
 title: Fried Rice
+description: "A quick vegetable fried rice tossed in a screaming-hot wok until each grain is toasty and separate, studded with carrot, peas, scrambled egg, and scallion in a light soy-sesame seasoning. Savory and lightly chewy, an easy weeknight dinner or lunch in about 25 minutes."
 tags:
   - easy-dinners
   - lunch

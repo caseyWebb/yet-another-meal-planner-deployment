@@ -1,5 +1,6 @@
 ---
 title: Italian Beans and Greens Soup
+description: "A rustic Italian soup of creamy cannellini beans and tender escarole simmered with garlic, olive oil, and red pepper flakes, spooned over croutons. Brothy, savory, and faintly bitter-sweet. Warming, vegan cold-weather comfort for fall and winter."
 tags:
   - italian
   - vegetarian

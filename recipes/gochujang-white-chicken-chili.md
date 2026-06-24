@@ -1,5 +1,6 @@
 ---
 title: Gochujang White Chicken Chili
+description: "A Korean-spin white chicken chili with shredded chicken, cannellini beans, and corn in a creamy broth spiked with gochujang, ginger, and cream cheese. Warming, savory-spicy, and quick at about 20 minutes, a cozy one-pot dinner for cold fall and winter nights."
 tags:
   - korean
   - chicken

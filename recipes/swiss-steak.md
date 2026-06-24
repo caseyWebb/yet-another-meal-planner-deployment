@@ -1,5 +1,6 @@
 ---
 title: Swiss Steak
+description: "Pounded eye-of-round steaks slow-braised in a deep tomato gravy with onion, celery, and carrots until fork-tender. Rich, savory cold-weather comfort food meant for spooning over mashed potatoes or buttered noodles."
 tags:
   - beef
   - american

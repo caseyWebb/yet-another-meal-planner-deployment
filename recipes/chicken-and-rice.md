@@ -1,5 +1,6 @@
 ---
 title: Chicken and Rice
+description: "A one-pot skillet of spice-rubbed chicken thighs simmered on top of toasted long-grain rice in broth, savory and tender with paprika, thyme, and oregano. An easy, hands-off weeknight dinner for nights you want comfort without fuss."
 tags:
   - easy-dinners
   - one-pot

@@ -1,5 +1,6 @@
 ---
 title: Cobb Salad
+description: "A composed Cobb salad of grilled salmon over crisp romaine with hard-boiled egg, bacon, avocado, cherry tomatoes, and goat cheese in a tangy red-wine vinaigrette. Fresh, rich, and protein-heavy, a substantial cold lunch for warm days."
 tags:
   - lunch
   - salad

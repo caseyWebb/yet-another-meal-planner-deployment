@@ -1,5 +1,6 @@
 ---
 title: Sheet-Pan Salmon and Kale
+description: "A sheet-pan salmon glazed with tangy-sweet maple and pomegranate molasses, set over crisp-edged roasted kale and shallots, scattered with walnuts, mint, and pomegranate. Bright yet rich, it's a warming fall and winter weeknight main with minimal cleanup."
 tags:
   - salmon
   - fish
