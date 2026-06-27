@@ -8,6 +8,8 @@ tags:
   - chicken
   - one-pot
   - weeknight
+course:
+  - main
 protein: chicken
 cuisine: italian
 style: one-pot
@@ -32,6 +34,11 @@ uses_components: []
 produces_components: []
 source: 'https://www.budgetbytes.com/one-pot-creamy-pesto-chicken-pasta/'
 perishable_ingredients: [chicken breast, milk, cream cheese, spinach]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - a bright arugula salad with lemon vinaigrette
+  - crusty bread to soak up the sauce
 ---
 ## Ingredients
 

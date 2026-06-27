@@ -9,6 +9,10 @@ tags:
   - stew
 protein: pork
 cuisine: mexican
+course: [side, main]
+side_search_terms: ["warm corn or flour tortillas", "Mexican rice", "a grilled main"]
+pairs_with: []
+requires_equipment: []
 style: stew
 time_total: 65
 time_active: null

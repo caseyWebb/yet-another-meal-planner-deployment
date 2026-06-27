@@ -1,6 +1,9 @@
 ---
 title: Pressure Cooker Butter Chicken
 description: "A rich, velvety Indian butter chicken, with broiler-charred marinated thighs in a silky tomato-cashew makhani sauce finished with cream and butter. Warmly spiced and deeply comforting, the pressure cooker makes it weeknight-friendly served over rice."
+course: [main]
+side_search_terms: [steamed basmati rice, warm naan, a cooling cucumber raita]
+pairs_with: []
 tags:
   - indian
   - chicken

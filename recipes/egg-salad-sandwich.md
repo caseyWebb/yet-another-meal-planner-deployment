@@ -8,7 +8,9 @@ tags:
   - vegetarian
   - no-cook
   - quick
-protein: vegetarian
+course:
+  - main
+protein: egg
 cuisine: american
 style: salad
 time_total: 5
@@ -33,6 +35,11 @@ uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/the-best-egg-salad-recipe'
 perishable_ingredients: [scallions, parsley, lettuce]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - a crunchy kettle chip or pickle
+  - a simple green side salad
 ---
 ## Ingredients
 

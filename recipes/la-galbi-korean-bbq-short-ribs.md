@@ -4,6 +4,21 @@ course:
 cuisine: korean
 discovered_at: '2026-06-19'
 discovery_source: Korean Bapsang RSS
+ingredients_key:
+  - beef short ribs
+  - asian pear
+  - soy sauce
+  - garlic
+  - sesame oil
+  - scallions
+dietary: [dairy-free]
+season: [summer]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - steamed white rice
+  - kimchi and quick pickled vegetables
+  - a crunchy sesame slaw
 perishable_ingredients:
   - beef short ribs
   - korean/asian pear
@@ -11,7 +26,6 @@ perishable_ingredients:
 protein: beef
 servings: 4
 source: https://www.koreanbapsang.com/la-galbi-gui-grilled-la-style-short-ribs
-status: draft
 tags:
   - bbq
   - grill

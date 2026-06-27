@@ -31,6 +31,10 @@ uses_components: []
 produces_components: []
 source: 'https://www.budgetbytes.com/one-pot-chicken-and-rice/'
 perishable_ingredients: [chicken thighs, parsley]
+course: [main]
+pairs_with: []
+requires_equipment: []
+side_search_terms: [a bright green salad, simple roasted vegetables, steamed broccoli]
 ---
 ## Ingredients
 

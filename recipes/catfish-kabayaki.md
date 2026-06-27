@@ -10,7 +10,6 @@ perishable_ingredients:
 protein: fish
 servings: 2
 source: https://www.justonecookbook.com/catfish-kabayaki
-status: draft
 tags:
   - donburi
   - quick
@@ -20,6 +19,12 @@ time_active: 5
 time_total: 15
 title: Catfish Kabayaki
 description: "A budget Japanese donburi of flour-dusted basa fillets pan-fried golden and glazed in a sweet-savory soy, mirin, and sake kabayaki sauce over short-grain rice. Glossy and quick, it is an easy weeknight dinner ready in about 15 minutes."
+ingredients_key: [basa fillets, soy sauce, mirin, sake, green onion, sesame seeds]
+dietary: [dairy-free]
+season: []
+pairs_with: []
+requires_equipment: []
+side_search_terms: [a crisp pickled vegetable side, a simple miso soup, a quick cucumber salad]
 ---
 A budget-friendly take on unagi donburi: basa (catfish) fillets pan-fried until golden and glazed in a sweet-savory kabayaki sauce. Ready in 15 minutes.
 

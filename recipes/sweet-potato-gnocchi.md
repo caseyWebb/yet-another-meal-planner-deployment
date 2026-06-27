@@ -9,6 +9,13 @@ tags:
   - project-cooking
 protein: vegetarian
 cuisine: italian
+course:
+  - main
+side_search_terms:
+  - a bright acidic salad
+  - sauteed bitter greens
+requires_equipment: []
+pairs_with: []
 style: fresh-pasta
 time_total: 190
 time_active: 40

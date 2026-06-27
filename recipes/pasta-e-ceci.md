@@ -7,6 +7,15 @@ dietary:
   - vegetarian
   - vegan
   - dairy-free
+ingredients_key:
+  - chickpeas
+  - pasta
+  - rosemary
+  - garlic
+  - carrot
+  - celery
+season: []
+pairs_with: []
 perishable_ingredients:
   - carrot
   - celery

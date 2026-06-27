@@ -5,6 +5,10 @@ cuisine: indian
 description: Mumbai's iconic street-food plate — a medley of vegetables pressure-cooked, then mashed into a buttery, tangy, deeply spiced tomato bhaji finished with pav bhaji masala, served with soft dinner rolls (pav) griddled in butter. Rich, messy, crowd-pleasing comfort; pile on chopped onion, cilantro, and a big squeeze of lemon. A hearty vegetarian main.
 dietary:
   - vegetarian
+protein: vegetarian
+ingredients_key: [potatoes, cauliflower, tomatoes, bell pepper, pav bhaji masala, butter]
+season: []
+pairs_with: []
 perishable_ingredients:
   - tomatoes
   - bell pepper

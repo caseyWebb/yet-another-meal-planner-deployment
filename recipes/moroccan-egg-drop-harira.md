@@ -9,6 +9,7 @@ tags:
   - ramadan
 protein: vegetarian
 cuisine: moroccan
+course: [main]
 style: soup
 time_total: 105
 time_active: 10
@@ -32,6 +33,12 @@ uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/moroccan-egg-drop-harira-recipe-7109917'
 perishable_ingredients: [parsley, cilantro]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - warm flatbread or crusty bread
+  - medjool dates
+  - a bright lemony salad
 ---
 ## Ingredients
 

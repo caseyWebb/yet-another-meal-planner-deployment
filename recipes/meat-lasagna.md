@@ -10,6 +10,7 @@ tags:
   - weekend
 protein: mixed
 cuisine: italian
+course: [main]
 style: baked
 time_total: 310
 time_active: 20
@@ -35,6 +36,12 @@ produces_components: []
 source: >-
   https://www.seriouseats.com/no-holds-barred-lasagna-bolognese-pasta-italian-homemade-ricotta
 perishable_ingredients: [ground lamb, ground pork, ground veal, chicken livers, sage, basil, parsley, milk, heavy cream, ricotta, mozzarella]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - a sharp green salad with vinaigrette
+  - crusty bread
+  - garlicky sauteed greens
 ---
 ## Ingredients
 

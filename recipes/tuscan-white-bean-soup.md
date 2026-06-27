@@ -9,6 +9,10 @@ tags:
   - weeknight
 protein: vegetarian
 cuisine: italian
+course: [main]
+side_search_terms: [crusty toasted bread for the broth, a bright green salad, a glass of olive oil for drizzling]
+requires_equipment: []
+pairs_with: []
 style: soup
 time_total: 30
 time_active: null

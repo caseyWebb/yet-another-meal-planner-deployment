@@ -9,6 +9,14 @@ tags:
   - make-ahead
 protein: beef
 cuisine: american
+course:
+  - main
+side_search_terms:
+  - mashed potatoes
+  - buttered egg noodles
+  - a simple green vegetable
+requires_equipment: []
+pairs_with: []
 style: braise
 time_total: 155
 time_active: 15

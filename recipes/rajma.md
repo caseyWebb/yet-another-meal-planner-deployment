@@ -11,6 +11,9 @@ perishable_ingredients:
   - ginger
   - cilantro
 protein: vegetarian
+ingredients_key: [kidney beans, tomatoes, onions, ginger, garlic, garam masala]
+season: []
+pairs_with: []
 requires_equipment: []
 servings: 5
 side_search_terms:

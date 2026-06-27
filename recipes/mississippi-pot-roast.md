@@ -9,6 +9,7 @@ tags:
   - pot-roast
 protein: beef
 cuisine: american
+course: [main]
 style: braise
 time_total: 235
 time_active: 30
@@ -31,6 +32,12 @@ uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/mississippi-pot-roast-recipe-8774586'
 perishable_ingredients: [beef chuck, dill, buttermilk]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - creamy mashed potatoes
+  - buttered egg noodles
+  - a sharp green salad to cut the richness
 ---
 ## Ingredients
 

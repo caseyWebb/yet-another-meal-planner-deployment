@@ -2,6 +2,16 @@
 course:
   - main
 cuisine: japanese
+ingredients_key:
+  - mackerel
+  - miso
+  - ginger
+  - mirin
+  - sake
+dietary:
+  - dairy-free
+season: []
+pairs_with: []
 description: Japanese home-cooking at its best — mackerel fillets simmered in a miso, mirin, and ginger broth until glazed and deeply savory. The miso goes in twice to keep the flavor bright; the fish rests off the heat to absorb flavor without overcooking. Rich and warming over rice.
 perishable_ingredients:
   - mackerel
@@ -24,33 +34,6 @@ tags:
 time_active: 20
 time_total: 65
 title: Saba Misoni (Mackerel Simmered in Miso)
----
----
-title: "Saba Misoni (Mackerel Simmered in Miso)"
-protein: fish
-cuisine: japanese
-course:
-  - main
-servings: 4
-time_total: 65
-time_active: 20
-description: "Japanese home-cooking at its best — mackerel fillets simmered in a miso, mirin, and ginger broth until glazed and deeply savory. The miso goes in twice to keep the flavor bright; the fish rests off the heat to absorb flavor without overcooking. Rich and warming over rice."
-source: "https://www.justonecookbook.com/saba-misoni-simmered-mackerel-in-miso-sauce"
-tags:
-  - mackerel
-  - fish
-  - japanese
-  - weeknight
-  - miso
-  - simmered
-perishable_ingredients:
-  - mackerel
-  - ginger
-requires_equipment: []
-side_search_terms:
-  - "steamed short-grain rice"
-  - "miso soup and Japanese pickles"
-  - "a simple Japanese salad or blanched greens with sesame"
 ---
 
 ## Ingredients

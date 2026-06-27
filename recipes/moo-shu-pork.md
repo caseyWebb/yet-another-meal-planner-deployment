@@ -7,6 +7,7 @@ discovered_at: '2026-06-10'
 discovery_source: rss
 protein: pork
 cuisine: chinese
+course: [main]
 style: stir-fry
 tags:
   - chinese-american
@@ -15,8 +16,7 @@ tags:
   - weeknight
   - pancakes
 dietary: []
-season:
-  - all
+season: []
 meal_preppable: false
 servings: 6
 time_total: 120
@@ -32,6 +32,12 @@ ingredients_key:
   - oyster sauce
   - Shaoxing wine
 perishable_ingredients: [pork shoulder, scallions]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - steamed white rice
+  - a simple stir-fried green vegetable
+  - hot and sour or egg drop soup
 ---
 Classic Chinese-American stir-fry with pork, egg, cabbage, and mushrooms, served in thin moo shu pancakes with hoisin sauce.
 

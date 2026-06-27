@@ -8,6 +8,9 @@ tags:
   - corn
   - risotto
   - summer
+course:
+  - main
+  - side
 protein: vegetarian
 cuisine: italian
 style: one-pot
@@ -36,6 +39,11 @@ uses_components:
 produces_components: []
 source: 'https://www.seriouseats.com/pressure-cooker-corn-risotto'
 perishable_ingredients: [corn, thyme, heavy cream]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - a bright acidic salad to cut the richness
+  - a simple roasted or grilled vegetable
 ---
 ## Ingredients
 

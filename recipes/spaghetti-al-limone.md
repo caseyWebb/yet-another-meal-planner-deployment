@@ -2,6 +2,16 @@
 course:
   - main
 cuisine: italian
+ingredients_key:
+  - spaghetti
+  - lemon
+  - butter
+  - garlic
+  - parsley
+protein: null
+season:
+  - summer
+pairs_with: []
 description: Amalfi-style lemon spaghetti made the right way — no cream. The pasta finishes risotto-style in a butter-lemon-zest sauce emulsified with starchy water into something bright, silky, and clean. A fresh, fast summer main that lets good lemons and good butter carry the dish.
 dietary:
   - vegetarian

@@ -1,6 +1,10 @@
 ---
 title: Pasta e Fagioli (Bacon & Tomato)
 description: "A brothy Italian bean and pasta soup built on crispy bacon, mirepoix, crushed tomatoes, and cannellini beans with ditalini and Parmesan. Hearty, smoky, and savory, a budget-friendly weeknight one-pot for a chilly fall or winter night."
+course: [main]
+side_search_terms: [warm crusty bread, a simple green salad]
+requires_equipment: []
+pairs_with: []
 tags:
   - italian
   - soup

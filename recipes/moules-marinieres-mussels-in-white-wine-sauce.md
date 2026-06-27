@@ -4,6 +4,21 @@ protein: shellfish
 cuisine: french
 course:
   - main
+ingredients_key:
+  - mussels
+  - white wine
+  - shallot
+  - garlic
+  - butter
+  - parsley
+dietary: [gluten-free]
+season: []
+tags:
+  - seafood
+  - french
+  - quick
+  - weeknight
+pairs_with: []
 time_total: 50
 time_active: 10
 servings: 4

@@ -1,5 +1,9 @@
 ---
 cuisine: italian
+course: [main]
+side_search_terms: [a crisp arugula salad, garlic bread]
+pairs_with: []
+requires_equipment: []
 dietary:
   - vegetarian
 difficulty: easy
@@ -21,7 +25,6 @@ season:
   - summer
 servings: 4
 source: https://www.bonappetit.com/recipe/pasta-primavera
-status: draft
 tags:
   - vegetarian
   - italian

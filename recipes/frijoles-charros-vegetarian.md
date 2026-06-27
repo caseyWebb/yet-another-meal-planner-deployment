@@ -9,6 +9,15 @@ dietary:
   - vegan
   - gluten-free
   - dairy-free
+ingredients_key:
+  - pinto beans
+  - jalapeno
+  - anaheim chile
+  - tomato
+  - onion
+  - cilantro
+season: []
+pairs_with: []
 perishable_ingredients:
   - tomato
   - jalapeno

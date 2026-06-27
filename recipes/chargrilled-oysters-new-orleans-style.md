@@ -1,30 +1,4 @@
 ---
-title: Chargrilled Oysters (New Orleans Style)
-protein: shellfish
-cuisine: cajun
-course:
-  - main
-servings: 4
-time_total: 27
-time_active: 15
-description: New Orleans-style oysters grilled on the half shell in a compound butter of Creole seasoning, garlic, lemon, and Pecorino Romano — the shells bubble, the cheese crisps, and the oyster liquor turns into the sauce. The natural move any time the grill is hot.
-source: https://www.garlicandzest.com/chargrilled-oysters
-tags:
-  - oysters
-  - shellfish
-  - new-orleans
-  - cajun
-  - grill
-perishable_ingredients:
-  - oysters
-  - parsley
-requires_equipment: []
-side_search_terms:
-  - crusty French bread to mop the butter
-  - a cold bright salad
-  - grilled corn or simple grilled vegetable
----
----
 title: "Chargrilled Oysters (New Orleans Style)"
 protein: shellfish
 cuisine: cajun
@@ -49,6 +23,10 @@ side_search_terms:
   - "crusty French bread to mop the butter"
   - "a cold bright salad"
   - "grilled corn or simple grilled vegetable"
+ingredients_key: [oysters, butter, creole seasoning, garlic, lemon, pecorino romano]
+dietary: [gluten-free]
+season: []
+pairs_with: []
 ---
 
 ## Ingredients

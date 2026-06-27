@@ -9,6 +9,13 @@ tags:
   - project-cooking
 protein: vegetarian
 cuisine: italian
+course:
+  - main
+side_search_terms:
+  - a bright acidic salad
+  - crusty bread for the sauce
+requires_equipment: []
+pairs_with: []
 style: fresh-pasta
 time_total: 70
 time_active: 70

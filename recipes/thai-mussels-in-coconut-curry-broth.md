@@ -3,6 +3,11 @@ course:
   - main
 cuisine: thai
 description: Mussels steamed open in a fragrant coconut-milk broth with lemongrass, ginger, garlic, fish sauce, lime and Thai chili. Bright, creamy and aromatic with real heat — a 15-minute weeknight bowl in a totally different register from the European versions, no wine anywhere. Slurp the broth with rice or toasted baguette. Naturally nut-free.
+dietary: [dairy-free, gluten-free]
+ingredients_key: [mussels, coconut milk, lemongrass, ginger, fish sauce, lime, thai red chili]
+pairs_with: []
+season: []
+tags: []
 perishable_ingredients:
   - mussels
   - ginger

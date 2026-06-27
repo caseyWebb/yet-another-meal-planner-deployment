@@ -4,11 +4,19 @@ course:
 cuisine: italian
 description: The real Roman carbonara — guanciale, egg yolks, and Pecorino emulsified into a silky, glossy sauce with no cream anywhere. Rich, savory, pepper-flecked; a 20-minute weeknight dish that feels indulgent. The no-cream-in-alfredo dish; technique is everything and the margin between silky and scrambled is about fifteen seconds.
 dietary: []
+ingredients_key:
+  - guanciale
+  - eggs
+  - pecorino romano
+  - black pepper
+  - spaghetti
+pairs_with: []
 perishable_ingredients:
   - guanciale
   - eggs
 protein: pork
 requires_equipment: []
+season: []
 servings: 4
 side_search_terms:
   - a sharp bitter green salad to cut the richness

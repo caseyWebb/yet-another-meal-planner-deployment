@@ -9,6 +9,7 @@ tags:
   - quick
 protein: fish
 cuisine: japanese
+course: [side]
 style: soup
 time_total: 20
 time_active: null
@@ -32,6 +33,9 @@ uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/rustic-miso-soup-tofu-seaweed-recipe'
 perishable_ingredients: [tofu, scallions]
+pairs_with: []
+requires_equipment: []
+side_search_terms: []
 ---
 ## Ingredients
 

@@ -9,6 +9,10 @@ tags:
   - weeknight
 protein: vegetarian
 cuisine: italian
+course: [main]
+side_search_terms: [crusty bread for the soup, a simple green salad, garlic bread]
+requires_equipment: []
+pairs_with: []
 style: soup
 time_total: 15
 time_active: 15

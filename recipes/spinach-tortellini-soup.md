@@ -8,6 +8,13 @@ tags:
   - weeknight
 protein: vegetarian
 cuisine: italian
+course:
+  - main
+side_search_terms:
+  - crusty bread for dipping
+  - a simple green salad
+requires_equipment: []
+pairs_with: []
 style: soup
 time_total: 5
 time_active: 5

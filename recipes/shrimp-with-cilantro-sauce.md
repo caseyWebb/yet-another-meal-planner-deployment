@@ -9,6 +9,8 @@ tags:
   - weeknight
 protein: shellfish
 cuisine: indian
+course:
+  - main
 style: one-pot
 time_total: 75
 time_active: 25
@@ -34,6 +36,12 @@ uses_components: []
 produces_components: []
 source: null
 perishable_ingredients: [cilantro, thai chile, shrimp]
+pairs_with: []
+requires_equipment: [blender]
+side_search_terms:
+  - warm naan or roti
+  - a cooling cucumber raita
+  - a simple kachumber salad
 ---
 ## Ingredients
 

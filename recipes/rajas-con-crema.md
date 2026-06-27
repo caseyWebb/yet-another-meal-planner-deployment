@@ -7,6 +7,10 @@ description: Rajas con crema — charred, peeled poblano strips sauteed with swe
 dietary:
   - vegetarian
   - gluten-free
+protein: null
+ingredients_key: [poblano peppers, onion, mexican crema, garlic]
+season: []
+pairs_with: []
 perishable_ingredients:
   - poblano peppers
   - cream

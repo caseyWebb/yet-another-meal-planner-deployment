@@ -19,7 +19,14 @@ protein: beef
 season: []
 servings: 4
 source: https://www.budgetbytes.com/bibimbap
-status: draft
+course:
+  - main
+side_search_terms:
+  - a simple miso or seaweed soup
+  - extra kimchi or quick pickles
+  - a cucumber sesame salad
+requires_equipment: []
+pairs_with: []
 style: bowl
 tags:
   - korean

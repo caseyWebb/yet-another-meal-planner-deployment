@@ -8,6 +8,8 @@ tags:
   - pork
   - baked
   - weekend
+course:
+  - main
 protein: pork
 cuisine: italian
 style: baked
@@ -33,6 +35,11 @@ produces_components: []
 source: >-
   https://www.seriouseats.com/cast-iron-cooking-crispy-baked-pasta-mushrooms-sausage-parmesan-cream-sauce-recipe
 perishable_ingredients: [parsley, chives, italian sausage, mushrooms, heavy cream]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - a sharp bitter green salad to cut the richness
+  - a bright acidic vegetable side
 ---
 ## Ingredients
 

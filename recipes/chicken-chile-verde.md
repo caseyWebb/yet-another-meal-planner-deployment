@@ -31,6 +31,10 @@ produces_components: []
 source: >-
   https://www.seriouseats.com/pressure-cooker-fast-and-easy-chicken-chile-verde-recipe
 perishable_ingredients: [chicken thighs, poblano, tomatillos, anaheim chile, serrano chile, cilantro]
+course: [main]
+pairs_with: []
+requires_equipment: []
+side_search_terms: [warm corn tortillas, cilantro-lime rice, refried or pinto beans]
 ---
 ## Ingredients
 

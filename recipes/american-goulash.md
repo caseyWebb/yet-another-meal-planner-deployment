@@ -11,6 +11,13 @@ tags:
   - weeknight
 protein: beef
 cuisine: american
+course:
+  - main
+side_search_terms:
+  - a crisp green salad
+  - crusty bread
+requires_equipment: []
+pairs_with: []
 style: one-pot
 time_total: 70
 time_active: 10

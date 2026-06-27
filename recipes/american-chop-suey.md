@@ -10,6 +10,13 @@ tags:
   - weeknight
 protein: beef
 cuisine: american
+course:
+  - main
+side_search_terms:
+  - a crisp green salad with sharp vinaigrette
+  - garlic bread
+requires_equipment: []
+pairs_with: []
 style: one-pot
 time_total: 40
 time_active: 5

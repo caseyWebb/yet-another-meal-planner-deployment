@@ -37,6 +37,10 @@ uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/channa-masala-recipe'
 perishable_ingredients: [thai chile, cilantro]
+course: [main]
+pairs_with: []
+requires_equipment: []
+side_search_terms: [warm naan or flatbread, steamed basmati rice, a cooling cucumber raita]
 ---
 ## Ingredients
 

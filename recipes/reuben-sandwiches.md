@@ -9,6 +9,8 @@ tags:
   - deli
 protein: beef
 cuisine: american
+course:
+  - main
 style: griddle
 time_total: 25
 time_active: 10
@@ -30,6 +32,12 @@ uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/reuben-sandwich-corned-beef-rye-recipe'
 perishable_ingredients: [sour cream]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - crispy dill pickle spears
+  - a vinegary coleslaw
+  - kettle potato chips
 ---
 ## Ingredients
 

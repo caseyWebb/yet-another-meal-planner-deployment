@@ -3,12 +3,19 @@ course:
   - main
 cuisine: japanese
 description: Japanese-style yakisoba noodles stuffed in hot dog buns. Fun, carb-forward, quick, and great for summer lunches or casual dinners. Netflix Midnight Diner inspiration.
+dietary: []
 discovered_at: '2026-06-26'
 discovery_source: Just One Cookbook
+ingredients_key: [yakisoba noodles, hot dog buns, worcestershire sauce, oyster sauce, pickled red ginger, aonori]
 meal_preppable: false
+pairs_with: []
 perishable_ingredients:
   - butter
 protein: null
+requires_equipment: []
+season: [summer]
+side_search_terms: [a simple miso soup, a crunchy cucumber sunomono salad, edamame]
+tags: []
 servings: 8
 slug: yakisoba-pan-midnight-diner
 source: https://www.justonecookbook.com/yakisoba-pan

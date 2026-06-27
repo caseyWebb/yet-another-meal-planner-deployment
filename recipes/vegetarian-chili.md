@@ -8,6 +8,9 @@ dietary:
   - vegan
   - gluten-free
   - dairy-free
+ingredients_key: [black beans, pinto beans, diced tomatoes, bell pepper, chili powder, cumin]
+pairs_with: []
+season: [fall, winter]
 perishable_ingredients:
   - bell pepper
   - carrots

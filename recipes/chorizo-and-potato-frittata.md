@@ -32,6 +32,10 @@ produces_components: []
 source: >-
   https://www.jamieoliver.com/recipes/eggs/potato-and-chorizo-omelette-with-a-kinda-parsley-salad/
 perishable_ingredients: [rosemary, parsley]
+course: [breakfast, main]
+pairs_with: []
+requires_equipment: []
+side_search_terms: [a bright green salad, crusty bread, fresh sliced fruit]
 ---
 ## Ingredients
 

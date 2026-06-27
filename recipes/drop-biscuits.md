@@ -8,7 +8,9 @@ tags:
   - biscuits
   - bread
   - side
-protein: vegetarian
+course:
+  - side
+protein: null
 cuisine: american
 style: baked
 time_total: 25
@@ -31,6 +33,9 @@ uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/quick-easy-drop-biscuits-recipe'
 perishable_ingredients: [milk]
+pairs_with: []
+requires_equipment: []
+side_search_terms: []
 ---
 ## Ingredients
 

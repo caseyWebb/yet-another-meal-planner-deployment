@@ -3,6 +3,18 @@ course:
   - side
   - condiment
 cuisine: korean
+protein: null
+ingredients_key:
+  - korean radish
+  - gochugaru
+  - fish sauce
+  - salted shrimp
+  - garlic
+  - scallion
+side_search_terms: []
+season: []
+pairs_with: []
+requires_equipment: []
 dietary:
   - gluten-free
 discovered_at: '2026-06-19'
@@ -11,7 +23,6 @@ perishable_ingredients:
   - korean radish
 servings: 48
 source: https://www.koreanbapsang.com/kkakdugi-cubed-radish-kimchi
-status: draft
 tags:
   - kimchi
   - ferment

@@ -30,6 +30,10 @@ produces_components: []
 source: >-
   https://www.seriouseats.com/quick-and-easy-pressure-cooker-chicken-black-bean-stew-recipe
 perishable_ingredients: [chicken legs, cilantro, sour cream]
+course: [main]
+pairs_with: []
+requires_equipment: []
+side_search_terms: [warm cornbread, steamed rice, a crisp lime-dressed slaw]
 ---
 ## Ingredients
 

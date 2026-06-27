@@ -3,21 +3,33 @@ course:
   - main
 cuisine: italian
 description: Light, bright pasta with fresh crab meat, cherry tomatoes, garlic, and dried chili. Quick 25-minute weeknight dinner with summery flavors.
+dietary: []
 discovered_at: '2026-06-26'
 discovery_source: Rasa Malaysia
+ingredients_key:
+  - crab meat
+  - spaghetti
+  - cherry tomatoes
+  - garlic
+  - dried red chili
 meal_preppable: false
+pairs_with: []
 perishable_ingredients:
   - crab meat
   - cherry tomatoes
   - garlic
   - parsley
 protein: shellfish
+requires_equipment: []
+season:
+  - summer
 servings: 2
 side_search_terms:
   - crusty bread
   - simple salad
 slug: crab-pasta-light
 source: https://rasamalaysia.com/crab-pasta
+tags: []
 time_active: 10
 time_total: 25
 title: Crab Pasta

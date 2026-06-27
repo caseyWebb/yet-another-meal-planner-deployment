@@ -10,6 +10,13 @@ tags:
   - make-ahead
 protein: beef
 cuisine: american
+course:
+  - main
+side_search_terms:
+  - a crisp green salad
+  - steamed or roasted vegetables
+requires_equipment: []
+pairs_with: []
 style: baked
 time_total: 195
 time_active: 15
