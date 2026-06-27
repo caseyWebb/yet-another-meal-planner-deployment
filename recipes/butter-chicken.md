@@ -2,8 +2,6 @@
 title: Butter Chicken
 description: "A North Indian makhani of broiler-charred marinated chicken thighs in a silky tomato-cashew sauce enriched with butter, cream, garam masala, and fenugreek. Rich, mildly spiced, and deeply savory, it is a restaurant-style braise worth a weekend cook, served over rice."
 tags:
-  - indian
-  - chicken
   - curry
   - braise
   - makhani
@@ -17,7 +15,6 @@ side_search_terms:
   - warm naan or roti
   - a cooling cucumber raita
 pairs_with: []
-style: braise
 time_total: 95
 time_active: 15
 servings: 6
@@ -25,7 +22,6 @@ difficulty: hard
 dietary:
   - gluten-free
 season: []
-veg_forward: false
 requires_equipment: []
 discovered_at: null
 discovery_source: null

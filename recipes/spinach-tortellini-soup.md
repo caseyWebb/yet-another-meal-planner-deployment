@@ -2,10 +2,9 @@
 title: Spinach Tortellini Soup
 description: "A brothy Italian soup of cheese tortellini and wilted spinach in a fire-roasted tomato broth, savory and lightly bright with lemon and Parmesan. A fast, warming weeknight bowl that comes together in minutes."
 tags:
-  - vegetarian
-  - italian
   - soup
   - weeknight
+  - veg-forward
 protein: vegetarian
 cuisine: italian
 course:
@@ -15,7 +14,6 @@ side_search_terms:
   - a simple green salad
 requires_equipment: []
 pairs_with: []
-style: soup
 time_total: 5
 time_active: 5
 servings: 4
@@ -23,7 +21,6 @@ difficulty: easy
 dietary:
   - vegetarian
 season: []
-veg_forward: true
 discovered_at: null
 discovery_source: null
 ingredients_key:

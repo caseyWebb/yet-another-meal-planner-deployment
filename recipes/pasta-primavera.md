@@ -26,18 +26,14 @@ season:
 servings: 4
 source: https://www.bonappetit.com/recipe/pasta-primavera
 tags:
-  - vegetarian
-  - italian
   - pasta
   - weeknight
-  - summer
   - veg-forward
 time_active: 25
 time_total: 45
 title: Pasta Primavera
 description: "A spring vegetable pasta of zucchini, asparagus, broccoli, and peas in a light cream sauce, brightened with lemon, basil, and Parmesan. Fresh, green, and lightly rich, an easy weeknight meatless dinner for warm spring and summer evenings."
 uses_components: []
-veg_forward: true
 perishable_ingredients: [zucchini, asparagus, heavy cream, basil]
 ---
 ## Ingredients

@@ -4,17 +4,15 @@ description: "A quick vegetable fried rice tossed in a screaming-hot wok until e
 tags:
   - easy-dinners
   - lunch
-  - chinese
-  - vegetarian
   - stir-fry
   - weeknight
+  - veg-forward
 protein: vegetarian
 cuisine: chinese
 course: [main]
 side_search_terms: ["a quick stir-fried green vegetable", "a light clear soup"]
 pairs_with: []
 requires_equipment: []
-style: stir-fry
 time_total: 25
 time_active: 5
 servings: 3
@@ -22,7 +20,6 @@ difficulty: easy
 dietary:
   - vegetarian
 season: []
-veg_forward: true
 discovered_at: null
 discovery_source: null
 ingredients_key:

@@ -2,24 +2,21 @@
 title: Filthier Cabbage
 description: "A Cajun-spiced one-pot braise of ground beef, bacon, and peppers simmered with cabbage in a smoky Creole-seasoned gravy. Hearty, savory, and a little spicy, it's warming weeknight comfort food served over rice on a cold night."
 tags:
-  - cajun
-  - beef
   - one-pot
   - cabbage
-  - comfort-foods
+  - comfort-food
   - weeknight
+  - braise
 course:
   - main
 protein: beef
 cuisine: cajun
-style: braise
 time_total: 60
 time_active: 30
 servings: 6
 difficulty: easy
 dietary: []
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

@@ -2,8 +2,6 @@
 title: Turkey Meatloaf
 description: "A lean, moist ground-turkey meatloaf packed with finely chopped mushrooms, onion, and carrot, glazed with ketchup and savory with Worcestershire. Lighter than the classic but still hearty, homey comfort food for an easy weeknight dinner."
 tags:
-  - turkey
-  - american
   - baked
   - meatloaf
   - comfort-food
@@ -13,14 +11,12 @@ course: [main]
 side_search_terms: [mashed potatoes, roasted green vegetables, a simple salad]
 requires_equipment: []
 pairs_with: []
-style: baked
 time_total: 90
 time_active: 30
 servings: 6
 difficulty: easy
 dietary: []
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

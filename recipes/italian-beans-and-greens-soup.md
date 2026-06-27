@@ -2,19 +2,16 @@
 title: Italian Beans and Greens Soup
 description: "A rustic Italian soup of creamy cannellini beans and tender escarole simmered with garlic, olive oil, and red pepper flakes, spooned over croutons. Brothy, savory, and faintly bitter-sweet. Warming, vegan cold-weather comfort for fall and winter."
 tags:
-  - italian
-  - vegetarian
-  - vegan
   - soup
   - beans
   - greens
+  - veg-forward
 protein: vegetarian
 cuisine: italian
 course: [main]
 side_search_terms: ["crusty bread for the broth", "a sharp green salad", "grated Parmigiano"]
 pairs_with: []
 requires_equipment: []
-style: soup
 time_total: 100
 time_active: 15
 servings: 6
@@ -26,7 +23,6 @@ dietary:
 season:
   - fall
   - winter
-veg_forward: true
 discovered_at: null
 discovery_source: null
 ingredients_key:

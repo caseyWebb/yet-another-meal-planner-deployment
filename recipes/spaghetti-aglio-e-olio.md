@@ -25,10 +25,7 @@ side_search_terms:
   - toasted breadcrumbs or crusty bread
 source: https://www.recipesfromitaly.com/spaghetti-aglio-e-olio
 tags:
-  - italian
   - pasta
-  - vegan
-  - vegetarian
   - weeknight
   - pantry
   - spicy

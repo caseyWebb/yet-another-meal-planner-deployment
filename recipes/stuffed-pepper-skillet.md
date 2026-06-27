@@ -12,10 +12,7 @@ requires_equipment: []
 pairs_with: []
 dietary: []
 difficulty: easy
-style: one-pot
 tags:
-  - american
-  - pork
   - sausage
   - one-pot
   - weeknight
@@ -25,7 +22,6 @@ servings: 6
 time_total: 40
 time_active: 20
 meal_preppable: true
-veg_forward: false
 ingredients_key:
   - ground Italian sausage
   - bell peppers

@@ -26,8 +26,6 @@ side_search_terms:
 source: https://www.justonecookbook.com/grilled-mackerel-saba-shioyaki
 tags:
   - mackerel
-  - fish
-  - japanese
   - weeknight
   - quick
   - simple

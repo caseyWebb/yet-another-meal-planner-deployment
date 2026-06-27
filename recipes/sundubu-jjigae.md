@@ -28,14 +28,10 @@ side_search_terms:
   - steamed short-grain rice
   - kimchi and Korean banchan
   - a kimchi pancake (kimchijeon)
-slug: sundubu-jjigae
 source: https://thefoodietakesflight.com/sundubu-jjigae-or-korean-soft-tofu-stew-vegan-recipe
 tags:
-  - korean
-  - tofu
   - stew
   - jjigae
-  - vegan
   - spicy
   - comfort-food
   - weeknight

@@ -19,13 +19,10 @@ side_search_terms:
   - extra chopped raw onion and lemon wedges
   - a crisp kachumber salad
   - a cooling lassi or chaas
-slug: pav-bhaji
 source: https://www.vegrecipesofindia.com/pav-bhaji-recipe
 tags:
-  - indian
   - mumbai
   - street-food
-  - vegetarian
   - comfort-food
   - vegetable
 time_active: 20

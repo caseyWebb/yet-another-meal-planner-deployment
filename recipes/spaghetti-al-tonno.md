@@ -24,9 +24,7 @@ side_search_terms:
   - crusty bread
 source: https://www.recipesfromitaly.com/pasta-with-tuna-recipe
 tags:
-  - italian
   - pasta
-  - fish
   - weeknight
   - pantry
 time_active: 10

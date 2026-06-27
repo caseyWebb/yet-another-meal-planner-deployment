@@ -28,17 +28,13 @@ side_search_terms:
   - Mexican red rice or cilantro-lime rice
   - a crisp cabbage slaw
   - chips and salsa or guacamole
-slug: black-bean-poblano-tacos
 source: https://www.abeautifulplate.com/southwestern-black-bean-tacos
 tags:
-  - southwestern
   - tex-mex
   - tacos
   - black-beans
   - poblano
   - corn
-  - vegetarian
-  - summer
   - weeknight
   - garden
 time_active: 20

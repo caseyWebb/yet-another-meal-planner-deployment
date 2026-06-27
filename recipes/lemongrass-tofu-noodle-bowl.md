@@ -31,16 +31,10 @@ side_search_terms:
   - vegetable spring rolls
   - extra fresh herbs and pickled vegetables
   - a light clear broth
-slug: lemongrass-tofu-noodle-bowl
 source: https://choosingchia.com/vietnamese-noodle-bowls
 tags:
-  - vietnamese
-  - tofu
   - noodles
   - vermicelli
-  - vegan
-  - gluten-free
-  - summer
   - no-cook
   - fresh
 time_active: 15

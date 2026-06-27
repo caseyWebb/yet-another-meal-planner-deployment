@@ -29,16 +29,12 @@ side_search_terms:
   - hot sauce
   - a simple green salad
   - collard greens
-slug: red-beans-and-rice-vegetarian
 source: https://www.budgetbytes.com/vegan-red-beans-rice
 tags:
-  - cajun
   - creole
   - new-orleans
   - red-beans
   - rice
-  - vegan
-  - gluten-free
   - poor-foods
   - comfort-food
   - freezer-friendly

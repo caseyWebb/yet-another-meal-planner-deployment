@@ -2,7 +2,6 @@
 title: Lasagna Bolognese
 description: "Classic baked lasagna layering fresh pasta with slow-cooked meat ragù, silky béchamel, and Parmigiano. Rich, creamy, and deeply savory under a browned, bubbling top. An involved weekend project for a special-occasion family dinner."
 tags:
-  - italian
   - beef
   - pork
   - baked
@@ -12,14 +11,12 @@ tags:
 protein: mixed
 cuisine: italian
 course: [main]
-style: baked
 time_total: 80
 time_active: 15
 servings: 8
 difficulty: hard
 dietary: []
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

@@ -22,11 +22,9 @@ side_search_terms:
   - a plate of sauteed bitter greens
 source: https://www.recipesfromitaly.com/amatriciana-pasta-recipe
 tags:
-  - italian
   - pasta
   - roman
   - weeknight
-  - pork
   - spicy
 time_active: 20
 time_total: 30

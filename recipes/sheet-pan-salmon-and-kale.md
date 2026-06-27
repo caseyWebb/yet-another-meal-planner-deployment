@@ -3,15 +3,12 @@ title: Sheet-Pan Salmon and Kale
 description: "A sheet-pan salmon glazed with tangy-sweet maple and pomegranate molasses, set over crisp-edged roasted kale and shallots, scattered with walnuts, mint, and pomegranate. Bright yet rich, it's a warming fall and winter weeknight main with minimal cleanup."
 tags:
   - salmon
-  - fish
-  - mediterranean
   - sheet-pan
   - weeknight
 protein: fish
 cuisine: mediterranean
 course:
   - main
-style: sheet-pan
 time_total: 45
 time_active: 15
 servings: 4
@@ -21,7 +18,6 @@ dietary:
 season:
   - fall
   - winter
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

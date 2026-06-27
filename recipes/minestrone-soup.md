@@ -2,22 +2,18 @@
 title: Minestrone Soup
 description: "A hearty Italian vegetable soup with cannellini beans, zucchini, summer squash, green beans, spinach, tomato, and small pasta in a Parmesan-scented broth. Brothy yet substantial, savory and fresh. A warming meatless main for any season."
 tags:
-  - pastas
-  - soups
-  - italian
-  - vegetarian
+  - pasta
   - soup
+  - veg-forward
 protein: vegetarian
 cuisine: italian
 course: [main]
-style: soup
 time_total: 120
 time_active: null
 servings: 6
 difficulty: medium
 dietary: []
 season: []
-veg_forward: true
 discovered_at: null
 discovery_source: null
 ingredients_key:

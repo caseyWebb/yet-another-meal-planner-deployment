@@ -2,11 +2,10 @@
 title: Spinach Fresh Pasta
 description: "Silky homemade egg-yolk noodles tinted green with fresh spinach purée, tender with a delicate bite and faintly earthy. A hands-on project for an unhurried day, ready to be tossed in whatever sauce the occasion calls for."
 tags:
-  - vegetarian
-  - italian
   - pasta
   - fresh-pasta
   - project-cooking
+  - veg-forward
 protein: vegetarian
 cuisine: italian
 course:
@@ -16,7 +15,6 @@ side_search_terms:
   - crusty bread for the sauce
 requires_equipment: []
 pairs_with: []
-style: fresh-pasta
 time_total: 70
 time_active: 70
 servings: 6
@@ -24,7 +22,6 @@ difficulty: hard
 dietary:
   - vegetarian
 season: []
-veg_forward: true
 discovered_at: null
 discovery_source: null
 ingredients_key:

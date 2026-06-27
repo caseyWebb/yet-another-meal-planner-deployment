@@ -6,13 +6,10 @@ side_search_terms: [warm crusty bread for the sauce, steamed white rice, a simpl
 requires_equipment: []
 pairs_with: []
 tags:
-  - mexican
   - stew
-  - chicken
   - comfort-food
 protein: chicken
 cuisine: mexican
-style: stew
 time_total: 110
 time_active: 20
 servings: 6
@@ -21,7 +18,6 @@ dietary:
   - gluten-free
   - dairy-free
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

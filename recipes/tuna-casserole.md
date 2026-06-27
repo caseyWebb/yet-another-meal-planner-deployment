@@ -2,8 +2,6 @@
 title: Tuna Casserole
 description: "An elevated baked tuna-and-egg-noodle casserole in a white-wine mushroom-leek cream sauce with white cheddar, brightened by lemon, dill, and chives, under a crunchy potato-chip crust. Rich, savory comfort food for a relaxed night in."
 tags:
-  - fish
-  - american
   - baked
   - casserole
   - comfort-food
@@ -13,14 +11,12 @@ course: [main]
 side_search_terms: [a bright green salad, steamed peas or green beans, a crisp vinegary slaw]
 requires_equipment: []
 pairs_with: []
-style: baked
 time_total: 20
 time_active: null
 servings: 8
 difficulty: medium
 dietary: []
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

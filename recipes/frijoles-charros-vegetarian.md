@@ -29,17 +29,12 @@ side_search_terms:
   - warm corn or flour tortillas
   - Mexican red rice
   - a grilled or roasted main
-slug: frijoles-charros-vegetarian
 source: https://www.muydelish.com/frijoles-charros
 tags:
-  - mexican
   - pinto-beans
-  - vegan
-  - gluten-free
   - beans
   - poor-foods
   - comfort-food
-  - side
   - freezer-friendly
   - garden
 time_active: 15

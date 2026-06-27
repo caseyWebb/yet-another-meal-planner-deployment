@@ -2,8 +2,6 @@
 title: Swiss Steak
 description: "Pounded eye-of-round steaks slow-braised in a deep tomato gravy with onion, celery, and carrots until fork-tender. Rich, savory cold-weather comfort food meant for spooning over mashed potatoes or buttered noodles."
 tags:
-  - beef
-  - american
   - braise
   - comfort-food
   - make-ahead
@@ -17,7 +15,6 @@ side_search_terms:
   - a simple green vegetable
 requires_equipment: []
 pairs_with: []
-style: braise
 time_total: 155
 time_active: 15
 servings: 6
@@ -26,7 +23,6 @@ dietary: []
 season:
   - fall
   - winter
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

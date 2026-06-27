@@ -2,11 +2,11 @@
 title: Sweet Potato Gnocchi with Sage Butter
 description: "Pillowy sweet potato gnocchi tossed in nutty browned sage butter with Parmigiano, lemon zest, and Aleppo pepper — soft, rich, and gently sweet against savory herb butter. A fall and winter project worth the long, slow afternoon."
 tags:
-  - vegetarian
-  - italian
   - gnocchi
   - sage-butter
   - project-cooking
+  - fresh-pasta
+  - veg-forward
 protein: vegetarian
 cuisine: italian
 course:
@@ -16,7 +16,6 @@ side_search_terms:
   - sauteed bitter greens
 requires_equipment: []
 pairs_with: []
-style: fresh-pasta
 time_total: 190
 time_active: 40
 servings: 4
@@ -26,7 +25,6 @@ dietary:
 season:
   - fall
   - winter
-veg_forward: true
 discovered_at: null
 discovery_source: null
 ingredients_key:

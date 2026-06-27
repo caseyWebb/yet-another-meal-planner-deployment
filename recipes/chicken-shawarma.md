@@ -1,6 +1,5 @@
 ---
 title: Chicken Shawarma
-slug: chicken-shawarma-budget-bytes
 source: https://www.budgetbytes.com/chicken-shawarma
 protein: chicken
 cuisine: mediterranean

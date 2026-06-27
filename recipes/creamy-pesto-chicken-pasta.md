@@ -2,24 +2,20 @@
 title: Creamy Pesto Chicken Pasta
 description: "A one-pot penne with chicken in a creamy basil-pesto sauce of cream cheese, milk, and Parmesan, with wilted spinach and sun-dried tomatoes. Herby, rich, and savory, a fast weeknight dinner on the table in about 25 minutes."
 tags:
-  - pastas
+  - pasta
   - easy-dinners
-  - italian
-  - chicken
   - one-pot
   - weeknight
 course:
   - main
 protein: chicken
 cuisine: italian
-style: one-pot
 time_total: 25
 time_active: 5
 servings: 4
 difficulty: easy
 dietary: []
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

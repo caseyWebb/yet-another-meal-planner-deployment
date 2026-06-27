@@ -18,7 +18,6 @@ side_search_terms: [vegetable tempura, a cold spinach goma-ae, edamame]
 source: https://www.justonecookbook.com/cold-udon-noodles
 tags:
   - noodles
-  - summer
   - quick
   - no-cook
 time_active: 10

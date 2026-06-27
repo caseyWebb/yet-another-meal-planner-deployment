@@ -4,21 +4,18 @@ description: "A griddled deli Reuben: warm corned beef, tangy sauerkraut, and me
 tags:
   - lunch
   - sandwiches
-  - american
-  - beef
   - deli
+  - griddle
 protein: beef
 cuisine: american
 course:
   - main
-style: griddle
 time_total: 25
 time_active: 10
 servings: 4
 difficulty: easy
 dietary: []
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

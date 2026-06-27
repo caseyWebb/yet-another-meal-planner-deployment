@@ -3,16 +3,14 @@ title: Corn Stock
 description: "A light, sweet summer stock simmered from stripped corn cobs with onion, carrot, celery, leek greens, and peppercorns. A make-ahead vegan base that deepens corn flavor in risotto and soups, with an optional richer chicken-corn variation."
 tags:
   - component
-  - vegan
-  - vegetarian
   - corn
-  - summer
   - make-ahead
+  - stock
+  - veg-forward
 course:
   - side
 protein: null
 cuisine: american
-style: stock
 time_total: 45
 time_active: 10
 servings: 6
@@ -24,7 +22,6 @@ dietary:
   - dairy-free
 season:
   - summer
-veg_forward: true
 discovered_at: null
 discovery_source: null
 ingredients_key:

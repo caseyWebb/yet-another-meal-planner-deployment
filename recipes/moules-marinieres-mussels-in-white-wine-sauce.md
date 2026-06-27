@@ -15,7 +15,6 @@ dietary: [gluten-free]
 season: []
 tags:
   - seafood
-  - french
   - quick
   - weeknight
 pairs_with: []

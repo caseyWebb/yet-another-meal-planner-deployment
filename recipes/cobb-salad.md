@@ -4,11 +4,9 @@ description: "A composed Cobb salad of grilled salmon over crisp romaine with ha
 tags:
   - lunch
   - salad
-  - american
-  - fish
+  - veg-forward
 protein: fish
 cuisine: american
-style: salad
 time_total: 25
 time_active: 10
 servings: 4
@@ -16,7 +14,6 @@ difficulty: easy
 dietary:
   - gluten-free
 season: []
-veg_forward: true
 discovered_at: null
 discovery_source: null
 ingredients_key:

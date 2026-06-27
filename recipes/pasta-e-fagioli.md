@@ -6,14 +6,11 @@ side_search_terms: [warm crusty bread, a simple green salad]
 requires_equipment: []
 pairs_with: []
 tags:
-  - italian
   - soup
-  - pork
   - weeknight
   - budget
 protein: pork
 cuisine: italian
-style: soup
 time_total: 50
 time_active: 15
 servings: 6
@@ -22,7 +19,6 @@ dietary: []
 season:
   - fall
   - winter
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

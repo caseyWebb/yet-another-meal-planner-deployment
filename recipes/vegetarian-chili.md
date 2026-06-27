@@ -24,15 +24,11 @@ side_search_terms:
   - rice or a baked potato
   - a sharp cabbage slaw
   - tortilla chips and avocado
-slug: vegetarian-chili
 source: https://cookieandkate.com/vegetarian-chili-recipe
 tags:
-  - southwestern
   - tex-mex
   - chili
   - beans
-  - vegan
-  - gluten-free
   - comfort-food
   - freezer-friendly
   - game-day

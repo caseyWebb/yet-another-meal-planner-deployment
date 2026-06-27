@@ -5,13 +5,11 @@ course: [main]
 side_search_terms: [crusty bread for the broth, a sharp green salad with vinaigrette]
 pairs_with: []
 tags:
-  - italian
   - soup
-  - vegetarian
   - tuscan
+  - veg-forward
 protein: vegetarian
 cuisine: italian
-style: soup
 time_total: 110
 time_active: 5
 servings: 8
@@ -23,7 +21,6 @@ dietary:
 season:
   - fall
   - winter
-veg_forward: true
 requires_equipment:
   - blender
 discovered_at: null

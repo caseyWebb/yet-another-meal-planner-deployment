@@ -29,10 +29,7 @@ side_search_terms:
   - sauteed bitter greens
 source: https://www.recipesfromitaly.com/pasta-e-ceci-italian-pasta-and-chickpea-soup
 tags:
-  - italian
   - pasta
-  - vegan
-  - vegetarian
   - soup
   - pantry
   - comfort-food

@@ -20,13 +20,9 @@ side_search_terms:
   - warm corn or flour tortillas
   - Mexican red rice
   - refried or charro beans
-slug: rajas-con-crema
 source: https://www.mexicoinmykitchen.com/poblano-pepper-strips-with-cream
 tags:
-  - mexican
   - poblano
-  - vegetarian
-  - gluten-free
   - taco-filling
   - garden
   - comfort-food

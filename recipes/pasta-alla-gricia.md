@@ -21,11 +21,9 @@ side_search_terms:
   - a simple lemon-dressed arugula salad
 source: https://www.recipesfromitaly.com/pasta-alla-gricia
 tags:
-  - italian
   - pasta
   - roman
   - weeknight
-  - pork
   - emulsion
 time_active: 10
 time_total: 25

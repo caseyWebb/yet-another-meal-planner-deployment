@@ -30,12 +30,9 @@ side_search_terms:
   - crusty bread
 source: https://www.recipesfromitaly.com/pasta-alla-norma-recipe
 tags:
-  - italian
   - pasta
-  - vegetarian
   - sicilian
   - eggplant
-  - summer
 time_active: 20
 time_total: 60
 title: Pasta alla Norma

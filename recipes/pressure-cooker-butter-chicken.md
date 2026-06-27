@@ -5,14 +5,11 @@ course: [main]
 side_search_terms: [steamed basmati rice, warm naan, a cooling cucumber raita]
 pairs_with: []
 tags:
-  - indian
-  - chicken
   - pressure-cooker
   - curry
   - comfort-food
 protein: chicken
 cuisine: indian
-style: pressure-cooker
 time_total: 75
 time_active: 15
 servings: 6
@@ -20,7 +17,6 @@ difficulty: medium
 dietary:
   - gluten-free
 season: []
-veg_forward: false
 requires_equipment:
   - pressure-cooker
   - blender

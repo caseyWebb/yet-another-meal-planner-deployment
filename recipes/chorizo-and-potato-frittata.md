@@ -3,12 +3,8 @@ title: Chorizo and Potato Frittata
 description: "A Spanish-style baked frittata of eggs set around crisped potatoes and smoky chorizo, topped with a bright lemony parsley-and-shallot salad. Rich and savory yet fresh, an easy dish for breakfast, brunch, or a light supper."
 tags:
   - baked
-  - spanish
-  - pork
-  - breakfast
 protein: pork
 cuisine: spanish
-style: baked
 time_total: 45
 time_active: null
 servings: 4
@@ -17,7 +13,6 @@ dietary:
   - gluten-free
   - dairy-free
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

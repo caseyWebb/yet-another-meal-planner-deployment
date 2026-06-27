@@ -28,8 +28,6 @@ side_search_terms:
 source: https://thewoksoflife.com/spicy-stir-fried-thai-basil-clams
 tags:
   - clams
-  - shellfish
-  - thai
   - stir-fry
   - spicy
   - weeknight

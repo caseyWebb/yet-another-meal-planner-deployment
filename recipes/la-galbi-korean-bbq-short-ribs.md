@@ -28,7 +28,7 @@ servings: 4
 source: https://www.koreanbapsang.com/la-galbi-gui-grilled-la-style-short-ribs
 tags:
   - bbq
-  - grill
+  - grilled
   - korean-bbq
   - galbi
 time_active: 20

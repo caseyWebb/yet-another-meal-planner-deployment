@@ -1,6 +1,5 @@
 ---
 title: Dal Tadka (Restaurant Style)
-slug: dal-tadka
 protein: vegetarian
 cuisine: indian
 course:
@@ -32,13 +31,11 @@ servings: 4
 time_total: 30
 time_active: 20
 tags:
-  - indian
   - dal
   - lentils
-  - vegetarian
   - weeknight
   - comfort-food
-  - instant-pot
+  - pressure-cooker
 ---
 ## Ingredients
 

@@ -22,14 +22,9 @@ protein: chicken
 season:
   - summer
 servings: 6
-slug: grilled-lemongrass-chicken-thighs
 source: 'https://www.bonappetit.com/recipe/grilled-lemongrass-chicken-thighs'
-style: grilled
 tags:
-  - vietnamese
   - grilled
-  - chicken
-  - summer
   - cilantro
 time_active: 30
 time_total: 40

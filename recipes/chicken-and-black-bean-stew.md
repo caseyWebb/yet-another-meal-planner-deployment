@@ -3,19 +3,15 @@ title: Chicken and Black Bean Stew
 description: "A southwestern pressure-cooker stew of black beans, smoky sausage, cumin, and green chiles thickened around shredded chicken. Warming, spiced, and brothy, finished bright with lime, cilantro, and sour cream. Cozy cold-weather comfort for an easy hands-off night."
 tags:
   - pressure-cooker
-  - southwestern
-  - mixed
   - stew
 protein: mixed
 cuisine: southwestern
-style: stew
 time_total: 70
 time_active: 10
 servings: 6
 difficulty: easy
 dietary: []
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

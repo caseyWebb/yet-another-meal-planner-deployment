@@ -22,10 +22,8 @@ side_search_terms:
   - a crisp roasted vegetable
 source: https://www.piattorecipes.com/traditional-fettuccine-alfredo-recipe
 tags:
-  - italian
   - pasta
   - roman
-  - vegetarian
   - weeknight
   - emulsion
   - no-cream

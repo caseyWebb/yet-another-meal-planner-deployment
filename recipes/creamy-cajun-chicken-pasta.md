@@ -2,24 +2,20 @@
 title: Creamy Cajun Chicken Pasta
 description: "A one-pot penne with spice-rubbed chicken in a creamy tomato sauce built from fire-roasted tomatoes and cream cheese, smoky and gently spicy from homemade Cajun seasoning. A fast, hearty weeknight dinner ready in about 30 minutes."
 tags:
-  - pastas
+  - pasta
   - easy-dinners
-  - cajun
-  - chicken
   - one-pot
   - weeknight
 course:
   - main
 protein: chicken
 cuisine: cajun
-style: one-pot
 time_total: 30
 time_active: 10
 servings: 4
 difficulty: easy
 dietary: []
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

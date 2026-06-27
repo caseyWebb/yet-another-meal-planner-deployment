@@ -2,14 +2,11 @@
 title: Beef Stew
 description: "A slow oven-braised beef chuck stew with carrots, potatoes, mushrooms, and pearl onions in a deeply savory, gelatin-rich gravy. Hearty, fork-tender cold-weather comfort food for an unhurried fall or winter afternoon."
 tags:
-  - american
-  - beef
   - braise
   - stew
   - one-pot
   - comfort-food
   - make-ahead
-  - winter
 protein: beef
 cuisine: american
 course:
@@ -20,7 +17,6 @@ side_search_terms:
   - buttered egg noodles
 requires_equipment: []
 pairs_with: []
-style: stew
 time_total: 195
 time_active: 5
 servings: 6
@@ -30,7 +26,6 @@ dietary:
 season:
   - fall
   - winter
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

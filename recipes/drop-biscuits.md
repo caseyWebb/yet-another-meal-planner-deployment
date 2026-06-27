@@ -2,17 +2,13 @@
 title: Drop Biscuits
 description: "Quick buttery drop biscuits with a craggy golden top and a tender, fluffy crumb, scooped straight from a shaggy dough with no rolling or cutting. An easy warm bread side ready in about 25 minutes, good any time of year alongside soups, stews, or breakfast."
 tags:
-  - american
-  - vegetarian
   - baked
   - biscuits
   - bread
-  - side
 course:
   - side
 protein: null
 cuisine: american
-style: baked
 time_total: 25
 time_active: 5
 servings: 20
@@ -20,7 +16,6 @@ difficulty: easy
 dietary:
   - vegetarian
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

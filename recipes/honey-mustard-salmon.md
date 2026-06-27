@@ -3,18 +3,17 @@ title: Honey-Mustard Salmon
 description: "Broiled salmon under a quick glaze of grainy mustard, honey, and mayonnaise, browned on top and tender inside, tangy-sweet with a touch of heat. A fast 15-minute weeknight main for nights with no time to fuss."
 tags:
   - seafood
-  - fish
   - salmon
   - broiled
   - weeknight
   - quick
+  - baked
 protein: fish
 cuisine: american
 course: [main]
 side_search_terms: ["roasted vegetables", "a bright green salad", "rice or potatoes"]
 pairs_with: []
 requires_equipment: []
-style: baked
 time_total: 15
 time_active: 10
 servings: 6
@@ -22,7 +21,6 @@ difficulty: easy
 dietary:
   - gluten-free
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

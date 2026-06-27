@@ -2,7 +2,6 @@
 title: Meatloaf
 description: "An American beef-and-pork meatloaf enriched with mushrooms, cheese, and umami from anchovy and Marmite, finished with a tangy-sweet ketchup glaze. Moist, savory, and homey. Warming weeknight comfort food for a cozy family supper."
 tags:
-  - american
   - beef
   - pork
   - baked
@@ -11,14 +10,12 @@ tags:
 protein: mixed
 cuisine: american
 course: [main]
-style: baked
 time_total: 120
 time_active: 15
 servings: 6
 difficulty: medium
 dietary: []
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

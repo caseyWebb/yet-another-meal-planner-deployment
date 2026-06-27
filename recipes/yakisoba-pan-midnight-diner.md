@@ -17,7 +17,6 @@ season: [summer]
 side_search_terms: [a simple miso soup, a crunchy cucumber sunomono salad, edamame]
 tags: []
 servings: 8
-slug: yakisoba-pan-midnight-diner
 source: https://www.justonecookbook.com/yakisoba-pan
 time_active: 15
 time_total: 25

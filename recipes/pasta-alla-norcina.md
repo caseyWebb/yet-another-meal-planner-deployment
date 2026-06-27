@@ -2,15 +2,12 @@
 title: Pasta alla Norcina
 description: "An Umbrian pasta tossing penne in a creamy white sauce of crumbled wine-seasoned pork sausage, onion, nutmeg, and Pecorino Romano. Rich, savory, and indulgent yet fast enough for a weeknight when something comforting is in order."
 tags:
-  - pastas
-  - italian
-  - pork
+  - pasta
   - one-pot
   - weeknight
 protein: pork
 cuisine: italian
 course: [main]
-style: one-pot
 time_total: 30
 time_active: 5
 servings: 4
@@ -20,7 +17,6 @@ season: []
 side_search_terms: [a sharp bitter green salad, a simple arugula salad]
 pairs_with: []
 requires_equipment: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

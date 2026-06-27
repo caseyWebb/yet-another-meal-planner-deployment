@@ -27,12 +27,8 @@ side_search_terms:
   - crusty bread
 source: https://www.recipesfromitaly.com/spaghetti-al-pomodoro
 tags:
-  - italian
   - pasta
-  - vegetarian
-  - vegan
   - weeknight
-  - summer
   - garden
 time_active: 10
 time_total: 60

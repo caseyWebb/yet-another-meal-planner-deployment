@@ -25,16 +25,12 @@ side_search_terms:
   - a sharp cucumber-tomato or fattoush salad
   - plain yogurt or a garlicky yogurt sauce
   - pickled vegetables or a lemony slaw
-slug: mujaddara
 source: https://www.themediterraneandish.com/mujadara-lentils-and-rice-with-crispy-onions
 tags:
-  - mediterranean
   - middle-eastern
   - levantine
   - lentils
   - rice
-  - vegan
-  - gluten-free
   - poor-foods
   - comfort-food
 time_active: 20

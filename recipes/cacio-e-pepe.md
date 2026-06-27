@@ -21,11 +21,9 @@ servings: 4
 time_total: 20
 time_active: 10
 tags:
-  - italian
   - pasta
   - roman
   - weeknight
-  - vegetarian
   - emulsion
 dietary:
   - vegetarian

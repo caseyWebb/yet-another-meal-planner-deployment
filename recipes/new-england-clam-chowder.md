@@ -28,9 +28,7 @@ side_search_terms:
 source: https://www.seriouseats.com/new-england-clam-chowder-recipe
 tags:
   - clams
-  - shellfish
   - chowder
-  - american
   - comfort-food
   - soup
   - kenji

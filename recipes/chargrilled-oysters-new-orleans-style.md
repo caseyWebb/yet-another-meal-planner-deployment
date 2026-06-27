@@ -11,10 +11,8 @@ description: "New Orleans-style oysters grilled on the half shell in a compound 
 source: "https://www.garlicandzest.com/chargrilled-oysters"
 tags:
   - oysters
-  - shellfish
   - new-orleans
-  - cajun
-  - grill
+  - grilled
 perishable_ingredients:
   - oysters
   - parsley

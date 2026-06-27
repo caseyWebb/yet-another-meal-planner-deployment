@@ -2,17 +2,15 @@
 title: Fresh Pasta
 description: "Tender homemade egg-yolk-rich pasta dough rolled and cut into delicate, silky noodles with a definite bite. A hands-on component for an unhurried cooking project, ready to pair with any sauce or freeze for later."
 tags:
-  - pastas
-  - italian
-  - vegetarian
+  - pasta
   - component
+  - one-pot
 protein: vegetarian
 cuisine: italian
 course: [side]
 side_search_terms: []
 pairs_with: []
 requires_equipment: []
-style: one-pot
 time_total: 55
 time_active: 50
 servings: 6
@@ -20,7 +18,6 @@ difficulty: medium
 dietary:
   - vegetarian
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

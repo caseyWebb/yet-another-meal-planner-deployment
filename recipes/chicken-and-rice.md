@@ -4,11 +4,8 @@ description: "A one-pot skillet of spice-rubbed chicken thighs simmered on top o
 tags:
   - easy-dinners
   - one-pot
-  - american
-  - chicken
 protein: chicken
 cuisine: american
-style: one-pot
 time_total: 50
 time_active: 10
 servings: 4
@@ -17,7 +14,6 @@ dietary:
   - gluten-free
   - dairy-free
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

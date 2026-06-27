@@ -2,8 +2,6 @@
 title: Arroz Caldo
 description: "A Filipino chicken-and-rice porridge simmered with ginger, garlic, and fish sauce into a thick, soothing congee, finished with scallions, crispy fried garlic, and a squeeze of calamansi. Warming, gingery comfort in a bowl for cold or under-the-weather days."
 tags:
-  - filipino
-  - chicken
   - rice
   - soup
   - porridge
@@ -19,7 +17,6 @@ side_search_terms:
   - calamansi wedges and chili oil
 requires_equipment: []
 pairs_with: []
-style: soup
 time_total: 65
 time_active: null
 servings: 4
@@ -27,7 +24,6 @@ difficulty: medium
 dietary:
   - dairy-free
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

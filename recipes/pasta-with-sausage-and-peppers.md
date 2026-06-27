@@ -6,22 +6,19 @@ side_search_terms: [a simple green salad, garlic bread]
 requires_equipment: []
 pairs_with: []
 tags:
-  - pastas
+  - pasta
   - easy-dinners
-  - italian
-  - pork
   - weeknight
   - budget
+  - one-pot
 protein: pork
 cuisine: italian
-style: one-pot
 time_total: 30
 time_active: 5
 servings: 4
 difficulty: easy
 dietary: []
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

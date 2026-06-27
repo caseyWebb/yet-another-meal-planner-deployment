@@ -20,16 +20,13 @@ side_search_terms:
   - steamed basmati or jeera rice
   - warm naan or roti
   - a cooling cucumber raita or onion salad
-slug: rajma
 source: https://www.vegrecipesofindia.com/rajma-masala-recipe-restaurant-style
 tags:
-  - indian
   - punjabi
   - kidney-beans
-  - vegetarian
   - curry
   - comfort-food
-  - instant-pot
+  - pressure-cooker
 time_active: 45
 time_total: 70
 title: Rajma Masala (Punjabi Kidney Bean Curry)

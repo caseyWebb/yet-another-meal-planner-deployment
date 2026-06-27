@@ -32,15 +32,11 @@ side_search_terms:
   - steamed basmati or jeera rice
   - warm roti or paratha
   - a cooling cucumber raita
-slug: aloo-gobi
 source: https://www.indianhealthyrecipes.com/aloo-gobi-recipe
 tags:
-  - indian
   - cauliflower
   - potato
   - sabzi
-  - vegan
-  - gluten-free
   - dry-curry
   - weeknight
 time_active: 15

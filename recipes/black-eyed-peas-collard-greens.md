@@ -27,16 +27,12 @@ side_search_terms:
   - a wedge of cornbread
   - hot sauce or pepper vinegar
   - rice or potlikker rice
-slug: black-eyed-peas-collard-greens
 source: https://www.feastingathome.com/black-eyed-peas-recipe
 tags:
-  - american
   - southern
   - soul-food
   - black-eyed-peas
   - collard-greens
-  - vegan
-  - gluten-free
   - poor-foods
   - comfort-food
   - new-years

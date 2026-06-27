@@ -2,15 +2,12 @@
 title: Miso Soup with Tofu and Seaweed
 description: "A delicate Japanese soup of homemade dashi whisked with white and red miso, dotted with soft silken tofu, wakame, and scallion. Light, warming, and savory-umami, ready in about 20 minutes for a quiet starter or simple comfort."
 tags:
-  - japanese
-  - fish
   - soup
   - tofu
   - quick
 protein: fish
 cuisine: japanese
 course: [side]
-style: soup
 time_total: 20
 time_active: null
 servings: 4
@@ -18,7 +15,6 @@ difficulty: easy
 dietary:
   - dairy-free
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

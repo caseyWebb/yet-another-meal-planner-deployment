@@ -23,14 +23,10 @@ side_search_terms:
   - jasmine rice
   - a cool cucumber salad
   - vegetable spring rolls
-slug: thai-red-curry-vegetables
 source: https://cookieandkate.com/thai-red-curry-recipe
 tags:
-  - thai
   - curry
   - coconut
-  - vegan
-  - gluten-free
   - weeknight
   - spicy
   - tofu-optional

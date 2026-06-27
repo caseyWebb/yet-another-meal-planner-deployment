@@ -2,15 +2,13 @@
 title: Mushroom and Sun-Dried Tomato Farotto
 description: "A risotto-style farro dish stirred creamy with mixed mushrooms, porcini, tangy sun-dried tomatoes, and Parmigiano, brightened with sherry vinegar and chives. Earthy, rich, and chewy-tender, a hearty meatless main for a cozy autumn or winter night."
 tags:
-  - vegetarian
-  - italian
   - one-pot
   - mushroom
   - farro
+  - veg-forward
 protein: vegetarian
 cuisine: italian
 course: [main]
-style: one-pot
 time_total: 65
 time_active: 20
 servings: 6
@@ -20,7 +18,6 @@ season: [fall, winter]
 side_search_terms: [a bright acidic green salad, a simple arugula salad]
 pairs_with: []
 requires_equipment: []
-veg_forward: true
 discovered_at: null
 discovery_source: null
 ingredients_key:

@@ -18,15 +18,11 @@ perishable_ingredients:
   - buttermilk
 requires_equipment: []
 servings: 8
-slug: southern-cornbread
 source: https://pinkowlkitchen.com/classic-southern-buttermilk-cornbread
 tags:
-  - american
   - southern
   - cornbread
   - bread
-  - vegetarian
-  - side
   - comfort-food
   - poor-foods
 time_active: 10

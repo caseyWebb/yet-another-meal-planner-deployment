@@ -27,10 +27,7 @@ side_search_terms:
   - a cucumber sesame salad
 requires_equipment: []
 pairs_with: []
-style: bowl
 tags:
-  - korean
-  - beef
   - rice
   - bowl
   - weeknight
@@ -39,7 +36,6 @@ time_active: 15
 time_total: 35
 title: Bibimbap Bowl
 uses_components: []
-veg_forward: false
 perishable_ingredients: [spinach, ground beef, cucumber, scallions]
 ---
 ## Ingredients

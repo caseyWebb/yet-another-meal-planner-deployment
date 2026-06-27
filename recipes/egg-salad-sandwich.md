@@ -4,15 +4,13 @@ description: "Creamy egg salad brightened with lemon, crunchy celery, and scalli
 tags:
   - lunch
   - sandwiches
-  - american
-  - vegetarian
   - no-cook
   - quick
+  - salad
 course:
   - main
 protein: egg
 cuisine: american
-style: salad
 time_total: 5
 time_active: 5
 servings: 4
@@ -20,7 +18,6 @@ difficulty: easy
 dietary:
   - vegetarian
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

@@ -24,16 +24,13 @@ side_search_terms:
   - pickled vegetables (torshi)
   - a garlicky vinegar sauce or hot sauce (shatta)
   - a simple cucumber-tomato salad
-slug: koshari
 source: https://www.themediterraneandish.com/egyptian-koshari-recipe
 tags:
-  - mediterranean
   - egyptian
   - lentils
   - rice
   - chickpeas
   - pasta
-  - vegan
   - street-food
   - poor-foods
   - comfort-food

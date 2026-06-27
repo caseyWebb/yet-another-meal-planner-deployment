@@ -2,11 +2,8 @@
 title: Boston Baked Beans
 description: "Navy beans slow-baked for hours with salt pork, molasses, and mustard until meltingly tender under a dark, browned crust. Sweet, smoky, and sticky, this hearty New England side is make-ahead comfort food for cold weather and cookouts."
 tags:
-  - american
-  - pork
   - beans
   - baked
-  - side-dish
   - make-ahead
   - slow-cooked
 protein: pork
@@ -16,7 +13,6 @@ course:
 side_search_terms: []
 requires_equipment: []
 pairs_with: []
-style: baked
 time_total: 310
 time_active: 5
 servings: 10
@@ -24,7 +20,6 @@ difficulty: medium
 dietary:
   - dairy-free
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

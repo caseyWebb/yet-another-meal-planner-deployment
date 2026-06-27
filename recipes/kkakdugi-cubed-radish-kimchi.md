@@ -26,7 +26,6 @@ source: https://www.koreanbapsang.com/kkakdugi-cubed-radish-kimchi
 tags:
   - kimchi
   - ferment
-  - condiment
   - make-ahead
 time_active: 30
 time_total: 40

@@ -21,11 +21,8 @@ side_search_terms:
   - a plate of sauteed greens
 source: https://www.recipesfromitaly.com/penne-allarrabbiata
 tags:
-  - italian
   - pasta
   - roman
-  - vegan
-  - vegetarian
   - weeknight
   - spicy
   - garden

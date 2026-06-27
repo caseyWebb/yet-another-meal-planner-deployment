@@ -23,17 +23,13 @@ side_search_terms:
   - a quick cucumber or seaweed side salad
   - a light clear soup
   - extra kimchi and pickled radish
-slug: kimchi-fried-rice
 source: https://www.maangchi.com/recipe/kimchi-bokkeumbap
 tags:
-  - korean
   - kimchi
   - fried-rice
-  - vegetarian
   - spicy
   - weeknight
   - quick
-  - egg
 time_active: 10
 time_total: 15
 title: Kimchi Fried Rice (Kimchi Bokkeumbap)

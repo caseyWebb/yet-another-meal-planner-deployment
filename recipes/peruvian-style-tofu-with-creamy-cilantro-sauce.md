@@ -17,17 +17,14 @@ season:
   - summer
 servings: 6
 tags:
-  - vegetarian
-  - vegan
-  - peruvian
-  - grill
+  - grilled
   - tofu
   - weeknight
   - fusion
+  - veg-forward
 time_active: 15
 time_total: 40
 source: https://www.bonappetit.com/recipe/peruvian-style-tofu-with-creamy-cilantro-sauce
-veg_forward: true
 meal_preppable: false
 produces_components: []
 uses_components: []

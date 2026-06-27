@@ -2,8 +2,6 @@
 title: Double-Caramel Flan
 description: "A silky baked custard set over a layer of bittersweet caramel, with caramel cooked into the cream itself for a deeper, toasty edge. Cool, rich, and just-sweet, it's a make-ahead dessert to chill overnight for a dinner party or special occasion."
 tags:
-  - dessert
-  - mexican
   - baked
   - custard
   - flan
@@ -12,7 +10,6 @@ course:
   - dessert
 protein: vegetarian
 cuisine: mexican
-style: baked
 time_total: 180
 time_active: 180
 servings: 10
@@ -21,7 +18,6 @@ dietary:
   - vegetarian
   - gluten-free
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

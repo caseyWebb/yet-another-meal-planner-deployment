@@ -31,7 +31,6 @@ tags:
   - curry
   - quick
   - weeknight
-  - thai
 time_active: 10
 time_total: 20
 title: Red Curry Shrimp

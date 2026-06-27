@@ -2,18 +2,16 @@
 title: Tuscan White Bean Soup
 description: "A rustic Italian soup of cannellini beans, kale, and rosemary simmered with a Parmesan rind, then partly pureed for a creamy yet brothy body. Warming, savory, and vegetable-forward, it comes together in 30 minutes for an easy fall or winter weeknight."
 tags:
-  - vegetarian
-  - italian
   - tuscan
   - soup
   - weeknight
+  - veg-forward
 protein: vegetarian
 cuisine: italian
 course: [main]
 side_search_terms: [crusty toasted bread for the broth, a bright green salad, a glass of olive oil for drizzling]
 requires_equipment: []
 pairs_with: []
-style: soup
 time_total: 30
 time_active: null
 servings: 8
@@ -23,7 +21,6 @@ dietary:
 season:
   - fall
   - winter
-veg_forward: true
 discovered_at: null
 discovery_source: null
 ingredients_key:

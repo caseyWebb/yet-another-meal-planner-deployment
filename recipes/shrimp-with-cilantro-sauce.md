@@ -3,15 +3,12 @@ title: Shrimp with Cilantro Sauce
 description: "Indian-style shrimp marinated and simmered in a vivid green cilantro chutney sharp with lime, garlic, cumin, and Thai chile. Fresh, herb-forward, and gently spiced, it's a quick-cooking weeknight main served over basmati rice."
 tags:
   - shrimp
-  - shellfish
-  - indian
   - one-pot
   - weeknight
 protein: shellfish
 cuisine: indian
 course:
   - main
-style: one-pot
 time_total: 75
 time_active: 25
 servings: 2
@@ -20,7 +17,6 @@ dietary:
   - gluten-free
   - dairy-free
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

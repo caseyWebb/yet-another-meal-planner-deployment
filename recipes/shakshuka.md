@@ -28,15 +28,10 @@ side_search_terms:
   - warm pita, challah, or crusty bread
   - a simple cucumber-tomato salad
   - crumbled feta on the side
-slug: shakshuka
 source: https://www.themediterraneandish.com/shakshuka-recipe
 tags:
-  - mediterranean
   - north-african
-  - eggs
-  - vegetarian
   - one-skillet
-  - breakfast
   - weeknight
   - garden
   - spicy

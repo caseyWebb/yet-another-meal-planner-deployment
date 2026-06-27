@@ -26,8 +26,6 @@ side_search_terms:
 source: https://www.justonecookbook.com/saba-misoni-simmered-mackerel-in-miso-sauce
 tags:
   - mackerel
-  - fish
-  - japanese
   - weeknight
   - miso
   - simmered

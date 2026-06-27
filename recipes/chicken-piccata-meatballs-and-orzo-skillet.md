@@ -5,12 +5,9 @@ protein: chicken
 cuisine: italian
 course:
   - main
-style: one-pot
 tags:
-  - pastas
+  - pasta
   - easy-dinners
-  - italian
-  - chicken
   - one-pot
   - weeknight
   - skillet
@@ -31,7 +28,6 @@ perishable_ingredients:
   - ground chicken
   - parsley
 season: []
-veg_forward: false
 discovered_at: '2026-06-15'
 discovery_source: Budget Bytes (RSS)
 source: https://www.budgetbytes.com/chicken-piccata-meatballs-and-orzo-skillet

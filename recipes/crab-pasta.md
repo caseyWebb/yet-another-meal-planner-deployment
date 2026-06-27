@@ -27,13 +27,11 @@ servings: 2
 side_search_terms:
   - crusty bread
   - simple salad
-slug: crab-pasta-light
 source: https://rasamalaysia.com/crab-pasta
 tags: []
 time_active: 10
 time_total: 25
 title: Crab Pasta
-wine_note: Original recipe calls for ¾ cup white wine; substitute with ¾ cup fish or chicken stock, or a mix of stock and lemon juice for acidity.
 ---
 ## Ingredients
 

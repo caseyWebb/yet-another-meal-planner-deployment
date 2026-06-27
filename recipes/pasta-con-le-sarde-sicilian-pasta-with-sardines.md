@@ -29,7 +29,6 @@ tags:
   - pasta
   - sardines
   - sicilian
-  - italian
   - fennel
   - breadcrumbs
   - anchovies

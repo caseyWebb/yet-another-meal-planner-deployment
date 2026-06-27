@@ -2,23 +2,20 @@
 title: Sloppy Joes
 description: "Classic American sloppy joes: ground beef simmered in a tangy-sweet ketchup sauce with celery and onion, piled onto soft buns. Saucy, savory, and a little sweet, it's nostalgic comfort food on the table in about 20 minutes."
 tags:
-  - comfort-foods
+  - comfort-food
   - easy-dinners
-  - beef
-  - american
   - weeknight
+  - one-pot
 protein: beef
 cuisine: american
 course:
   - main
-style: one-pot
 time_total: 20
 time_active: 5
 servings: 6
 difficulty: easy
 dietary: []
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

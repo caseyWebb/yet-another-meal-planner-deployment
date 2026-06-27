@@ -27,10 +27,7 @@ side_search_terms:
   - crusty bread
 source: https://www.giallozafferano.com/recipes/Spaghetti-alla-Nerano-spaghetti-with-zucchini.html
 tags:
-  - italian
   - pasta
-  - vegetarian
-  - summer
   - campania
   - zucchini
 time_active: 15

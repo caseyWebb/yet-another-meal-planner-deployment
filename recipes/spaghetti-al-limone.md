@@ -27,11 +27,8 @@ side_search_terms:
   - a crisp green vegetable
 source: https://www.recipesfromitaly.com/lemon-spaghetti-recipe
 tags:
-  - italian
   - pasta
-  - vegetarian
   - weeknight
-  - summer
   - lemon
 time_active: 10
 time_total: 20

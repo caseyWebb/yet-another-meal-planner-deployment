@@ -24,10 +24,8 @@ side_search_terms:
   - a crisp lemony vegetable
 source: https://www.recipesfromitaly.com/spaghetti-with-clams-recipe
 tags:
-  - italian
   - pasta
   - seafood
-  - shellfish
   - weeknight
   - no-alcohol-sub
 time_active: 15

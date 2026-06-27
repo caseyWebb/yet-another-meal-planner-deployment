@@ -6,14 +6,11 @@ side_search_terms: [crusty bread, a simple green salad, polenta or rice]
 requires_equipment: []
 pairs_with: []
 tags:
-  - french
-  - vegetarian
   - baked
   - veg-forward
   - budget
 protein: vegetarian
 cuisine: french
-style: baked
 time_total: 65
 time_active: 20
 servings: 8
@@ -23,7 +20,6 @@ dietary:
   - gluten-free
 season:
   - summer
-veg_forward: true
 discovered_at: null
 discovery_source: null
 ingredients_key:

@@ -23,11 +23,9 @@ side_search_terms:
   - a simple lemony arugula salad
 source: https://www.recipesfromitaly.com/spaghetti-carbonara-original-recipe
 tags:
-  - italian
   - pasta
   - roman
   - weeknight
-  - pork
   - emulsion
 time_active: 20
 time_total: 35

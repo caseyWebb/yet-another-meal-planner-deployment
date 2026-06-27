@@ -28,14 +28,11 @@ side_search_terms:
   - warm naan, roti, or paratha
   - jeera rice or plain basmati
   - a kachumber or onion salad
-slug: palak-paneer
 source: https://www.vegrecipesofindia.com/palak-paneer
 tags:
-  - indian
   - punjabi
   - spinach
   - paneer
-  - vegetarian
   - curry
   - comfort-food
 time_active: 30

@@ -2,9 +2,6 @@
 title: Uovo in Raviolo
 description: "A single giant fresh-pasta raviolo filled with lemony ricotta and a whole runny egg yolk that spills out when cut, finished in a pancetta, shallot, and white-wine butter sauce. Rich and delicate, it is a slow, hands-on special-occasion or date-night plate."
 tags:
-  - pastas
-  - vegetarian
-  - italian
   - pasta
   - date-night
 protein: vegetarian
@@ -13,14 +10,12 @@ course: [main]
 side_search_terms: [a sharp dressed arugula salad, crusty bread, a light antipasto]
 requires_equipment: []
 pairs_with: []
-style: pasta
 time_total: 65
 time_active: 45
 servings: 4
 difficulty: hard
 dietary: []
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

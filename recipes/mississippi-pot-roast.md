@@ -2,15 +2,12 @@
 title: Mississippi Pot Roast
 description: "A slow-braised chuck roast pulled into tender shreds in a tangy, buttery gravy of pepperoncini, dill, and buttermilk. Rich, savory, and lightly piquant cold-weather comfort food for an unhurried weekend that feeds a crowd."
 tags:
-  - american
-  - beef
   - braise
   - comfort-food
   - pot-roast
 protein: beef
 cuisine: american
 course: [main]
-style: braise
 time_total: 235
 time_active: 30
 servings: 6
@@ -18,7 +15,6 @@ difficulty: medium
 dietary:
   - gluten-free
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

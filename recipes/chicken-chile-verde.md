@@ -3,11 +3,8 @@ title: Chicken Chile Verde
 description: "A pressure-cooker Mexican stew of bone-in chicken in a tangy green sauce of tomatillos, poblano, and roasted chiles, brightened with cilantro and lime. Tart, mildly spicy, and warming, served with tortillas for a fast weeknight braise."
 tags:
   - pressure-cooker
-  - mexican
-  - chicken
 protein: chicken
 cuisine: mexican
-style: pressure-cooker
 time_total: 40
 time_active: 15
 servings: 6
@@ -16,7 +13,6 @@ dietary:
   - gluten-free
   - dairy-free
 season: []
-veg_forward: false
 discovered_at: null
 discovery_source: null
 ingredients_key:

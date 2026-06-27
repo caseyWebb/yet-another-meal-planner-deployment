@@ -20,12 +20,8 @@ side_search_terms:
   - a crisp green salad
 source: https://www.recipesfromitaly.com/original-pesto-genovese-recipe
 tags:
-  - italian
   - pasta
-  - vegetarian
-  - sauce
   - ligurian
-  - summer
   - garden
   - contains-nuts
 time_active: 15
