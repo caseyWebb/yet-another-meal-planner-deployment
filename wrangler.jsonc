@@ -1,14 +1,11 @@
 {
 	// grocery-mcp Worker config (operator: caseyWebb). Merged with upstream code-level
 	// config at deploy time — this file owns ONLY operator-specific values. All non-secret —
-	// the Worker's real secrets (GitHub App key, Kroger creds) are set once via
-	// `wrangler secret put` and persist across deploys.
+	// the Worker's secrets (Kroger creds) are set once via `wrangler secret put` and persist
+	// across deploys.
 	"name": "grocery-mcp",
 	"workers_dev": false,
 	"vars": {
-		"GITHUB_APP_ID": "4022505",
-		// Optional: omitting causes the Worker to resolve this at runtime via the App API.
-		"GITHUB_INSTALLATION_ID": "139471207",
 		// Cloudflare Access gate for the /admin operator panel (operator-admin). Non-secret
 		// identifiers: the team domain (the JWKS source) + the Access application's Audience
 		// (AUD) tag the Worker validates the Cf-Access-Jwt-Assertion against. Unset → /admin 404.
