@@ -4,7 +4,7 @@
 ![grocery-mcp health](https://groceries-mcp.caseywebb.xyz/health.svg?token=2b252317755d6e76677370ea9d1de88db3054e2990f5ae41)
 <!-- health-badge:end -->
 
-This is the **data + control plane** for a self-hosted [groceries-agent](https://github.com/caseyWebb/groceries-agent) instance — created from the [groceries-agent-data-template](https://github.com/caseyWebb/groceries-agent-data-template). It holds your `wrangler.jsonc` and the thin deploy workflow. Your authored corpus — recipes + guidance markdown — lives in a Cloudflare **R2 bucket**, read and written by the operator's grocery-mcp Worker, not in this repo. It is **private** because it carries your one Actions secret — *not* because member state lives here (that's all in D1).
+This is the **control plane** for a self-hosted [groceries-agent](https://github.com/caseyWebb/groceries-agent) instance — created from the [groceries-agent-data-template](https://github.com/caseyWebb/groceries-agent-data-template). It holds your `wrangler.jsonc` and the thin deploy workflow, and nothing else: **all data lives in Cloudflare**, not in this repo — your authored corpus (recipes + guidance markdown) in an **R2 bucket**, all operational and per-member state plus the derived recipe index in **D1**, and ephemeral infra in **KV**, all read and written by the operator's grocery-mcp Worker. It is **private** only because it carries your one Actions secret — *not* because any data lives here.
 
 You do **not** fork the code repo. This repo is your control plane: the deploy workflow runs here as a thin caller of a *reusable* workflow in the public code repo — so the code repo holds no secrets and you take updates by ref. Member management is the Worker's Cloudflare Access-gated `/admin` panel. Full operator setup: [docs/SELF_HOSTING.md](https://github.com/caseyWebb/groceries-agent/blob/main/docs/SELF_HOSTING.md).
 
@@ -29,13 +29,11 @@ In **Settings → Secrets and variables → Actions**:
 
 The KV namespace and D1 database ids are pinned in this repo's `wrangler.jsonc` from the first deploy (a fresh repo provisions them automatically), and the deploy ensures the R2 corpus bucket. To enable the `/admin` panel, add a Cloudflare Access app on `<your-worker-host>/admin` and set `ACCESS_TEAM_DOMAIN` + `ACCESS_AUD` in `wrangler.jsonc` `vars`. See [SELF_HOSTING](https://github.com/caseyWebb/groceries-agent/blob/main/docs/SELF_HOSTING.md) steps 4–6.
 
-## Workflows — all run from **this repo's** Actions tab
+## Deploy and Upgrade
 
-| Workflow | Trigger | Does |
-|---|---|---|
-| **Deploy Worker** | manual | deploy the grocery-mcp Worker (overlays your `wrangler.jsonc` onto the upstream source; auto-provisions KV + D1 and applies migrations) |
+One workflow runs from **this repo's** Actions tab: **Deploy Worker** (manual). It deploys the grocery-mcp Worker — overlaying your `wrangler.jsonc` onto the upstream source, auto-provisioning KV + D1, and applying migrations. It is also how you **upgrade**: it's a thin caller of a *reusable* workflow in the public code repo (`uses: …@main`), so the build/deploy/provision logic lives upstream and re-running the deploy takes the latest by ref. Runs are billed to **this repo's owner**.
 
-The Worker projects the recipe index from the R2 corpus on a schedule and serves the public cookbook at `/cookbook`. The build/deploy/provision **logic** lives in the code repo as reusable workflows; these are thin callers, so updates land centrally. Runs are billed to **this repo's owner**. Member management is **not** a workflow — it's the Worker's `/admin` panel (below).
+The Worker projects the recipe index from the R2 corpus on a schedule and serves the public cookbook at `/cookbook`. Member management is **not** a workflow — it's the Worker's `/admin` panel (below).
 
 ## Managing members — the `/admin` panel
 
