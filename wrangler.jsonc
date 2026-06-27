@@ -8,7 +8,12 @@
 	"vars": {
 		"GITHUB_APP_ID": "4022505",
 		// Optional: omitting causes the Worker to resolve this at runtime via the App API.
-		"GITHUB_INSTALLATION_ID": "139471207"
+		"GITHUB_INSTALLATION_ID": "139471207",
+		// Cloudflare Access gate for the /admin operator panel (operator-admin). Non-secret
+		// identifiers: the team domain (the JWKS source) + the Access application's Audience
+		// (AUD) tag the Worker validates the Cf-Access-Jwt-Assertion against. Unset → /admin 404.
+		"ACCESS_TEAM_DOMAIN": "dirtbags.cloudflareaccess.com",
+		"ACCESS_AUD": "8e69b168b8fc5ad54918cf88d7a64d081eb99dcabab863aceef1400c8c89609d"
 	},
 	"kv_namespaces": [
 		{ "binding": "KROGER_KV", "id": "aee060bb679141d995c8bc0d5643b9d3" },
