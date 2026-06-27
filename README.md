@@ -1,7 +1,7 @@
 # groceries-agent data repo
 
 <!-- health-badge:start -->
-![grocery-mcp health](https://groceries-mcp.caseywebb.xyz/health.svg?token=2b252317755d6e76677370ea9d1de88db3054e2990f5ae41)
+![grocery-mcp health](https://groceries-mcp.caseywebb.xyz/health.svg)
 <!-- health-badge:end -->
 
 This is the **control plane** for a self-hosted [groceries-agent](https://github.com/caseyWebb/groceries-agent) instance — created from the [groceries-agent-data-template](https://github.com/caseyWebb/groceries-agent-data-template). It holds your `wrangler.jsonc` and the thin deploy workflow, and nothing else: **all data lives in Cloudflare**, not in this repo — your authored corpus (recipes + guidance markdown) in an **R2 bucket**, all operational and per-member state plus the derived recipe index in **D1**, and ephemeral infra in **KV**, all read and written by the operator's grocery-mcp Worker. It is **private** only because it carries your one Actions secret — *not* because any data lives here.
