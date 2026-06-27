@@ -1,5 +1,9 @@
 # groceries-agent data repo
 
+<!-- health-badge:start -->
+![grocery-mcp health](https://groceries-mcp.caseywebb.xyz/health.svg?token=2b252317755d6e76677370ea9d1de88db3054e2990f5ae41)
+<!-- health-badge:end -->
+
 This is the **data + control plane** for a self-hosted [groceries-agent](https://github.com/caseyWebb/groceries-agent) instance — created from the [groceries-agent-data-template](https://github.com/caseyWebb/groceries-agent-data-template). It holds your `recipes/` + `guidance/` markdown, your `wrangler.jsonc`, and the deploy/onboard/revoke workflows; the operator's grocery-mcp Worker reads and writes the markdown here via a GitHub App. It is **private** because it carries your one Actions secret and onboarding prints invite codes into its run logs — *not* because member state lives here (that's all in D1).
 
 You do **not** fork the code repo. This repo is your control plane: deploy, onboarding, and revocation all run here, as thin callers of *reusable* workflows in the public code repo — so the code repo holds no secrets and you take updates by ref. Full operator setup: [docs/SELF_HOSTING.md](https://github.com/caseyWebb/groceries-agent/blob/main/docs/SELF_HOSTING.md).
