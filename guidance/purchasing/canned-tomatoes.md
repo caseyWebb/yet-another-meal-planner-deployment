@@ -1,8 +1,7 @@
 ---
+description: choose canned whole tomatoes by the additive, not the label — calcium chloride keeps them from breaking down
 source: https://www.americastestkitchen.com/taste_tests/2687-the-best-whole-canned-tomatoes
 ---
-
-description: choose canned whole tomatoes by the additive, not the label — calcium chloride keeps them from breaking down
 
 # Choosing canned whole tomatoes
 
