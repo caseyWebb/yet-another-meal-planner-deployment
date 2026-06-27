@@ -5,11 +5,21 @@ cuisine: italian
 description: The Amalfi Coast sleeper — golden fried (or seared) zucchini melted with aged provolone into a creamy, basil-scented sauce that coats the spaghetti risotto-style. Mild, rich, and comforting; a summer vegetarian main that turns a glut of zucchini into something special.
 dietary:
   - vegetarian
+ingredients_key:
+  - zucchini
+  - provolone
+  - parmigiano reggiano
+  - basil
+  - garlic
+pairs_with: []
 perishable_ingredients:
   - zucchini
   - basil
   - provolone
+protein: vegetarian
 requires_equipment: []
+season:
+  - summer
 servings: 4
 side_search_terms:
   - a bright acidic salad to cut the richness

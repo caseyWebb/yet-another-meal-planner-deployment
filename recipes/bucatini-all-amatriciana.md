@@ -2,6 +2,14 @@
 course:
   - main
 cuisine: italian
+ingredients_key:
+  - bucatini
+  - guanciale
+  - pecorino romano
+  - tomatoes
+  - chili pepper
+season: []
+pairs_with: []
 description: Gricia plus tomato — guanciale rendered into a sharp, chili-spiked tomato sauce finished with Pecorino Romano over bucatini or spaghetti. Savory, rich, with a gentle heat; a fast weeknight Roman classic. Authentic without any wine — the splash some recipes deglaze with is optional.
 dietary: []
 perishable_ingredients:

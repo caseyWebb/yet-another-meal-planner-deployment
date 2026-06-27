@@ -11,6 +11,10 @@ tags:
   - fusion
 protein: chicken
 cuisine: korean
+course: [main]
+side_search_terms: ["tortilla chips or crusty bread", "a crisp green salad", "steamed rice"]
+pairs_with: []
+requires_equipment: []
 style: soup
 time_total: 20
 time_active: 20

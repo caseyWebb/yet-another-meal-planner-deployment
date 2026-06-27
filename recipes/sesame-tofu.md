@@ -7,11 +7,23 @@ course:
 dietary:
   - vegetarian
   - vegan
+  - dairy-free
+season: []
+tags: []
+pairs_with: []
+perishable_ingredients: []
+requires_equipment: []
+ingredients_key:
+  - tofu
+  - sesame seeds
+  - soy sauce
+  - garlic
+  - honey
+  - oyster sauce
 time_total: 40
 time_active: 10
 servings: 6
 source: https://thewoksoflife.com/sesame-tofu
-status: draft
 discovered_at: '2026-06-25'
 discovery_source: rss
 description: Crispy pan-fried tofu cubes dredged in a sesame-seed cornstarch crust and tossed in a sticky sweet-savory sauce of soy, honey, garlic, and sesame. Satisfying and golden, it hits all the notes of a takeout sesame chicken but stays vegan and comes together in about 40 minutes.

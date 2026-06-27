@@ -10,6 +10,11 @@ perishable_ingredients:
   - red baby potatoes
   - parsley
 protein: shellfish
+ingredients_key: [mussels, chorizo, saffron, red baby potatoes, crushed tomatoes, fennel seeds]
+dietary: [dairy-free, gluten-free]
+season: []
+tags: []
+pairs_with: []
 requires_equipment: []
 servings: 4
 side_search_terms:

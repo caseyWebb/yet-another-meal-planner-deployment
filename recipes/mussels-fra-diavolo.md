@@ -4,6 +4,11 @@ protein: shellfish
 cuisine: italian
 course:
   - main
+ingredients_key: [mussels, crushed tomatoes, garlic, crushed red pepper, white wine, linguine]
+dietary: [dairy-free]
+season: []
+tags: []
+pairs_with: []
 time_total: 25
 time_active: 5
 servings: 3

@@ -6,6 +6,10 @@ cuisine: italian
 description: Classic Ligurian basil pesto — raw basil, garlic, pine nuts, and a Parmigiano-Pecorino blend pounded (or blended cold) into a bright green sauce, tossed with pasta off the heat. Fresh, herbal, rich. CONTAINS PINE NUTS — not for shared meals with Caitie unless made nut-free with seeds. A garden-basil summer staple for solo nights.
 dietary:
   - vegetarian
+protein: null
+ingredients_key: [basil, garlic, pine nuts, parmigiano reggiano, pecorino, olive oil]
+season: [summer]
+pairs_with: []
 perishable_ingredients:
   - basil
 requires_equipment: []

@@ -1,6 +1,10 @@
 ---
 title: Pasta with Sausage and Peppers
 description: "A one-skillet Italian-American pasta of browned Italian sausage, sweet peppers, and onion in jarred tomato sauce over penne, finished with crumbled feta. Hearty and savory, it comes together in about 30 minutes for a budget weeknight dinner."
+course: [main]
+side_search_terms: [a simple green salad, garlic bread]
+requires_equipment: []
+pairs_with: []
 tags:
   - pastas
   - easy-dinners

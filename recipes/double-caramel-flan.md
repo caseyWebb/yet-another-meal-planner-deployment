@@ -8,6 +8,8 @@ tags:
   - custard
   - flan
   - make-ahead
+course:
+  - dessert
 protein: vegetarian
 cuisine: mexican
 style: baked
@@ -33,6 +35,9 @@ uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/double-caramel-flan-recipe'
 perishable_ingredients: [heavy cream, milk]
+pairs_with: []
+requires_equipment: []
+side_search_terms: []
 ---
 ## Ingredients
 

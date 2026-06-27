@@ -10,6 +10,10 @@ tags:
   - quick
 protein: fish
 cuisine: american
+course: [main]
+side_search_terms: ["roasted vegetables", "a bright green salad", "rice or potatoes"]
+pairs_with: []
+requires_equipment: []
 style: baked
 time_total: 15
 time_active: 10

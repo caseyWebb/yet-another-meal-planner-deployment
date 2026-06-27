@@ -9,6 +9,13 @@ dietary:
   - vegan
   - gluten-free
   - dairy-free
+ingredients_key:
+  - lentils
+  - rice
+  - onions
+  - cumin
+season: []
+pairs_with: []
 perishable_ingredients:
   - parsley
 protein: vegan

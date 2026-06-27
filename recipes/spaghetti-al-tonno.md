@@ -4,9 +4,18 @@ course:
 cuisine: italian
 description: The overlooked pantry fish pasta — good canned tuna broken into a quick garlic-chili tomato sauce over spaghetti, with an optional anchovy melted in for depth. Savory, briny, and fast; a 25-minute weeknight dish that knocks out the weekly fish target from the pantry shelf.
 dietary: []
+ingredients_key:
+  - canned tuna
+  - tomato passata
+  - garlic
+  - chili pepper
+  - anchovy
+  - parsley
+pairs_with: []
 perishable_ingredients:
   - parsley
 protein: fish
+season: []
 requires_equipment: []
 servings: 4
 side_search_terms:

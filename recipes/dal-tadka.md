@@ -5,6 +5,15 @@ protein: vegetarian
 cuisine: indian
 course:
   - main
+ingredients_key:
+  - toor dal
+  - tomatoes
+  - onion
+  - garlic
+  - cumin
+  - ginger
+season: []
+pairs_with: []
 dietary:
   - vegetarian
   - gluten-free

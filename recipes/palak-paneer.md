@@ -6,6 +6,15 @@ description: The classic North Indian spinach-and-cheese curry — blanched spin
 dietary:
   - vegetarian
   - gluten-free
+ingredients_key:
+  - spinach
+  - paneer
+  - tomatoes
+  - ginger
+  - garam masala
+  - cumin
+season: []
+pairs_with: []
 perishable_ingredients:
   - spinach
   - paneer

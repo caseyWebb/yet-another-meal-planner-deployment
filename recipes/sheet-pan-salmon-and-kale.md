@@ -9,6 +9,8 @@ tags:
   - weeknight
 protein: fish
 cuisine: mediterranean
+course:
+  - main
 style: sheet-pan
 time_total: 45
 time_active: 15
@@ -35,6 +37,12 @@ uses_components: []
 produces_components: []
 source: null
 perishable_ingredients: [kale, mint, oregano, pomegranate seeds, salmon]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - warm couscous or farro
+  - crusty bread for the glaze
+  - a bright citrus salad
 ---
 ## Ingredients
 

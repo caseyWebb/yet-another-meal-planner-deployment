@@ -2,6 +2,21 @@
 course:
   - main
 cuisine: thai
+ingredients_key:
+  - shrimp
+  - red curry paste
+  - bell pepper
+  - coconut cream
+  - fish sauce
+dietary:
+  - gluten-free
+  - dairy-free
+season: []
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - steamed jasmine rice
+  - a crisp Thai cucumber salad
 discovered_at: '2026-06-19'
 discovery_source: Rasa Malaysia RSS
 perishable_ingredients:
@@ -12,7 +27,6 @@ perishable_ingredients:
 protein: shellfish
 servings: 3
 source: https://rasamalaysia.com/red-curry-shrimp
-status: draft
 tags:
   - curry
   - quick

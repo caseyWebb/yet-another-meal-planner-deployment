@@ -3,6 +3,15 @@ course:
   - main
   - breakfast
 cuisine: mediterranean
+ingredients_key:
+  - eggs
+  - tomatoes
+  - bell pepper
+  - onion
+  - cumin
+  - paprika
+season: []
+pairs_with: []
 description: The North African one-skillet classic — eggs poached in a chunky, spiced tomato-and-bell-pepper sauce with cumin, coriander, and paprika, finished with fresh parsley and mint. Warm, savory, a little spicy, and built for runny yolks scooped up with bread. A fast vegetarian main equally good for brunch or a weeknight dinner; a natural home for peak garden tomatoes and peppers.
 dietary:
   - vegetarian

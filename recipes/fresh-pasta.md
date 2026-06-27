@@ -8,6 +8,10 @@ tags:
   - component
 protein: vegetarian
 cuisine: italian
+course: [side]
+side_search_terms: []
+pairs_with: []
+requires_equipment: []
 style: one-pot
 time_total: 55
 time_active: 50

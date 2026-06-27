@@ -11,6 +11,7 @@ tags:
   - weekend
 protein: mixed
 cuisine: italian
+course: [main]
 style: baked
 time_total: 80
 time_active: 15
@@ -34,6 +35,12 @@ uses_components:
 produces_components: []
 source: 'https://www.seriouseats.com/lasagna-bolognese-al-forno-recipe'
 perishable_ingredients: [milk]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - a sharp green salad with vinaigrette
+  - crusty bread
+  - garlicky sauteed greens
 ---
 ## Ingredients
 

@@ -31,6 +31,10 @@ uses_components: []
 produces_components: []
 source: null
 perishable_ingredients: [salmon, romaine lettuce, avocado, cherry tomatoes, goat cheese]
+course: [main]
+pairs_with: []
+requires_equipment: []
+side_search_terms: [crusty bread, a cup of chilled soup, a simple grain side]
 ---
 ## Ingredients
 

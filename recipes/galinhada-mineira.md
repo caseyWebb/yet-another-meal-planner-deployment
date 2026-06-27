@@ -9,6 +9,10 @@ tags:
   - weeknight
 protein: chicken
 cuisine: brazilian
+course: [main]
+side_search_terms: ["a simple green salad", "sauteed collard greens (couve)", "a bright vinaigrette slaw"]
+pairs_with: []
+requires_equipment: []
 style: one-pot
 time_total: 55
 time_active: 5

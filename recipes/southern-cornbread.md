@@ -2,6 +2,15 @@
 course:
   - side
 cuisine: american
+ingredients_key:
+  - cornmeal
+  - buttermilk
+  - butter
+  - eggs
+protein: null
+season: []
+pairs_with: []
+side_search_terms: []
 description: Classic Southern skillet cornbread — cornmeal-forward, barely sweet (a little honey is optional), baked in a hot buttered cast-iron skillet for crispy golden edges and a tender crumb. The quintessential partner to beans, greens, chili, and pot likker; mostly unsweetened in true Southern style.
 dietary:
   - vegetarian

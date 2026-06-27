@@ -7,13 +7,31 @@ dietary:
   - vegetarian
 discovered_at: '2026-06-25'
 discovery_source: rss
+ingredients_key:
+  - zucchini
+  - spaghetti
+  - lemon
+  - parmesan
+  - garlic
+  - heavy cream
+pairs_with: []
+perishable_ingredients:
+  - zucchini
+  - shallot
+  - garlic
+  - heavy cream
+  - lemon
+  - basil
 protein: vegetarian
+requires_equipment: []
+season:
+  - summer
 servings: 4
 side_search_terms:
   - a simple green salad with sharp vinaigrette
   - crusty bread to soak up extra sauce
 source: https://www.bonappetit.com/recipe/creamy-lemon-zucchini-pasta
-status: draft
+tags: []
 time_active: null
 time_total: 35
 title: Creamy Lemon Zucchini Pasta

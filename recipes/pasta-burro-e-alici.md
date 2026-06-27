@@ -9,6 +9,7 @@ tags:
   - weeknight
 protein: fish
 cuisine: italian
+course: [main]
 style: one-pot
 time_total: 55
 time_active: 5
@@ -16,6 +17,9 @@ servings: 4
 difficulty: medium
 dietary: []
 season: []
+side_search_terms: [a bright acidic green salad, a simple arugula salad]
+pairs_with: []
+requires_equipment: []
 veg_forward: false
 discovered_at: null
 discovery_source: null

@@ -10,6 +10,11 @@ perishable_ingredients:
   - parsley
   - creme fraiche
 protein: shellfish
+ingredients_key: [mussels, shallot, garlic, white wine, creme fraiche, thyme]
+dietary: []
+season: []
+tags: []
+pairs_with: []
 requires_equipment: []
 servings: 1
 side_search_terms:

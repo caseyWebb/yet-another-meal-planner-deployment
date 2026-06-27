@@ -10,6 +10,10 @@ tags:
   - greens
 protein: vegetarian
 cuisine: italian
+course: [main]
+side_search_terms: ["crusty bread for the broth", "a sharp green salad", "grated Parmigiano"]
+pairs_with: []
+requires_equipment: []
 style: soup
 time_total: 100
 time_active: 15

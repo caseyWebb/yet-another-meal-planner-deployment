@@ -6,12 +6,16 @@ dietary:
   - vegetarian
 discovered_at: '2026-06-19'
 discovery_source: Just One Cookbook RSS
+ingredients_key: [udon noodles, dashi, mirin, soy sauce, green onion, wasabi]
+pairs_with: []
 perishable_ingredients:
   - green onion
 protein: vegetarian
+requires_equipment: []
+season: [summer]
 servings: 2
+side_search_terms: [vegetable tempura, a cold spinach goma-ae, edamame]
 source: https://www.justonecookbook.com/cold-udon-noodles
-status: draft
 tags:
   - noodles
   - summer

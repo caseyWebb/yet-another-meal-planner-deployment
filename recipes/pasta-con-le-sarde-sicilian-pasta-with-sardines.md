@@ -3,6 +3,17 @@ course:
   - main
 cuisine: italian
 description: The great Sicilian pasta — fresh sardines and anchovies with sautéed fennel and onion, raisins plumped in saffron wine, toasted pine nuts, and fennel-seed seasoned breadcrumbs in place of cheese. Sweet, briny, savory, and aromatic; a textbook example of Arab culinary influence on Sicily and one of the most distinctive pastas in the Italian canon.
+ingredients_key:
+  - fresh sardines
+  - anchovies
+  - fennel
+  - raisins
+  - pine nuts
+  - bucatini
+dietary:
+  - dairy-free
+season: []
+pairs_with: []
 perishable_ingredients:
   - fresh sardines
   - fennel fronds
@@ -25,34 +36,6 @@ tags:
 time_active: 35
 time_total: 35
 title: Pasta con le Sarde (Sicilian Pasta with Sardines)
----
----
-title: "Pasta con le Sarde (Sicilian Pasta with Sardines)"
-protein: fish
-cuisine: italian
-course:
-  - main
-servings: 4
-time_total: 35
-time_active: 35
-description: "The great Sicilian pasta — fresh sardines and anchovies with sautéed fennel and onion, raisins plumped in saffron wine, toasted pine nuts, and fennel-seed seasoned breadcrumbs in place of cheese. Sweet, briny, savory, and aromatic; a textbook example of Arab culinary influence on Sicily and one of the most distinctive pastas in the Italian canon."
-source: "https://www.seriouseats.com/pasta-pasta-con-le-sarde-sicilian-pasta-with-sardines"
-tags:
-  - pasta
-  - sardines
-  - sicilian
-  - italian
-  - fennel
-  - breadcrumbs
-  - anchovies
-perishable_ingredients:
-  - fresh sardines
-  - fennel fronds
-requires_equipment: []
-side_search_terms:
-  - "a crisp bitter green salad"
-  - "crusty bread"
-  - "a simple Sicilian vegetable like roasted cauliflower"
 ---
 
 ## Ingredients

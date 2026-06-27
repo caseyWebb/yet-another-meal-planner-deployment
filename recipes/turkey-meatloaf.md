@@ -7,8 +7,12 @@ tags:
   - baked
   - meatloaf
   - comfort-food
-protein: chicken
+protein: turkey
 cuisine: american
+course: [main]
+side_search_terms: [mashed potatoes, roasted green vegetables, a simple salad]
+requires_equipment: []
+pairs_with: []
 style: baked
 time_total: 90
 time_active: 30

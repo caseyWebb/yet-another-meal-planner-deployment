@@ -12,6 +12,14 @@ tags:
   - winter
 protein: beef
 cuisine: american
+course:
+  - main
+side_search_terms:
+  - crusty bread for the gravy
+  - a sharp green salad
+  - buttered egg noodles
+requires_equipment: []
+pairs_with: []
 style: stew
 time_total: 195
 time_active: 5

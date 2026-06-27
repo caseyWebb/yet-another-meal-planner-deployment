@@ -9,11 +9,24 @@ course:
 time_total: 25
 time_active: 10
 servings: 5
+ingredients_key:
+  - chicken thighs
+  - miso
+  - mirin
+  - sake
+  - green onion
+dietary: [dairy-free]
+season: []
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - steamed white rice
+  - a simple miso soup
+  - a crisp cucumber or cabbage salad
 tags:
   - miso
   - pan-fry
   - weeknight
-status: draft
 discovered_at: '2026-06-19'
 discovery_source: Just One Cookbook RSS
 perishable_ingredients:

@@ -1,6 +1,13 @@
 ---
 title: Cacio e Pepe
 cuisine: italian
+protein: null
+season: []
+pairs_with: []
+ingredients_key:
+  - spaghetti
+  - pecorino romano
+  - black pepper
 course:
   - main
 description: The irreducible Roman pasta — finely grated Pecorino Romano emulsified with starchy pasta water and toasted black pepper into a glossy, creamy sauce with zero cream. Sharp, peppery, pure technique; a fast weeknight dish that makes something deeply savory out of almost nothing.

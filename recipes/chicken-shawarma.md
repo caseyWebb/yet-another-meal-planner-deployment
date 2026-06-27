@@ -22,6 +22,12 @@ discovery_source: Budget Bytes
 side_search_terms:
   - simple salad
   - hummus
+ingredients_key: [chicken breasts, greek yogurt, garlic, lemon, cucumber, tomatoes]
+dietary: []
+season: []
+tags: []
+pairs_with: []
+requires_equipment: []
 ---
 ## Ingredients
 
