@@ -32,10 +32,12 @@ perishable_ingredients:
   - parsley
 season: []
 veg_forward: false
-status: draft
 discovered_at: '2026-06-15'
 discovery_source: Budget Bytes (RSS)
 source: https://www.budgetbytes.com/chicken-piccata-meatballs-and-orzo-skillet
+pairs_with: []
+requires_equipment: []
+side_search_terms: [a crisp arugula salad, garlicky sauteed greens, crusty bread for the broth]
 ---
 ## Ingredients
 

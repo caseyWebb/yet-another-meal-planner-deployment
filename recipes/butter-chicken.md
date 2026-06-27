@@ -10,6 +10,13 @@ tags:
   - weekend
 protein: chicken
 cuisine: indian
+course:
+  - main
+side_search_terms:
+  - basmati rice or jeera rice
+  - warm naan or roti
+  - a cooling cucumber raita
+pairs_with: []
 style: braise
 time_total: 95
 time_active: 15
@@ -19,8 +26,7 @@ dietary:
   - gluten-free
 season: []
 veg_forward: false
-requires_equipment:
-  - blender
+requires_equipment: []
 discovered_at: null
 discovery_source: null
 ingredients_key:

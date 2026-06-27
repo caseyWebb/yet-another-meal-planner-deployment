@@ -8,6 +8,9 @@ dietary:
   - vegan
   - gluten-free
   - dairy-free
+ingredients_key: [thai red curry paste, coconut milk, bell pepper, carrots, kale, ginger]
+pairs_with: []
+season: []
 perishable_ingredients:
   - bell peppers
   - carrots

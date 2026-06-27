@@ -2,6 +2,15 @@
 course:
   - main
 cuisine: american
+ingredients_key:
+  - black-eyed peas
+  - collard greens
+  - garlic
+  - smoked paprika
+  - parsley
+  - onion
+season: []
+pairs_with: []
 description: The Southern New Year's plate, made meatless — smoky black-eyed peas (smoked paprika and allspice standing in for the ham hock) over garlicky, lightly-wilted collard greens, brightened with a fresh parsley-garlic-lemon gremolata. Hearty, soulful poor-foods comfort that eats well any day; vegan and gluten-free, and built to be served with cornbread.
 dietary:
   - vegetarian

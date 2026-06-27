@@ -2,6 +2,20 @@
 course:
   - main
 cuisine: korean
+dietary:
+  - dairy-free
+ingredients_key:
+  - sundubu
+  - eggs
+  - anchovy broth
+  - tomato
+  - green cabbage
+pairs_with: []
+requires_equipment: []
+season: []
+side_search_terms:
+  - steamed rice
+  - kimchi and Korean banchan
 discovered_at: '2026-06-19'
 discovery_source: Korean Bapsang RSS
 perishable_ingredients:
@@ -13,7 +27,6 @@ perishable_ingredients:
 protein: tofu
 servings: 2
 source: https://www.koreanbapsang.com/sundubu-gyeran-guk-soft-tofu-and-egg-soup
-status: draft
 tags:
   - soup
   - quick

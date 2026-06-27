@@ -2,6 +2,16 @@
 course:
   - main
 cuisine: southwestern
+ingredients_key:
+  - black beans
+  - poblano pepper
+  - corn
+  - red bell pepper
+  - corn tortillas
+  - cotija
+season:
+  - summer
+pairs_with: []
 description: Spiced black beans simmered with diced poblano and onion, tucked into charred corn tortillas and topped with a bright raw sweet-corn-and-red-pepper salsa, guacamole, and crumbled cotija. Fresh, smoky, summery Tex-Mex; a fast vegetarian taco night that makes the most of peak corn, and easily vegan if you skip the cotija.
 dietary:
   - vegetarian

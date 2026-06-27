@@ -8,6 +8,16 @@ dietary:
   - vegan
   - gluten-free
   - dairy-free
+ingredients_key:
+  - tofu
+  - vermicelli noodles
+  - lemongrass
+  - lime
+  - soy sauce
+  - cabbage
+  - cucumber
+season: [summer]
+pairs_with: []
 perishable_ingredients:
   - tofu
   - lettuce

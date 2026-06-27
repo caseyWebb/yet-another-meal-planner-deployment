@@ -11,6 +11,11 @@ tags:
   - slow-cooked
 protein: pork
 cuisine: american
+course:
+  - side
+side_search_terms: []
+requires_equipment: []
+pairs_with: []
 style: baked
 time_total: 310
 time_active: 5

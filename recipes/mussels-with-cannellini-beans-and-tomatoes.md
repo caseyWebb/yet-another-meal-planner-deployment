@@ -7,6 +7,11 @@ perishable_ingredients:
   - mussels
   - parsley
 protein: shellfish
+ingredients_key: [mussels, cannellini beans, tomatoes, garlic, white wine, tomato paste]
+dietary: [dairy-free]
+season: []
+tags: []
+pairs_with: []
 requires_equipment: []
 servings: 2
 side_search_terms:

@@ -7,6 +7,15 @@ dietary:
   - vegetarian
   - vegan
   - dairy-free
+ingredients_key:
+  - soft tofu
+  - mushrooms
+  - kimchi
+  - gochugaru
+  - zucchini
+  - kombu
+pairs_with: []
+season: []
 perishable_ingredients:
   - soft tofu
   - mushrooms

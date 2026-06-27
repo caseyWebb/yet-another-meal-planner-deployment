@@ -32,6 +32,10 @@ uses_components: []
 produces_components: []
 source: null
 perishable_ingredients: [chicken, thyme, parsley, sour cream, milk]
+course: [main]
+pairs_with: []
+requires_equipment: []
+side_search_terms: [a crisp green salad, simple steamed greens, buttered peas]
 ---
 ## Ingredients
 

@@ -9,13 +9,17 @@ tags:
   - farro
 protein: vegetarian
 cuisine: italian
+course: [main]
 style: one-pot
 time_total: 65
 time_active: 20
 servings: 6
 difficulty: medium
-dietary: []
-season: []
+dietary: [vegetarian]
+season: [fall, winter]
+side_search_terms: [a bright acidic green salad, a simple arugula salad]
+pairs_with: []
+requires_equipment: []
 veg_forward: true
 discovered_at: null
 discovery_source: null

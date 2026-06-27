@@ -10,6 +10,7 @@ tags:
   - weeknight
 protein: mixed
 cuisine: american
+course: [main]
 style: baked
 time_total: 120
 time_active: 15
@@ -32,6 +33,12 @@ uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/the-food-lab-all-american-meatloaf-excerpt-recipe'
 perishable_ingredients: [buttermilk, mushrooms, ground pork, ground beef, parsley]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - creamy mashed potatoes
+  - buttery green beans or roasted vegetables
+  - a simple green salad
 ---
 ## Ingredients
 

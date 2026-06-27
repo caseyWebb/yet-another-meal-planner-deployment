@@ -7,6 +7,10 @@ dietary:
   - vegetarian
   - vegan
   - dairy-free
+protein: null
+ingredients_key: [penne, tomatoes, garlic, chili peppers, olive oil]
+season: []
+pairs_with: []
 perishable_ingredients:
   - parsley
 requires_equipment: []

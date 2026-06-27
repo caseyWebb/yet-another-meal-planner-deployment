@@ -11,6 +11,14 @@ tags:
   - one-pot
 protein: chicken
 cuisine: filipino
+course:
+  - main
+side_search_terms:
+  - tokwa't baboy or a vinegar dipping side
+  - a bright pickled vegetable
+  - calamansi wedges and chili oil
+requires_equipment: []
+pairs_with: []
 style: soup
 time_total: 65
 time_active: null

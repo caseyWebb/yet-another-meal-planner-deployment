@@ -8,7 +8,9 @@ tags:
   - corn
   - summer
   - make-ahead
-protein: vegan
+course:
+  - side
+protein: null
 cuisine: american
 style: stock
 time_total: 45
@@ -35,7 +37,11 @@ meal_preppable: true
 uses_components: []
 produces_components:
   - corn-stock
+source: null
 perishable_ingredients: []
+pairs_with: []
+requires_equipment: []
+side_search_terms: []
 ---
 ## Ingredients
 

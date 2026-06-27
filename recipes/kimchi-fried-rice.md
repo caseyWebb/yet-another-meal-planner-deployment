@@ -5,6 +5,15 @@ cuisine: korean
 description: Kimchi bokkeumbap — cold day-old rice stir-fried with aged kimchi, its tangy juice, and gochujang until toasty, finished with sesame oil, scallion, and shredded seaweed, and crowned with a runny fried egg. Fast, spicy, funky-savory Korean comfort in about 15 minutes; a great use for over-fermented kimchi. Vegetarian if your kimchi is made without fish sauce or salted shrimp.
 dietary:
   - vegetarian
+ingredients_key:
+  - rice
+  - kimchi
+  - gochujang
+  - egg
+  - sesame oil
+  - green onion
+season: []
+pairs_with: []
 perishable_ingredients:
   - green onion
 protein: egg

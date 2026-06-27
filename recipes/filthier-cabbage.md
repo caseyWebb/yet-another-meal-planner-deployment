@@ -8,6 +8,8 @@ tags:
   - cabbage
   - comfort-foods
   - weeknight
+course:
+  - main
 protein: beef
 cuisine: cajun
 style: braise
@@ -32,6 +34,11 @@ uses_components: []
 produces_components: []
 source: null
 perishable_ingredients: [ground beef, jalapeño, parsley]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - steamed jasmine or white rice
+  - a simple crunchy slaw or pickle
 ---
 ## Ingredients
 

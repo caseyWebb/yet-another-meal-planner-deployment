@@ -12,6 +12,14 @@ tags:
   - weekend
 protein: mixed
 cuisine: italian
+course:
+  - main
+side_search_terms:
+  - a sharp green salad with vinaigrette
+  - garlic bread or crusty bread
+  - a plate of sauteed bitter greens
+requires_equipment: []
+pairs_with: []
 style: braise
 time_total: 235
 time_active: 10

@@ -31,6 +31,10 @@ produces_components: []
 source: >-
   https://www.seriouseats.com/chicken-and-dried-fig-tagine-with-pistachios-and-chickpeas
 perishable_ingredients: [chicken legs, mint, cilantro, parsley]
+course: [main]
+pairs_with: []
+requires_equipment: []
+side_search_terms: [fluffy couscous, a bright herb salad, warm flatbread]
 ---
 ## Ingredients
 

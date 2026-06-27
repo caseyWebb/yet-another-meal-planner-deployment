@@ -9,6 +9,10 @@ tags:
   - shredded-beef
 protein: beef
 cuisine: cuban
+course: [main]
+side_search_terms: [black beans and white rice, fried sweet plantains, a simple avocado salad]
+requires_equipment: []
+pairs_with: []
 style: braise
 time_total: 110
 time_active: 10

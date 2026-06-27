@@ -9,6 +9,8 @@ tags:
   - weeknight
 protein: beef
 cuisine: american
+course:
+  - main
 style: one-pot
 time_total: 20
 time_active: 5
@@ -30,6 +32,12 @@ uses_components: []
 produces_components: []
 source: null
 perishable_ingredients: [ground beef]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - crispy french fries or tater tots
+  - a crunchy dill pickle
+  - a simple coleslaw
 ---
 ## Ingredients
 

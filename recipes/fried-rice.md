@@ -10,6 +10,10 @@ tags:
   - weeknight
 protein: vegetarian
 cuisine: chinese
+course: [main]
+side_search_terms: ["a quick stir-fried green vegetable", "a light clear soup"]
+pairs_with: []
+requires_equipment: []
 style: stir-fry
 time_total: 25
 time_active: 5

@@ -2,6 +2,15 @@
 course:
   - main
 cuisine: italian
+ingredients_key:
+  - spaghetti
+  - garlic
+  - chili peppers
+  - olive oil
+  - parsley
+protein: null
+season: []
+pairs_with: []
 description: The irreducible pantry pasta — spaghetti tossed in garlic-infused good olive oil with chili and parsley, emulsified with a little pasta water. Garlicky, gently spicy, vegan; the 15-minute dish for an empty fridge and a craving for something honest. Made for garden chiles.
 dietary:
   - vegetarian

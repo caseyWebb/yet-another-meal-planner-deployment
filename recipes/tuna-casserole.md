@@ -9,6 +9,10 @@ tags:
   - comfort-food
 protein: fish
 cuisine: american
+course: [main]
+side_search_terms: [a bright green salad, steamed peas or green beans, a crisp vinegary slaw]
+requires_equipment: []
+pairs_with: []
 style: baked
 time_total: 20
 time_active: null

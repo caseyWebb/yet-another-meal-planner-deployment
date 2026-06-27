@@ -9,6 +9,7 @@ tags:
   - soup
 protein: vegetarian
 cuisine: italian
+course: [main]
 style: soup
 time_total: 120
 time_active: null
@@ -32,6 +33,12 @@ uses_components: []
 produces_components: []
 source: 'https://www.seriouseats.com/the-best-minestrone-soup-recipe'
 perishable_ingredients: [rosemary, parsley, tomatoes, zucchini, summer squash, green beans, spinach, basil]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - crusty bread for the broth
+  - a simple green salad
+  - garlicky toasted bread with parmesan
 ---
 ## Ingredients
 

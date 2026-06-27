@@ -3,6 +3,13 @@ title: Stuffed Pepper Skillet
 description: "A one-pan deconstructed stuffed pepper with Italian sausage, bell peppers, and rice simmered in tomato and beef broth, then blanketed with melted Colby Jack. Hearty, savory weeknight comfort with easy cleanup."
 cuisine: american
 protein: pork
+course:
+  - main
+side_search_terms:
+  - a crisp green salad
+  - garlic bread
+requires_equipment: []
+pairs_with: []
 dietary: []
 difficulty: easy
 style: one-pot
@@ -30,7 +37,6 @@ season: []
 produces_components: []
 uses_components: []
 source: https://www.budgetbytes.com/stuffed-pepper-skillet
-status: draft
 discovered_at: '2026-06-11'
 discovery_source: Budget Bytes RSS
 perishable_ingredients: [italian sausage, parsley]

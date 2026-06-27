@@ -3,6 +3,17 @@ course:
   - main
 cuisine: american
 description: Kenji’s New England clam chowder — salt pork, onion, and celery form the base; fresh clams are steamed out, chopped, and held aside; the potato-thickened milk broth is blended smooth and emulsified; then everything reunites with heavy cream at the end. Cleaner and richer than roux-based versions, without the paste. The blender is the trick.
+ingredients_key:
+  - clams
+  - salt pork
+  - potatoes
+  - heavy cream
+  - onion
+  - celery
+dietary:
+  - gluten-free
+season: []
+pairs_with: []
 perishable_ingredients:
   - clams
   - heavy cream
@@ -26,35 +37,6 @@ tags:
 time_active: 30
 time_total: 50
 title: New England Clam Chowder
----
----
-title: "New England Clam Chowder"
-protein: shellfish
-cuisine: american
-course:
-  - main
-servings: 6
-time_total: 50
-time_active: 30
-description: "Kenji's New England clam chowder — salt pork, onion, and celery form the base; fresh clams are steamed out, chopped, and held aside; the potato-thickened milk broth is blended smooth and emulsified; then everything reunites with heavy cream at the end. Cleaner and richer than roux-based versions, without the paste. The blender is the trick."
-source: "https://www.seriouseats.com/new-england-clam-chowder-recipe"
-tags:
-  - clams
-  - shellfish
-  - chowder
-  - american
-  - comfort-food
-  - soup
-  - kenji
-perishable_ingredients:
-  - clams
-  - heavy cream
-requires_equipment:
-  - blender
-side_search_terms:
-  - "oyster crackers"
-  - "crusty bread"
-  - "a simple green salad"
 ---
 
 ## Ingredients

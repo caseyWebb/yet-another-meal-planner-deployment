@@ -10,6 +10,9 @@ tags:
   - stew
 protein: chicken
 cuisine: southwestern
+course: [main]
+side_search_terms: [warm cornbread, tortilla chips and lime, a crisp cabbage slaw]
+pairs_with: []
 style: stew
 time_total: 120
 time_active: 10

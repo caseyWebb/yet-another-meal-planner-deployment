@@ -8,6 +8,8 @@ tags:
   - chicken
   - one-pot
   - weeknight
+course:
+  - main
 protein: chicken
 cuisine: cajun
 style: one-pot
@@ -32,6 +34,11 @@ uses_components: []
 produces_components: []
 source: 'https://www.budgetbytes.com/one-pot-creamy-cajun-chicken-pasta/'
 perishable_ingredients: [chicken breast, cream cheese, scallions]
+pairs_with: []
+requires_equipment: []
+side_search_terms:
+  - a crisp green salad with a tangy vinaigrette
+  - crusty bread to mop up the sauce
 ---
 ## Ingredients
 

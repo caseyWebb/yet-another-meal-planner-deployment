@@ -9,6 +9,10 @@ tags:
   - date-night
 protein: vegetarian
 cuisine: italian
+course: [main]
+side_search_terms: [a sharp dressed arugula salad, crusty bread, a light antipasto]
+requires_equipment: []
+pairs_with: []
 style: pasta
 time_total: 65
 time_active: 45

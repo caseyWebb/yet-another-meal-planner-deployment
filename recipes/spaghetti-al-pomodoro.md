@@ -2,6 +2,16 @@
 course:
   - main
 cuisine: italian
+ingredients_key:
+  - spaghetti
+  - tomatoes
+  - garlic
+  - basil
+  - olive oil
+protein: null
+season:
+  - summer
+pairs_with: []
 description: The dish Italians simply call sugo — spaghetti in a slow-simmered sauce of good tomatoes, garlic, olive oil, and basil, milled smooth. Sweet, bright, and pure; the benchmark simple pasta where ingredient quality is everything. Built for garden tomatoes at peak season, great with canned San Marzano year-round.
 dietary:
   - vegetarian

@@ -7,6 +7,15 @@ dietary:
   - vegetarian
   - vegan
   - dairy-free
+ingredients_key:
+  - brown lentils
+  - rice
+  - elbow pasta
+  - chickpeas
+  - tomato sauce
+  - fried onions
+season: []
+pairs_with: []
 perishable_ingredients: []
 protein: vegan
 requires_equipment: []

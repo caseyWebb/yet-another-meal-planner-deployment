@@ -2,6 +2,16 @@
 course:
   - main
 cuisine: japanese
+ingredients_key:
+  - mackerel
+  - daikon radish
+  - sake
+  - lemon
+dietary:
+  - gluten-free
+  - dairy-free
+season: []
+pairs_with: []
 description: Salt-grilled mackerel — the simplest Japanese fish preparation. Sake cleans the fish, salt seasons it, 20 minutes of resting draws out moisture, then high-heat baking crisps the skin and turns the flesh golden. Served with grated daikon and lemon. Nothing more needed.
 perishable_ingredients:
   - mackerel
@@ -24,33 +34,6 @@ tags:
 time_active: 5
 time_total: 45
 title: Grilled Mackerel (Saba Shioyaki)
----
----
-title: "Grilled Mackerel (Saba Shioyaki)"
-protein: fish
-cuisine: japanese
-course:
-  - main
-servings: 2
-time_total: 45
-time_active: 5
-description: "Salt-grilled mackerel — the simplest Japanese fish preparation. Sake cleans the fish, salt seasons it, 20 minutes of resting draws out moisture, then high-heat baking crisps the skin and turns the flesh golden. Served with grated daikon and lemon. Nothing more needed."
-source: "https://www.justonecookbook.com/grilled-mackerel-saba-shioyaki"
-tags:
-  - mackerel
-  - fish
-  - japanese
-  - weeknight
-  - quick
-  - simple
-perishable_ingredients:
-  - mackerel
-  - daikon radish
-requires_equipment: []
-side_search_terms:
-  - "steamed short-grain rice"
-  - "miso soup"
-  - "a simple Japanese pickled or sesame-dressed vegetable"
 ---
 
 ## Ingredients

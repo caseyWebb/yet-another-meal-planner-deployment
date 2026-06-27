@@ -1,5 +1,9 @@
 ---
 cuisine: vietnamese
+course: [main]
+side_search_terms: ["steamed jasmine rice or rice noodles", "a bright herb and cucumber salad", "pickled vegetables"]
+pairs_with: []
+requires_equipment: []
 dietary:
   - gluten-free
 discovered_at: '2026-06-10'
