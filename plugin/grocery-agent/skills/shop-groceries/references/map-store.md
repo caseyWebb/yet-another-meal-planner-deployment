@@ -8,7 +8,7 @@ If I decline, drop it and just shop the degraded department list (in-store walk 
 
 #### 2. Register the store, then read the list
 
-If the store isn't in the registry, `add_store(slug, name, domain, …)` — a kebab-case **location** slug (`west-7th-tom-thumb`, not `tom-thumb`), `domain` per its category. Then `read_grocery_list` (and `read_store_notes(slug)` for anything already known) so you can match aisles to what I need.
+If the store isn't in the registry, `add_store(slug, name, domain, …)` — a kebab-case **location** slug (`west-7th-tom-thumb`, not `tom-thumb`), `domain` per its category. Then `read_to_buy` (and `read_store_notes(slug)` for anything already known) so you can match aisles to what I need — plan-derived lines included.
 
 #### 3. Walk it aisle by aisle, saving as you go
 

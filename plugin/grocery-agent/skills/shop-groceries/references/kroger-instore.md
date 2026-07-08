@@ -13,15 +13,17 @@ Check whether a Kroger store is registered for this trip:
   - `add_store(slug, name="Kroger", label, chain="kroger", domain="grocery", location_id=<resolved>)`.
   - This is **one-time friction** — subsequent walks resolve by slug with no API lookup needed.
 
-#### 2. Load items and fetch aisle locations
+#### 2. Load items and their placements
 
-Call `kroger_prices` for each active grocery list item in parallel, passing `location_id` (the store's registered Kroger `locationId`; omit to fall back to the profile preferred location). Each returned product carries `aisleLocation: { number, description, side? } | null` and a top-level `inStore: boolean`.
+Open with `read_to_buy({ with_aisles: true })`: each line may carry a `placement` — a **captured aisle** (`aisle_number`/`aisle_description`, learned from past orders' resolved products and stored on the SKU cache at this store) and/or a graph-derived `department`. Captured placements are **real store data — prefer them** over anything inferred; they cost no product lookups and cover more of the list with every order placed. (The top-level `location` names the store the placements are for — if it isn't this trip's store, treat the placements as absent.)
+
+For the lines **without** a captured placement, fall back to `kroger_prices` in parallel (plan-derived lines walk exactly like explicit rows, each carrying its `for_recipes` attribution), passing `location_id` (the store's registered Kroger `locationId`; omit to fall back to the profile preferred location). Each returned product carries `aisleLocation: { number, description, side? } | null` and a top-level `inStore: boolean`.
 
 Surface **`inStore: false` items up front** before starting the walk: "These items aren't available in-store at this Kroger — pickup/delivery only. Remove them from the in-store list, or keep them for a separate order?" Never silently drop them.
 
 #### 3. Group by aisle and walk
 
-Order items by `aisleLocation.number` (ascending); items with `null` aisle go at the end as **"location unknown"**. Apply cold-chain sequencing on top: if frozen/refrigerated aisles fall mid-store, pull those items into a final "grab these on your way out" group and say so.
+Order items by aisle number (ascending) — captured placements and `kroger_prices` aisles interleave into one walk; a store note's `location` pin still **wins** over either for its item. Items with no aisle from any source go at the end as **"location unknown"** (grouped by department when the placement carries one). Apply cold-chain sequencing on top: if frozen/refrigerated aisles fall mid-store, pull those items into a final "grab these on your way out" group and say so.
 
 Hands-free / voice-first, **one aisle at a time**, I advance with "got it" / "next". At each aisle, announce the aisle number and description, then the items to grab there. As we reach an aisle, if something there has **purchasing** guidance (which canned tomatoes, which olive oil), weave the non-obvious tip in following the **Picking what to buy** guidance — at the shelf, where I'm choosing.
 
@@ -42,4 +44,4 @@ add_store_note(slug, "Aisle <N>: <item name>", tags: ["location"])
 
 #### 5. Complete → received
 
-Before wrapping up, sweep the list for anything we never ticked off — "you've still got harissa and flour on the list; did we pass those, or want to double back?" Then, when done, picked items go straight `active → received` — **no `in_cart`/`ordered` stage**. Persist it with the granular tools: remove the picked items with `remove_from_grocery_list` (one per item, awaited — they share the list blob) and — **for `grocery`-kind items only** — restock the pantry in one `update_pantry({ operations: [...] })`; `household`/`other` never touch the pantry. Then offer a couple of storage tips for fresh perishables just received, following the **Putting groceries away** guidance.
+Before wrapping up, sweep the list for anything we never ticked off — "you've still got harissa and flour on the list; did we pass those, or want to double back?" Then, when done, picked items go straight `active → received` — **no `in_cart`/`ordered` stage**. Persist it with the granular tools: remove the picked **explicit rows** with `remove_from_grocery_list` (one per item, awaited) and — **for `grocery`-kind items only** — restock the pantry in one `update_pantry({ operations: [...] })`; `household`/`other` never touch the pantry. A picked **plan-derived** line has **no row to remove** — don't hunt for one; its pantry restock is what clears it from the next derivation. Then offer a couple of storage tips for fresh perishables just received, following the **Putting groceries away** guidance.

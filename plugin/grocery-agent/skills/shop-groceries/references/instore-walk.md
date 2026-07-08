@@ -8,7 +8,7 @@ If I named one for this trip ("the West 7th Tom Thumb"), use it — that overrid
 
 #### 2. Filter to the store's domain
 
-Show only the items for this trip's category — a `grocery` run excludes `home-improvement`-tagged items; a Lowe's run shows **only** those. (Item `domain` is set when it's captured; default `grocery`.)
+Show only the `to_buy` lines for this trip's category — a `grocery` run excludes `home-improvement`-tagged items; a Lowe's run shows **only** those. (Item `domain` is set when it's captured; default `grocery` — plan-derived lines are food and therefore `grocery`-domain by construction.)
 
 #### 3. Ready-to-eat adds (configured catalog)
 
@@ -46,4 +46,4 @@ Only write on my confirmation — never silently. And as we reach an item that h
 
 #### 8. Complete → received
 
-Before wrapping up, sweep the list for anything we never ticked off — "you've still got harissa and flour on the list; did we pass those, or want to double back?" — so I don't check out missing something. Then, when I'm done, picked items go straight `active → received` — **no `in_cart`/`ordered` stage**. Persist it with the granular tools: remove the picked items with `remove_from_grocery_list` (one per item, awaited — they share the list blob) and — **for `grocery`-kind items only** — restock the pantry in one `update_pantry({ operations: [...] })`; `household`/`other` never touch the pantry. Then, for the fresh perishables just received, offer a couple of storage tips following the **Putting groceries away** guidance.
+Before wrapping up, sweep the list for anything we never ticked off — "you've still got harissa and flour on the list; did we pass those, or want to double back?" — so I don't check out missing something. Then, when I'm done, picked items go straight `active → received` — **no `in_cart`/`ordered` stage**. Persist it with the granular tools: remove the picked **explicit rows** with `remove_from_grocery_list` (one per item, awaited) and — **for `grocery`-kind items only** — restock the pantry in one `update_pantry({ operations: [...] })`; `household`/`other` never touch the pantry. A picked **plan-derived** line has **no row to remove** — its pantry restock is what clears it from the next derivation. Then, for the fresh perishables just received, offer a couple of storage tips following the **Putting groceries away** guidance.

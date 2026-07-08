@@ -7,7 +7,7 @@ description: "Flush the grocery list — the deliberate act distinct from captur
 
 # Shop groceries — the flush (shop-groceries)
 
-Read `read_grocery_list` and `read_user_profile()` in parallel (preferences field drives branch detection). Then detect which branch to run:
+Read `read_to_buy` and `read_user_profile()` in parallel — `read_to_buy` is the shop-time read (the active list ∪ the meal plan's derived needs − pantry on-hand, the same set every flush resolves; `read_grocery_list` shows only the stored rows and would miss the plan); the profile's preferences field drives branch detection. Surface `underived` up front in any branch — those planned recipes' items are NOT in the set. Then detect which branch to run:
 
 | Signal | Branch |
 |---|---|
