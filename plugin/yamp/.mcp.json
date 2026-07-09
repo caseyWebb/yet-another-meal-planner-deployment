@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "yamp": {
+      "type": "http",
+      "url": "https://yamp.cooking/mcp"
+    }
+  }
+}
