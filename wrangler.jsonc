@@ -1,9 +1,9 @@
 {
-	// grocery-mcp Worker config (operator: caseyWebb). Merged with upstream code-level
+	// yamp Worker config (operator: caseyWebb). Merged with upstream code-level
 	// config at deploy time — this file owns ONLY operator-specific values. All non-secret —
 	// the Worker's secrets (Kroger creds) are set once via `wrangler secret put` and persist
 	// across deploys.
-	"name": "grocery-mcp",
+	"name": "yamp",
 	"workers_dev": false,
 	"vars": {
 		// Cloudflare Access gate for the /admin operator panel (operator-admin). Non-secret
@@ -20,7 +20,7 @@
 	],
 	"d1_databases": [{
 		"binding": "DB",
-		"database_name": "grocery-mcp",
+		"database_name": "yamp",
 		"database_id": "72599f36-fc34-4319-8dca-a4b8d1b0d9f9"
 	}]
 }

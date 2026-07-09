@@ -1,5 +1,5 @@
-# Deploy the grocery-mcp Worker AND publish the plugin marketplace. The deploy
-# logic is a reusable workflow in the code repo (caseyWebb/groceries-agent); this
+# Deploy the yamp Worker AND publish the plugin marketplace. The deploy
+# logic is a reusable workflow in the code repo (caseyWebb/yet-another-meal-planner); this
 # thin caller overlays THIS repo's wrangler.jsonc onto the upstream source, deploys,
 # then builds the plugin with this operator's connector URL baked in and commits it
 # to this repo (the marketplace). It runs in this repo with this repo's
@@ -21,10 +21,10 @@ permissions:
 
 jobs:
   deploy:
-    uses: caseyWebb/groceries-agent/.github/workflows/data-deploy.yml@main
+    uses: caseyWebb/yet-another-meal-planner/.github/workflows/data-deploy.yml@main
     secrets: inherit # passes CLOUDFLARE_API_TOKEN (+ optional Kroger creds)
     with:
       config_path: wrangler.jsonc
-      # Connector host (e.g. groceries-mcp.caseywebb.xyz). The deploy bakes
+      # Connector host (e.g. yamp.cooking). The deploy bakes
       # https://<WORKER_HOST>/mcp into the published plugin and stamps the badge.
       worker_host: ${{ vars.WORKER_HOST }}
