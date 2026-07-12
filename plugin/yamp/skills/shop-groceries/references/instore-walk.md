@@ -1,6 +1,6 @@
 # In-Store Walk — layout/notes aisle ordering
 
-This branch runs when `primary` is a store slug (non-Kroger), or I name a specific non-Kroger store for this trip. It's the **display front door** for in-store shopping — read-only until I commit to walking.
+This branch runs when `primary` is an Offline store slug, or I name a specific Offline store for this trip. It's the **display front door** for in-store shopping — read-only until I commit to walking.
 
 #### 1. Resolve the store and its domain
 
@@ -9,14 +9,6 @@ If I named one for this trip ("the West 7th Tom Thumb"), use it — that overrid
 #### 2. Filter to the store's domain
 
 Show only the `to_buy` lines for this trip's category — a `grocery` run excludes `home-improvement`-tagged items; a Lowe's run shows **only** those. (Item `domain` is set when it's captured; default `grocery` — plan-derived lines are food and therefore `grocery`-domain by construction.)
-
-#### 3. Ready-to-eat adds (configured catalog)
-
-Before grouping, if I've set up a ready-to-eat catalog, offer heat-and-eat items to add to the trip — never unilaterally:
-- **Restock favorites** (any grocery trip). Cross-reference `retrospective`'s `ready_to_eat_favorites` against pantry on-hand — a favorite that's low/out is a *suggest* ("you're low on the frozen lasagna you keep grabbing — want it on the list?").
-- **On-sale discovery** (Kroger store only — it needs flyer data). For a non-Kroger store there's no flyer — skip discovery.
-
-On my yes, add the item to the grocery list so it falls into the grouping below. Skip entirely for an empty catalog.
 
 #### 4. Group it — department vs aisle (graceful degradation)
 
