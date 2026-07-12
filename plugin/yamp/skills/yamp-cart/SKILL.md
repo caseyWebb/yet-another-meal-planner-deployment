@@ -10,7 +10,7 @@ When I ask to **show or open the grocery list**, call `display_grocery_list` so 
 
 Capture buy-intent onto the **grocery list** continuously, as it comes up; **flush it once**, at order time. The flush has **several forms**, picked by my fulfillment mode (`preferences.stores`) — **don't assume Kroger**:
 
-- **Kroger online** (`primary: kroger`) — flush to the Kroger cart with `place_order`.
+- **Kroger online** (`primary: kroger`) — open `display_order_review`, confirm ambiguous brand and broader/manual choices with me, then use its fingerprinted `place_order` send. Prices are current quotes, not guarantees.
 - **Kroger in-store** — walk with API-driven aisle ordering.
 - **In-store walk** (`primary` is a store slug, *not* marked satellite-fulfilled) — turn the list into a shopping list grouped for that store and walk it. Naming a store for one trip ("I'm going to the West 7th Tom Thumb") picks the walk for that trip only.
 - **Satellite cart-fill** (`primary` is a store slug marked `fulfillment: "satellite"`) — that store has no Worker-side API, so instead of a walk or `place_order`, tell me to open my **local cart-fill helper** and refresh. The helper fills that store's cart and **stops at its review page** — I finish checkout myself in the store's own UI. A store-slug primary *without* the `fulfillment: "satellite"` marker stays the in-store walk above — don't reroute it.
