@@ -2,5 +2,5 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "yamp",
   "description": "Personal meal planner — meal planning, pantry, recipes, and Kroger cart. Bundles the workflow skills and the yamp connector.",
-  "version": "0.2.362"
+  "version": "0.2.363"
 }
