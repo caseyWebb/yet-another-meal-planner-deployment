@@ -1,0 +1,3 @@
+# Kroger online — the order
+
+`display_order_review` opens the review card — it prices, matches, and holds the send. Resolve what it flags: ambiguous brand or size choices are mine (present the candidates, not a guess); an `unavailable` line gets a few sensible alternatives to pick from, never an auto-swap. When I say send, the card's confirmed `place_order` does the send — quotes are current prices, not guarantees, and the cart is add-only: nothing can be removed through it, so anything to undo I fix in the Kroger app before checkout (say so when it matters). If Kroger auth has lapsed, `kroger_login_url` gets me a fresh sign-in link — hand it over plainly ("Kroger needs you to sign back in").

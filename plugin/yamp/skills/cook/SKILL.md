@@ -1,32 +1,14 @@
 ---
 name: cook
-description: "Walk the user through actively cooking a dish (or a main + sides), hands-free, as mise en place. Use when they're cooking RIGHT NOW — \"I'm making the arroz caldo\", \"I'm about to start the chili\", \"walk me through dinner\", \"let's cook\". Runs a conversational pre-flight (equipment → gather → pin servings → sufficiency), then brings up the recipe card's guided cook mode (display_recipe — mise-en-place, step-by-step, per-step timers; tap-through or a voice walk), and hands off to the cooked flow to log it. For a meal already finished, that's the cooked flow instead."
+description: "Walk the household through cooking hands-free, or capture a meal already made. Use for \"I'm making the arroz caldo\", \"walk me through dinner\", \"let's cook\" — and equally for \"I made the chili last night\", \"we ate the leftovers\". One flow owns the cooking log."
 ---
 
 > **Prerequisite** — if you haven't already this session, read the `yamp-core` skill before continuing.
 
-# Guided cook — hands-free walkthrough (cook)
+# Cook (cook)
 
-My hands are messy, so keep turns short. The flow has two halves: a **conversational pre-flight** (stays in chat — this is where shortfalls get caught), then **prep + cook scaffolded on a card** with an optional hands-free voice walk over it.
+Identify the dish: check `read_meal_plan()` first (a loose match to a planned dish counts — the plan has a soup and I say "made the soup"); otherwise a vibe-less `search_recipes` query lookup, or treat it as an off-cookbook meal.
 
-Identify the dish(es) — a vibe-less `search_recipes({ specs: [{ label: "named", facets: { query } }] })` to resolve (read `results[0].recipes`), `read_recipe(slug)` for the ingredients and `## Instructions`. If I'm making a main plus sides, read all of them; you'll pace and order across them.
+**Cooking now:** pre-flight in chat, short turns — equipment the dish truly needs (against the profile's kitchen; gear I volunteer gets saved silently via `update_pantry` kitchen ops), the gather list, pin servings, and whether anything's short. Then `display_recipe` — its cook mode carries the steps, check-offs, and timers (I run timers, you never do); no card on this surface → a plain-text walk, one step per turn. Weave in a saved technique (`read_guidance("cooking_techniques")`) at the step where it applies, if one genuinely fits.
 
-**Pull up technique memories first.** Once you've read the recipe, call `list_guidance("cooking_techniques")` and map this dish's steps to any saved techniques with your **own** knowledge (a "brown the beef" step → `browning-meat`, a "sear then rest" → `searing`/`resting-meat`). `read_guidance("cooking_techniques", [...])` the few that fit so they're ready to weave in. There's no lookup table; if nothing matches, that's fine — say nothing.
-
-**Pre-flight — keep this conversational, never on the card.** This is the catch-a-shortfall-before-the-pan-is-hot phase: it has to read the kitchen, offer a sub, and restart on a swap — a static card can't do any of that.
-
-1. **Equipment.** Start from what I own: `read_user_profile()` returns `kitchen` as an object with `owned` (the appliances I've recorded) and freeform `notes` (oven count, pan sizes, sheet trays). Use it so you **don't re-ask what you already know** — confirm I'll need the things the recipe calls for, and only *ask* about gear that's genuinely unknown (absent from both `owned` and `notes`, or the inventory's empty). Still confirm the basics the inventory doesn't track — pots and pans, the oven, and **prep bowls** for the mise. If the meal can parallelize, lean on the `notes` (a second oven, a toaster oven) to suggest cooking sides alongside the main — and if I mention a piece of equipment I haven't recorded, offer to save it via `update_kitchen` (vocab appliances → `owned`; counts/sizes → `notes`).
-
-2. **Gather, pin the servings, check sufficiency.** Have me pull every ingredient out. **Settle how many servings I'm cooking** (default to the recipe's yield unless I say otherwise) — that pinned count is what the sufficiency check and the card amounts are built against. Then **confirm there's enough of each** against the recipe's amounts at that count. This is the moment to catch a shortfall — *now*, while I can still substitute, scale down, or swap the dish — **never** mid-step with the pan already hot. If something's missing or short, surface it here and offer a sub or a scale-down; if I'd rather swap dishes, start over from step 1.
-
-**The card.** On a host that renders MCP Apps, emit the recipe card's cook mode with `display_recipe(slug)` (pre-flight stays in chat above). The card walks the recipe's own `## Instructions` as its steps — mise-en-place check-off, then one step at a time with a per-step timer where the step names a wait, ending on a "Plated up" screen — and carries the favorite / log-cooked writes back through the app bridge. This is the ONE conversation cooking card: cook completion, log-cooked, and favorite reach me through it (the built-in `recipe_display_v0` had no such bridge). The card reads its steps from the recipe body, so its granularity is the recipe as written — do the serving-count math, the main+side interleaving, and the preheat timing **in conversation** (say it as we go), not on the card.
-
-**If the host does NOT render MCP Apps, skip the card and degrade to the plain-text walk:** pace the same prep then cook steps **one logical step at a time** — I advance with "next" / "done" / "what's next" — interleaving main + sides as above. No card, no apology, same content.
-
-**Pick the mode (when the card is up).** Offer two ways through the same steps: **tap through the card solo**, or a **hands-free voice walk** where you pace me ("next" / "done" / "what's next") with the card staying on screen as reference. Either way it's the same `steps[]`.
-
-**Timers — you never run one.** In card-tap mode I tap the step's own timer. In the voice walk, tell me the duration and let me set my own; **don't** ask me to confirm I set it — just go quiet and speak up again when it should be going off. The exception: if there's interleaved work to do during the wait (start the side, prep the next thing), pace that meanwhile instead of going silent. Never claim you're timing it.
-
-**Technique memories — woven in, not recited.** When a step matches a technique you pulled up, fold its tip into *that* step — in the voice walk say it as you reach the step ("browning the beef — even layer, don't disturb it; brown, not gray"), on the card work it into that step's text. Surface only the **non-obvious** ones, at most a couple across the whole cook — a nudge at the right moment, never a lecture. If a memory carries a `source`, mention it lightly ("per that Serious Eats piece"). No matching memory for a step → say nothing extra.
-
-When the food's done, **hand off to the cooked flow** to log it and update inventory — carry the dish over (don't make me re-state it), capture the cook, and decrement anything I used up.
+**Capture — during the walk's finish, or a past-tense report:** `log_cooked` — `{ type: "recipe", recipe, plan_row_id? }` for a cookbook dish (its plan row clears itself), `{ type: "ad_hoc", name, protein?, cuisine? }` otherwise; honest `meal` when known, past `date` when I said so. Ask what ran out ("did that finish the ginger?") → `update_pantry` removes. Then one light ask: favorite it, or a note for next time? (`set_recipe_disposition` / `add_recipe_note`.) Don't propose a new menu unless I ask.
