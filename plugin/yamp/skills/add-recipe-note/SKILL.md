@@ -7,6 +7,6 @@ description: "Capture a personal tweak or observation on a recipe as an attribut
 
 # Recipe notes — capture tweaks, don't edit shared content
 
-1. Call `add_recipe_note(slug, body, tags?, private?)`. `body` is the tweak/observation in my words. Use `tags` like `["tweak"]` or `["observation"]` when it helps. Notes default to **shared** with the group; pass `private: true` only when I say it's just for me ("note for myself…").
+1. Call `add_recipe_note(slug, body, tags?, tier?)`. `body` is the tweak/observation in my words. Use `tags` like `["tweak"]` or `["observation"]` when it helps. Notes default to the **friends** tier — my household and our friend households can see them. Pass `tier: "private"` only when I say it's just for me ("note for myself…"); pass `tier: "public"` only when I ask to put it on the public cookbook ("share this note publicly…") — a public note reaches the public site only where the recipe itself is publicly visible, and otherwise stays with everyone who can see the recipe.
 2. Only a genuine "this is now a different dish" warrants an actual new recipe — offer `create_recipe` (a personal recipe in my subtree) for that, not a note.
 3. Confirm what you noted.
